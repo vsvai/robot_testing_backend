@@ -10,25 +10,25 @@ from app.services.telemetry import parse_telemetry_from_log
 router = APIRouter(tags=["robot"])
 
 
-@router.get("/udp/start/{mac}/set/{direction}")
+@router.get("/start/{mac}/set/{direction}")
 def start_move(mac: str, direction: str):
     send_udp_command(mac, f"START:{direction}")
     return PlainTextResponse("start set + UDP sent")
 
 
-@router.get("/udp/stop/{mac}/set")
+@router.get("/stop/{mac}/set")
 def stop_move(mac: str):
     send_udp_command(mac, "STOP")
     return PlainTextResponse("stop set + UDP sent")
 
 
-@router.get("/udp/telemetry/{mac}")
+@router.get("/telemetry/{mac}")
 def get_telemetry(mac: str) -> Telemetry:
     lines = read_log(mac, limit=100)
     return parse_telemetry_from_log(mac, lines)
 
 
-@router.get("/udp/status/{mac}")
+@router.get("/status/{mac}")
 def get_status(mac: str) -> RobotStatus:
     dev = robot_registry.get(mac)
     return RobotStatus(

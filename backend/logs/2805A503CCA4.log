@@ -1,0 +1,2761 @@
+[2026-03-25 12:44:56] ADS value: 21.94
+[2026-03-25 12:44:56] Ver: 3
+[2026-03-25 12:45:58] ADS value: 21.88
+[2026-03-25 12:45:58] Ver: 3
+[2026-03-25 12:46:59] ADS value: 21.93
+[2026-03-25 12:46:59] Ver: 3
+[2026-03-25 12:48:00] ADS value: 21.93
+[2026-03-25 12:48:01] Ver: 3
+[2026-03-25 12:49:02] ADS value: 21.94
+[2026-03-25 12:49:02] Ver: 3
+[2026-03-25 12:50:03] ADS value: 21.92
+[2026-03-25 12:50:03] Ver: 3
+[2026-03-25 12:51:04] ADS value: 21.88
+[2026-03-25 12:51:05] Ver: 3
+[2026-03-25 12:52:06] ADS value: 21.94
+[2026-03-25 12:52:06] Ver: 3
+[2026-03-25 12:53:07] ADS value: 21.93
+[2026-03-25 12:53:07] Ver: 3
+[2026-03-25 12:54:08] ADS value: 21.92
+[2026-03-25 12:54:08] Ver: 3
+[2026-03-25 12:55:09] ADS value: 21.89
+[2026-03-25 12:55:10] Ver: 3
+[2026-03-25 12:56:11] ADS value: 21.87
+[2026-03-25 12:56:11] Ver: 3
+[2026-03-25 12:57:12] ADS value: 21.90
+[2026-03-25 12:57:12] Ver: 3
+[2026-03-25 12:58:13] ADS value: 21.92
+[2026-03-25 12:58:14] Ver: 3
+[2026-03-25 12:59:15] ADS value: 21.90
+[2026-03-25 12:59:15] Ver: 3
+[2026-03-25 13:00:16] ADS value: 21.92
+[2026-03-25 13:00:16] Ver: 3
+[2026-03-25 13:01:18] ADS value: 21.86
+[2026-03-25 13:01:18] Ver: 3
+[2026-03-25 13:02:19] ADS value: 21.92
+[2026-03-25 13:02:19] Ver: 3
+[2026-03-25 13:03:20] ADS value: 21.90
+[2026-03-25 13:03:21] Ver: 3
+[2026-03-25 13:12:10] Starting progressive OTA download...
+[2026-03-25 13:13:42] ADS value: 21.90
+[2026-03-25 13:13:42] Ver: 3
+[2026-03-25 13:14:43] ADS value: 21.90
+[2026-03-25 13:14:43] Ver: 3
+[2026-03-25 13:15:16] Starting progressive OTA download...
+[2026-03-25 13:15:19] OTA Progress: 10%
+[2026-03-25 13:15:22] OTA Progress: 20%
+[2026-03-25 13:15:25] OTA Progress: 30%
+[2026-03-25 13:15:28] OTA Progress: 40%
+[2026-03-25 13:15:31] OTA Progress: 50%
+[2026-03-25 13:15:39] OTA Progress: 60%
+[2026-03-25 13:15:42] OTA Progress: 70%
+[2026-03-25 13:15:45] OTA Progress: 80%
+[2026-03-25 13:15:49] OTA Progress: 90%
+[2026-03-25 13:15:52] OTA Progress: 100%
+[2026-03-25 13:15:53] OTA download complete! Verifying...
+[2026-03-25 13:15:53] OTA 100% Complete! Rebooting now...
+[2026-03-25 13:16:55] ADS value: 21.83
+[2026-03-25 13:16:56] Ver: 3
+[2026-03-25 13:17:57] ADS value: 21.81
+[2026-03-25 13:17:57] Ver: 3
+[2026-03-25 13:30:25] Starting progressive OTA download...
+[2026-03-25 13:30:28] OTA Progress: 10%
+[2026-03-25 13:30:31] OTA Progress: 20%
+[2026-03-25 13:30:34] OTA Progress: 30%
+[2026-03-25 13:30:38] OTA Progress: 40%
+[2026-03-25 13:30:41] OTA Progress: 50%
+[2026-03-25 13:30:45] OTA Progress: 60%
+[2026-03-25 13:30:48] OTA Progress: 70%
+[2026-03-25 13:30:51] OTA Progress: 80%
+[2026-03-25 13:30:54] OTA Progress: 90%
+[2026-03-25 13:30:57] OTA Progress: 100%
+[2026-03-25 13:30:57] OTA download complete! Verifying...
+[2026-03-25 13:30:58] OTA 100% Complete! Rebooting now...
+[2026-03-25 13:32:00] ADS value: 21.80
+[2026-03-25 13:32:00] Ver: 3
+[2026-03-25 13:33:01] ADS value: 21.81
+[2026-03-25 13:33:02] Ver: 3
+[2026-03-25 13:47:17] START command received: left
+[2026-03-25 13:48:49] Starting progressive OTA download...
+[2026-03-25 13:48:53] OTA Progress: 10%
+[2026-03-25 13:48:56] OTA Progress: 20%
+[2026-03-25 13:48:59] OTA Progress: 30%
+[2026-03-25 13:49:02] OTA Progress: 40%
+[2026-03-25 13:49:07] OTA Progress: 50%
+[2026-03-25 13:49:10] OTA Progress: 60%
+[2026-03-25 13:49:13] OTA Progress: 70%
+[2026-03-25 13:49:16] OTA Progress: 80%
+[2026-03-25 13:49:19] OTA Progress: 90%
+[2026-03-25 13:49:22] OTA Progress: 100%
+[2026-03-25 13:49:23] OTA download complete! Verifying...
+[2026-03-25 13:49:23] OTA 100% Complete! Rebooting now...
+[2026-03-25 13:50:26] ADS value: 0.00
+[2026-03-25 13:50:26] Ver: 3
+[2026-03-25 13:50:40] START command received: right
+[2026-03-25 13:50:51] RobotStop_triggered
+[2026-03-25 13:51:01] RobotStop_triggered
+[2026-03-25 13:51:27] ADS value: 0.00
+[2026-03-25 13:51:27] Ver: 3
+[2026-03-25 13:52:27] ADS value: 0.00
+[2026-03-25 13:52:27] Ver: 3
+[2026-03-25 13:53:28] ADS value: 0.00
+[2026-03-25 13:53:28] Ver: 3
+[2026-03-25 13:55:41] Ver: 3
+[2026-03-25 13:58:41] ADS value: 0.00
+[2026-03-25 13:58:41] Ver: 3
+[2026-03-25 13:59:42] ADS value: 0.00
+[2026-03-25 13:59:42] Ver: 3
+[2026-03-25 14:00:42] ADS value: 0.00
+[2026-03-25 14:00:43] Ver: 3
+[2026-03-25 14:02:54] ADS value: 0.00
+[2026-03-25 14:02:55] Ver: 3
+[2026-03-25 14:03:10] Starting progressive OTA download...
+[2026-03-25 14:03:14] OTA Progress: 10%
+[2026-03-25 14:03:17] OTA Progress: 20%
+[2026-03-25 14:03:21] OTA Progress: 30%
+[2026-03-25 14:04:44] Starting progressive OTA download...
+[2026-03-25 14:04:48] OTA Progress: 10%
+[2026-03-25 14:04:52] OTA Progress: 20%
+[2026-03-25 14:04:55] OTA Progress: 30%
+[2026-03-25 14:04:58] OTA Progress: 40%
+[2026-03-25 14:05:01] OTA Progress: 50%
+[2026-03-25 14:05:05] OTA Progress: 60%
+[2026-03-25 14:05:08] OTA Progress: 70%
+[2026-03-25 14:05:11] OTA Progress: 80%
+[2026-03-25 14:05:15] OTA Progress: 90%
+[2026-03-25 14:05:20] OTA Progress: 100%
+[2026-03-25 14:05:20] OTA download complete! Verifying...
+[2026-03-25 14:05:21] OTA 100% Complete! Rebooting now...
+[2026-03-25 14:06:24] ADS value: 0.00
+[2026-03-25 14:06:24] Ver: 3
+[2026-03-25 14:07:24] ADS value: 0.00
+[2026-03-25 14:07:25] Ver: 3
+[2026-03-25 14:07:40] Starting progressive OTA download...
+[2026-03-25 14:07:44] OTA Progress: 10%
+[2026-03-25 14:07:47] OTA Progress: 20%
+[2026-03-25 14:07:51] OTA Progress: 30%
+[2026-03-25 14:07:55] OTA Progress: 40%
+[2026-03-25 14:07:59] OTA Progress: 50%
+[2026-03-25 14:08:06] OTA Progress: 60%
+[2026-03-25 14:08:09] OTA Progress: 70%
+[2026-03-25 14:08:14] OTA Progress: 80%
+[2026-03-25 14:08:17] OTA Progress: 90%
+[2026-03-25 14:08:20] OTA Progress: 100%
+[2026-03-25 14:08:20] OTA download complete! Verifying...
+[2026-03-25 14:08:21] OTA 100% Complete! Rebooting now...
+[2026-03-25 14:09:24] ADS value: 0.00
+[2026-03-25 14:09:24] Ver: 40
+[2026-03-25 14:10:24] ADS value: 0.00
+[2026-03-25 14:10:25] Ver: 40
+[2026-03-25 14:11:21] Starting progressive OTA download...
+[2026-03-25 14:11:29] OTA Progress: 10%
+[2026-03-25 14:11:30] OTA Progress: 20%
+[2026-03-25 14:11:34] OTA Progress: 30%
+[2026-03-25 14:11:40] OTA Progress: 40%
+[2026-03-25 14:11:43] OTA Progress: 50%
+[2026-03-25 14:11:47] OTA Progress: 60%
+[2026-03-25 14:11:50] OTA Progress: 70%
+[2026-03-25 14:11:57] OTA Progress: 80%
+[2026-03-25 14:12:00] OTA Progress: 90%
+[2026-03-25 14:12:04] OTA Progress: 100%
+[2026-03-25 14:12:04] OTA download complete! Verifying...
+[2026-03-25 14:12:05] OTA 100% Complete! Rebooting now...
+[2026-03-25 14:13:07] ADS value: 0.00
+[2026-03-25 14:13:08] Ver: 40
+[2026-03-25 14:14:08] ADS value: 0.00
+[2026-03-25 14:14:09] Ver: 40
+[2026-03-25 14:16:27] ADS value: 0.00
+[2026-03-25 14:16:27] Ver: 40
+[2026-03-27 14:16:03] Starting progressive OTA download...
+[2026-03-27 14:16:07] OTA Progress: 10%
+[2026-03-27 14:16:10] OTA Progress: 20%
+[2026-03-27 14:16:13] OTA Progress: 30%
+[2026-03-27 14:16:16] OTA Progress: 40%
+[2026-03-27 14:16:20] OTA Progress: 50%
+[2026-03-27 14:16:22] OTA Progress: 60%
+[2026-03-27 14:16:26] OTA Progress: 70%
+[2026-03-27 14:16:29] OTA Progress: 80%
+[2026-03-27 14:16:32] OTA Progress: 90%
+[2026-03-27 14:16:35] OTA Progress: 100%
+[2026-03-27 14:16:36] OTA download complete! Verifying...
+[2026-03-27 14:16:36] OTA 100% Complete! Rebooting now...
+[2026-03-27 14:17:12] MOVE command accepted: dir=backward, ms=1000, brush=off
+[2026-03-27 14:17:12] timed_move start dir=backward,ms=1000,brush=off
+[2026-03-27 14:17:14] timed_move stop: duration_done
+[2026-03-27 14:17:33] START command received: right
+[2026-03-27 14:17:45] RobotStop_triggered
+[2026-03-27 14:17:57] RobotStop_triggered
+[2026-03-27 14:17:58] ADS value: 0.00
+[2026-03-27 14:17:58] Ver: 401
+[2026-03-27 14:18:09] START command received: right
+[2026-03-27 14:19:06] stop_maxrtime
+[2026-03-27 14:19:06] RobotStop_triggered
+[2026-03-27 14:20:03] maxruntime
+[2026-03-27 14:20:04] RobotStop_triggered
+[2026-03-27 14:20:05] ADS value: 0.00
+[2026-03-27 14:20:06] Ver: 401
+[2026-03-27 14:20:20] Starting progressive OTA download...
+[2026-03-27 14:20:33] OTA Progress: 10%
+[2026-03-27 14:20:38] OTA Progress: 20%
+[2026-03-27 14:20:48] OTA Progress: 30%
+[2026-03-27 14:20:57] OTA Progress: 40%
+[2026-03-27 14:21:02] OTA Progress: 50%
+[2026-03-27 14:21:09] OTA Progress: 60%
+[2026-03-27 14:21:14] OTA Progress: 70%
+[2026-03-27 14:21:21] OTA Progress: 80%
+[2026-03-27 14:21:27] OTA Progress: 90%
+[2026-03-27 14:21:34] OTA Progress: 100%
+[2026-03-27 14:21:35] OTA download complete! Verifying...
+[2026-03-27 14:21:36] OTA 100% Complete! Rebooting now...
+[2026-03-27 14:22:07] STOP via API
+[2026-03-27 14:22:08] STOP during run
+[2026-03-27 14:22:37] RobotStop_triggered
+[2026-03-27 14:23:06] RobotStop_triggered
+[2026-03-27 14:23:07] ADS value: 0.00
+[2026-03-27 14:23:07] Ver: 401
+[2026-03-27 14:23:34] RobotStop_triggered
+[2026-03-27 14:23:40] RobotStop_triggered
+[2026-03-28 20:38:36] ADS value: 21.60
+[2026-03-28 20:38:37] Ver: 401
+[2026-03-28 20:39:38] ADS value: 21.60
+[2026-03-28 20:39:38] Ver: 401
+[2026-03-28 20:40:39] ADS value: 21.61
+[2026-03-28 20:40:39] Ver: 401
+[2026-03-28 20:41:41] ADS value: 21.60
+[2026-03-28 20:41:41] Ver: 401
+[2026-03-28 20:42:42] ADS value: 21.62
+[2026-03-28 20:42:42] Ver: 401
+[2026-03-28 20:43:43] ADS value: 21.63
+[2026-03-28 20:43:43] Ver: 401
+[2026-03-28 20:44:45] ADS value: 21.61
+[2026-03-28 20:44:45] Ver: 401
+[2026-03-28 20:45:46] ADS value: 21.61
+[2026-03-28 20:45:47] Ver: 401
+[2026-03-28 20:46:48] ADS value: 21.63
+[2026-03-28 21:38:08] Ver: 401
+[2026-03-28 21:39:10] ADS value: 21.65
+[2026-03-28 21:48:24] ADS value: 21.66
+[2026-03-28 21:49:31] ADS value: 21.64
+[2026-03-29 07:46:46] ADS value: 23.03
+[2026-03-29 07:46:47] Ver: 401
+[2026-03-29 07:47:54] Ver: 401
+[2026-03-29 07:48:58] ADS value: 23.05
+[2026-03-29 07:48:59] Ver: 401
+[2026-03-29 07:52:09] Ver: 401
+[2026-03-29 07:55:12] ADS value: 23.19
+[2026-03-29 07:55:12] Ver: 401
+[2026-03-29 07:56:14] ADS value: 23.23
+[2026-03-29 07:56:14] Ver: 401
+[2026-03-29 07:57:16] ADS value: 23.08
+[2026-03-29 07:57:16] Ver: 401
+[2026-03-29 07:59:37] ADS value: 23.13
+[2026-03-29 07:59:38] Ver: 401
+[2026-03-29 08:00:39] ADS value: 23.12
+[2026-03-29 08:00:39] Ver: 401
+[2026-03-29 08:01:40] ADS value: 23.09
+[2026-03-29 08:01:41] Ver: 401
+[2026-03-29 08:02:48] ADS value: 23.07
+[2026-03-29 08:03:52] ADS value: 23.26
+[2026-03-29 08:03:53] Ver: 401
+[2026-03-29 08:05:57] ADS value: 23.23
+[2026-03-29 08:05:57] Ver: 401
+[2026-03-29 10:11:44] MOVE command accepted: dir=forward, ms=10000, brush=off
+[2026-03-29 10:11:46] timed_move start dir=forward,ms=10000,brush=off
+[2026-03-29 10:11:56] timed_move stop: duration_done
+[2026-03-29 10:12:07] MOVE command accepted: dir=forward, ms=10000, brush=off
+[2026-03-29 10:12:08] timed_move start dir=forward,ms=10000,brush=off
+[2026-03-29 10:12:22] timed_move stop: duration_done
+[2026-03-29 10:12:24] ADS value: 24.12
+[2026-03-29 10:12:25] Ver: 401
+[2026-03-29 10:12:33] MOVE command accepted: dir=forward, ms=20000, brush=off
+[2026-03-29 10:12:33] timed_move start dir=forward,ms=20000,brush=off
+[2026-03-29 10:12:54] timed_move stop: duration_done
+[2026-03-29 10:13:05] MOVE command accepted: dir=forward, ms=20000, brush=off
+[2026-03-29 10:13:05] timed_move start dir=forward,ms=20000,brush=off
+[2026-03-29 10:13:26] timed_move stop: duration_done
+[2026-03-29 10:13:29] ADS value: 24.07
+[2026-03-29 10:13:30] Ver: 401
+[2026-03-29 10:17:36] MOVE command accepted: dir=forward, ms=10000, brush=off
+[2026-03-29 10:17:37] timed_move start dir=forward,ms=10000,brush=off
+[2026-03-29 10:17:49] timed_move stop: duration_done
+[2026-03-29 10:18:00] ADS value: 24.09
+[2026-03-29 10:18:01] Ver: 401
+[2026-03-29 10:20:13] Starting progressive OTA download...
+[2026-03-29 10:20:14] OTA Failed: Not enough flash space
+[2026-03-29 10:20:20] MOVE command accepted: dir=forward, ms=10000, brush=off
+[2026-03-29 10:20:20] timed_move start dir=forward,ms=10000,brush=off
+[2026-03-29 10:21:08] ADS value: 24.15
+[2026-03-29 10:22:21] OTA Failed: Not enough flash space
+[2026-03-29 10:22:24] ADS value: 24.06
+[2026-03-29 10:22:26] Ver: 401
+[2026-03-29 10:30:23] MOVE command accepted: dir=forward, ms=10000, brush=off
+[2026-03-29 10:30:24] timed_move start dir=forward,ms=10000,brush=off
+[2026-03-29 10:33:07] MOVE command accepted: dir=forward, ms=20000, brush=off
+[2026-03-29 10:33:08] timed_move start dir=forward,ms=20000,brush=off
+[2026-03-29 10:33:30] timed_move stop: duration_done
+[2026-03-29 10:33:37] Starting progressive OTA download...
+[2026-03-29 10:33:50] OTA Progress: 10%
+[2026-03-29 10:34:02] OTA Progress: 20%
+[2026-03-29 10:34:10] OTA Progress: 30%
+[2026-03-29 10:34:20] OTA Progress: 40%
+[2026-03-29 10:34:30] OTA Progress: 50%
+[2026-03-29 10:34:39] OTA Progress: 60%
+[2026-03-29 10:34:49] OTA Progress: 70%
+[2026-03-29 10:34:58] OTA Progress: 80%
+[2026-03-29 10:35:06] OTA Progress: 90%
+[2026-03-29 10:35:13] OTA Progress: 100%
+[2026-03-29 10:35:14] OTA download complete! Verifying...
+[2026-03-29 10:35:15] OTA 100% Complete! Rebooting now...
+[2026-03-29 10:36:00] MOVE command accepted: dir=forward, ms=20000, brush=off
+[2026-03-29 10:36:02] timed_move start dir=forward,ms=20000,brush=off
+[2026-03-29 10:36:24] timed_move stop: duration_done
+[2026-03-29 10:36:29] ADS value: 24.06
+[2026-03-29 10:36:30] Ver: 5
+[2026-03-29 10:36:51] START command received: left
+[2026-03-29 10:37:33] RobotStop_triggered
+[2026-03-29 10:37:33] running_opposite
+[2026-03-29 10:37:40] RobotStop_triggered
+[2026-03-29 10:37:42] ADS value: 24.04
+[2026-03-29 10:37:43] Ver: 5
+[2026-03-29 10:38:45] ADS value: 24.14
+[2026-03-29 10:38:46] Ver: 5
+[2026-03-29 10:39:14] START command received: left
+[2026-03-29 10:39:21] RobotStop_triggered
+[2026-03-29 10:39:23] running_opposite
+[2026-03-29 10:48:33] ADS value: 24.16
+[2026-03-29 10:48:34] Ver: 5
+[2026-03-29 10:49:25] MOVE command accepted: dir=forward, ms=20000, brush=off
+[2026-03-29 10:49:26] timed_move start dir=forward,ms=20000,brush=off
+[2026-03-29 10:49:47] timed_move stop: duration_done
+[2026-03-29 10:49:54] Starting progressive OTA download...
+[2026-03-29 10:50:05] OTA Progress: 10%
+[2026-03-29 10:50:15] OTA Progress: 20%
+[2026-03-29 10:50:24] OTA Progress: 30%
+[2026-03-29 10:50:35] OTA Progress: 40%
+[2026-03-29 10:50:46] OTA Progress: 50%
+[2026-03-29 10:50:56] OTA Progress: 60%
+[2026-03-29 10:51:05] OTA Progress: 70%
+[2026-03-29 10:51:16] OTA Progress: 80%
+[2026-03-29 10:51:30] OTA Progress: 90%
+[2026-03-29 10:51:40] OTA Progress: 100%
+[2026-03-29 10:51:41] OTA download complete! Verifying...
+[2026-03-29 10:51:42] OTA 100% Complete! Rebooting now...
+[2026-03-29 10:51:54] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:51:59] MOVE command accepted: dir=backward, ms=20000, brush=off
+[2026-03-29 10:52:00] timed_move start dir=backward,ms=20000,brush=off
+[2026-03-29 10:52:22] timed_move stop: duration_done
+[2026-03-29 10:52:24] RIGHT trigger: true, LEFT trigger: true
+[2026-03-29 10:52:27] START command received: left
+[2026-03-29 10:52:36] RobotStop_triggered
+[2026-03-29 10:52:37] RIGHT trigger: true, LEFT trigger: false
+[2026-03-29 10:52:39] running_opposite
+[2026-03-29 10:52:59] ADS value: 24.03
+[2026-03-29 10:53:01] Ver: 5
+[2026-03-29 10:53:45] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:53:47] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:53:50] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:53:52] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:53:53] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:53:55] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:53:57] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:53:59] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:02] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:04] ADS value: 24.15
+[2026-03-29 10:54:05] Ver: 5
+[2026-03-29 10:54:13] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:14] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:16] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:18] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:20] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:21] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:24] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:27] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:31] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:33] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:34] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:39] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:41] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:44] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:46] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:49] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:50] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:52] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:54] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:54:56] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:56:22] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:56:25] ADS value: 24.01
+[2026-03-29 10:56:27] Ver: 5
+[2026-03-29 10:56:44] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:56:48] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:56:52] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:56:53] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:56:55] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:56:57] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:56:58] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:00] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:02] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:04] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:06] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:07] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:09] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:11] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:13] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:15] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:17] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:19] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:20] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:22] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:27] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:30] ADS value: 24.09
+[2026-03-29 10:57:32] Ver: 5
+[2026-03-29 10:57:47] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:49] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:51] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:54] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:55] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:57] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:57:59] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:02] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:03] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:06] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:08] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:10] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:18] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:20] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:21] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:24] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:31] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:33] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:34] ADS value: 24.12
+[2026-03-29 10:58:36] Ver: 5
+[2026-03-29 10:58:56] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:58:59] MOVE command accepted: dir=forward, ms=2000, brush=off
+[2026-03-29 10:59:01] timed_move start dir=forward,ms=2000,brush=off
+[2026-03-29 10:59:04] timed_move stop: duration_done
+[2026-03-29 10:59:05] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:07] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:09] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:11] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:13] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:15] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:20] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:22] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:24] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:31] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:33] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:35] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:37] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:39] ADS value: 24.15
+[2026-03-29 10:59:41] Ver: 5
+[2026-03-29 10:59:49] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:50] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 10:59:52] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:00:01] Starting progressive OTA download...
+[2026-03-29 11:00:12] OTA Progress: 10%
+[2026-03-29 11:00:21] OTA Progress: 20%
+[2026-03-29 11:00:31] OTA Progress: 30%
+[2026-03-29 11:00:41] OTA Progress: 40%
+[2026-03-29 11:00:51] OTA Progress: 50%
+[2026-03-29 11:01:01] OTA Progress: 60%
+[2026-03-29 11:01:11] OTA Progress: 70%
+[2026-03-29 11:01:22] OTA Progress: 80%
+[2026-03-29 11:01:31] OTA Progress: 90%
+[2026-03-29 11:01:43] OTA Progress: 100%
+[2026-03-29 11:01:44] OTA download complete! Verifying...
+[2026-03-29 11:01:46] OTA 100% Complete! Rebooting now...
+[2026-03-29 11:01:59] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:02:01] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:02:04] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:02:05] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:02:07] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:02:11] START command received: left
+[2026-03-29 11:02:24] RobotStop_triggered
+[2026-03-29 11:02:25] RIGHT trigger: true, LEFT trigger: false
+[2026-03-29 11:02:27] running_opposite
+[2026-03-29 11:04:37] RobotStop_triggered
+[2026-03-29 11:04:38] RIGHT trigger: true, LEFT trigger: true
+[2026-03-29 11:05:03] RobotStop_triggered
+[2026-03-29 11:05:04] RIGHT trigger: false, LEFT trigger: true
+[2026-03-29 11:07:42] STOP via API
+[2026-03-29 11:07:45] START command received: left
+[2026-03-29 11:07:57] RobotStop_triggered
+[2026-03-29 11:07:59] RIGHT trigger: true, LEFT trigger: false
+[2026-03-29 11:08:03] running_opposite
+[2026-03-29 11:08:14] RobotStop_triggered
+[2026-03-29 11:08:48] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:08:49] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:08:53] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:08:56] START command received: left
+[2026-03-29 11:09:09] RobotStop_triggered
+[2026-03-29 11:09:10] RIGHT trigger: true, LEFT trigger: false
+[2026-03-29 11:09:12] running_opposite
+[2026-03-29 11:09:23] RobotStop_triggered
+[2026-03-29 11:09:24] RIGHT trigger: false, LEFT trigger: true
+[2026-03-29 11:09:27] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:09:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:09:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:09:33] ADS value: 24.11
+[2026-03-29 11:09:34] Ver: 5
+[2026-03-29 11:09:43] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:09:44] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:09:52] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:09:54] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:09:55] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:09:59] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:10:01] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:10:03] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:10:55] ADS value: 23.97
+[2026-03-29 11:10:57] Ver: 5
+[2026-03-29 11:11:02] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:04] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:06] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:08] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:11] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:12] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:15] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:18] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:20] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:24] MOVE command accepted: dir=forward, ms=5000, brush=off
+[2026-03-29 11:11:25] timed_move start dir=forward,ms=5000,brush=off
+[2026-03-29 11:11:31] timed_move stop: duration_done
+[2026-03-29 11:11:34] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:37] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:39] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:40] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:43] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:45] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:48] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:49] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:51] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:53] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:56] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:11:58] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:00] ADS value: 24.04
+[2026-03-29 11:12:02] Ver: 5
+[2026-03-29 11:12:06] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:15] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:15] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:15] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:17] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:19] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:21] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:24] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:32] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:36] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:37] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:40] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:42] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:44] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:46] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:48] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:51] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:53] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:54] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:12:56] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:00] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:03] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:05] ADS value: 24.12
+[2026-03-29 11:13:06] Ver: 5
+[2026-03-29 11:13:15] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:17] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:18] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:21] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:23] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:25] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:27] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:29] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:33] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:36] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:38] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:40] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:42] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:45] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:48] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:51] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:52] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:54] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:56] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:13:58] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:00] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:02] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:04] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:06] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:08] ADS value: 23.98
+[2026-03-29 11:14:09] Ver: 5
+[2026-03-29 11:14:23] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:24] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:34] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:37] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:38] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:40] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:43] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:45] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:48] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:14:50] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:15:04] RobotStop_triggered
+[2026-03-29 11:15:05] RIGHT trigger: true, LEFT trigger: false
+[2026-03-29 11:15:07] running_opposite
+[2026-03-29 11:15:43] STOP via API
+[2026-03-29 11:15:46] ADS value: 23.99
+[2026-03-29 11:15:48] Ver: 5
+[2026-03-29 11:15:57] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:00] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:02] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:03] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:05] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:08] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:10] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:12] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:14] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:15] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:20] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:24] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:25] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:27] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:29] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:32] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:35] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:37] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:38] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:47] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:50] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:16:52] ADS value: 24.12
+[2026-03-29 11:16:53] Ver: 5
+[2026-03-29 11:17:00] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:02] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:04] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:05] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:08] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:10] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:12] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:13] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:15] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:16] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:20] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:22] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:24] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:25] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:33] MOVE command accepted: dir=forward, ms=1000, brush=off
+[2026-03-29 11:17:34] timed_move start dir=forward,ms=1000,brush=off
+[2026-03-29 11:17:36] timed_move stop: duration_done
+[2026-03-29 11:17:37] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:39] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:41] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:43] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:44] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:46] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:49] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:52] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:53] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:17:55] ADS value: 24.03
+[2026-03-29 11:17:56] Ver: 5
+[2026-03-29 11:18:06] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:08] RIGHT trigger: true, LEFT trigger: true
+[2026-03-29 11:18:10] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:13] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:14] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:17] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:19] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:22] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:24] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:29] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:33] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:35] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:36] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:38] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:40] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:43] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:53] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:53] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:57] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:18:59] ADS value: 24.11
+[2026-03-29 11:19:00] Ver: 5
+[2026-03-29 11:19:07] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:11] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:12] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:14] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:16] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:18] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:21] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:23] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:25] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:31] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:33] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:36] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:38] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:40] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:43] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:45] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:48] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:49] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:52] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:55] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:19:58] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:20:01] MOVE command accepted: dir=forward, ms=1000, brush=off
+[2026-03-29 11:20:02] timed_move start dir=forward,ms=1000,brush=off
+[2026-03-29 11:20:04] timed_move stop: duration_done
+[2026-03-29 11:20:11] Starting progressive OTA download...
+[2026-03-29 11:20:26] OTA Progress: 10%
+[2026-03-29 11:20:36] OTA Progress: 20%
+[2026-03-29 11:20:46] OTA Progress: 30%
+[2026-03-29 11:20:56] OTA Progress: 40%
+[2026-03-29 11:21:05] OTA Progress: 50%
+[2026-03-29 11:21:15] OTA Progress: 60%
+[2026-03-29 11:21:25] OTA Progress: 70%
+[2026-03-29 11:21:36] OTA Progress: 80%
+[2026-03-29 11:21:47] OTA Progress: 90%
+[2026-03-29 11:22:00] OTA Progress: 100%
+[2026-03-29 11:22:01] OTA download complete! Verifying...
+[2026-03-29 11:22:02] OTA 100% Complete! Rebooting now...
+[2026-03-29 11:22:13] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:22:14] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:22:17] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:22:19] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:22:28] START command received: left
+[2026-03-29 11:23:02] running_opposite
+[2026-03-29 11:23:23] RobotStop_triggered
+[2026-03-29 11:23:24] RIGHT trigger: false, LEFT trigger: true
+[2026-03-29 11:23:27] ADS value: 24.01
+[2026-03-29 11:23:28] Ver: 7
+[2026-03-29 11:23:33] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:23:35] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:23:37] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:23:38] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:23:41] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:23:43] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:23:45] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:23:50] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:23:54] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:23:55] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:23:57] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:23:59] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:00] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:02] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:06] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:08] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:10] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:12] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:14] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:17] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:18] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:20] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:22] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:24] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:31] ADS value: 23.95
+[2026-03-29 11:24:32] Ver: 7
+[2026-03-29 11:24:36] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:38] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:40] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:43] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:45] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:46] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:48] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:51] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:54] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:57] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:24:59] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:01] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:02] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:04] RIGHT trigger: true, LEFT trigger: true
+[2026-03-29 11:25:07] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:08] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:10] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:12] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:14] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:16] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:19] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:21] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:23] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:25] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:32] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:33] ADS value: 24.06
+[2026-03-29 11:25:35] Ver: 7
+[2026-03-29 11:25:44] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:45] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:48] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:49] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:51] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:55] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:56] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:25:58] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:00] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:02] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:06] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:08] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:10] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:11] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:13] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:15] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:19] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:21] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:23] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:35] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:36] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:38] ADS value: 24.06
+[2026-03-29 11:26:40] Ver: 7
+[2026-03-29 11:26:51] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:53] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:55] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:26:58] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:00] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:01] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:03] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:05] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:07] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:10] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:12] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:15] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:17] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:18] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:22] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:23] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:25] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:27] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:29] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:31] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:35] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:36] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:39] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:40] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:42] ADS value: 24.10
+[2026-03-29 11:27:44] Ver: 7
+[2026-03-29 11:27:53] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:55] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:27:58] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:28:00] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:28:02] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:28:03] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:28:05] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:28:07] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:28:10] START command received: left
+[2026-03-29 11:28:34] RobotStop_triggered
+[2026-03-29 11:28:40] RIGHT trigger: true, LEFT trigger: false
+[2026-03-29 11:28:40] running_opposite
+[2026-03-29 11:28:59] RobotStop_triggered
+[2026-03-29 11:29:00] RIGHT trigger: false, LEFT trigger: true
+[2026-03-29 11:29:01] ADS value: 23.96
+[2026-03-29 11:29:02] Ver: 7
+[2026-03-29 11:29:15] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:29:17] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:29:18] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:29:20] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:29:24] START command received: right
+[2026-03-29 11:29:46] RobotStop_triggered
+[2026-03-29 11:29:47] RIGHT trigger: false, LEFT trigger: true
+[2026-03-29 11:29:50] running_front
+[2026-03-29 11:30:11] RobotStop_triggered
+[2026-03-29 11:30:13] RIGHT trigger: true, LEFT trigger: false
+[2026-03-29 11:30:14] ADS value: 23.95
+[2026-03-29 11:30:15] Ver: 7
+[2026-03-29 11:30:23] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:30:25] START command received: left
+[2026-03-29 11:30:59] running_opposite
+[2026-03-29 11:32:53] RobotStop_triggered
+[2026-03-29 11:32:54] RIGHT trigger: true, LEFT trigger: true
+[2026-03-29 11:32:56] ADS value: 23.95
+[2026-03-29 11:32:57] Ver: 7
+[2026-03-29 11:33:04] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:05] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:12] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:31] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:35] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:37] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:38] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:40] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:42] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:43] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:48] MOVE command accepted: dir=forward, ms=1000, brush=off
+[2026-03-29 11:33:51] timed_move start dir=forward,ms=1000,brush=off
+[2026-03-29 11:33:52] timed_move stop: duration_done
+[2026-03-29 11:33:53] RIGHT trigger: true, LEFT trigger: false
+[2026-03-29 11:33:55] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:33:58] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:00] ADS value: 24.08
+[2026-03-29 11:34:01] Ver: 7
+[2026-03-29 11:34:06] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:09] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:11] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:13] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:17] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:19] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:21] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:24] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:29] MOVE command accepted: dir=forward, ms=1000, brush=off
+[2026-03-29 11:34:31] timed_move start dir=forward,ms=1000,brush=off
+[2026-03-29 11:34:33] timed_move stop: duration_done
+[2026-03-29 11:34:35] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:38] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:40] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:42] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:44] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:34:57] Starting progressive OTA download...
+[2026-03-29 11:35:08] OTA Progress: 10%
+[2026-03-29 11:35:19] OTA Progress: 20%
+[2026-03-29 11:35:29] OTA Progress: 30%
+[2026-03-29 11:35:39] OTA Progress: 40%
+[2026-03-29 11:35:49] OTA Progress: 50%
+[2026-03-29 11:36:01] OTA Progress: 60%
+[2026-03-29 11:36:11] OTA Progress: 70%
+[2026-03-29 11:36:20] OTA Progress: 80%
+[2026-03-29 11:36:39] OTA Progress: 90%
+[2026-03-29 11:36:57] OTA STUCK: Download timed out at 1065731 bytes
+[2026-03-29 11:36:59] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:37:02] ADS value: 23.93
+[2026-03-29 11:37:04] Ver: 7
+[2026-03-29 11:37:23] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:37:24] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:37:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:37:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:37:31] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:37:32] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:37:35] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:37:36] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:37:38] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:37:40] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:37:42] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:37:44] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:37:48] MOVE command accepted: dir=forward, ms=1000, brush=off
+[2026-03-29 11:37:49] timed_move start dir=forward,ms=1000,brush=off
+[2026-03-29 11:37:52] timed_move stop: duration_done
+[2026-03-29 11:38:01] Starting progressive OTA download...
+[2026-03-29 11:38:10] OTA Progress: 10%
+[2026-03-29 11:38:20] OTA Progress: 20%
+[2026-03-29 11:38:29] OTA Progress: 30%
+[2026-03-29 11:38:38] OTA Progress: 40%
+[2026-03-29 11:38:47] OTA Progress: 50%
+[2026-03-29 11:39:00] OTA Progress: 60%
+[2026-03-29 11:39:11] OTA Progress: 70%
+[2026-03-29 11:39:20] OTA Progress: 80%
+[2026-03-29 11:39:30] OTA Progress: 90%
+[2026-03-29 11:39:38] OTA Progress: 100%
+[2026-03-29 11:39:39] OTA download complete! Verifying...
+[2026-03-29 11:39:41] OTA 100% Complete! Rebooting now...
+[2026-03-29 11:40:21] RIGHT trigger: true, LEFT trigger: true
+[2026-03-29 11:40:24] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:40:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:40:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:40:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:40:31] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:40:33] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:40:37] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:40:39] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:40:41] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:40:42] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:40:44] ADS value: 24.03
+[2026-03-29 11:40:46] Ver: 7
+[2026-03-29 11:40:51] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:40:53] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:40:55] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:40:56] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:03] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:04] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:06] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:09] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:12] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:14] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:16] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:18] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:19] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:21] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:26] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:32] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:34] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:37] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:39] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:41] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:43] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:44] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:46] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:48] ADS value: 23.95
+[2026-03-29 11:41:50] Ver: 7
+[2026-03-29 11:41:56] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:41:58] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:01] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:04] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:06] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:08] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:10] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:13] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:16] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:19] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:20] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:23] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:25] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:31] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:34] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:36] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:38] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:40] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:42] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:45] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:47] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:48] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:51] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:42:52] ADS value: 24.03
+[2026-03-29 11:42:53] Ver: 7
+[2026-03-29 11:43:20] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:21] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:23] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:24] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:27] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:30] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:32] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:35] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:36] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:38] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:41] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:43] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:44] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:46] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:48] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:50] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:52] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:54] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:43:55] ADS value: 24.07
+[2026-03-29 11:43:56] Ver: 7
+[2026-03-29 11:44:05] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:06] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:08] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:10] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:12] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:16] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:18] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:20] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:22] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:25] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:28] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:29] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:32] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:34] RIGHT trigger: false, LEFT trigger: false
+[2026-03-29 11:44:37] MOVE command accepted: dir=forward, ms=1000, brush=off
+[2026-03-29 11:44:39] timed_move start dir=forward,ms=1000,brush=off
+[2026-03-29 11:44:41] timed_move stop: duration_done
+[2026-03-29 11:44:50] Starting progressive OTA download...
+[2026-03-29 11:45:02] OTA Progress: 10%
+[2026-03-29 11:45:17] OTA Progress: 20%
+[2026-03-29 11:45:27] OTA Progress: 30%
+[2026-03-29 11:45:36] OTA Progress: 40%
+[2026-03-29 11:45:49] OTA Progress: 50%
+[2026-03-29 11:45:59] OTA Progress: 60%
+[2026-03-29 11:46:10] OTA Progress: 70%
+[2026-03-29 11:46:21] OTA Progress: 80%
+[2026-03-29 11:46:29] OTA Progress: 90%
+[2026-03-29 11:46:39] OTA Progress: 100%
+[2026-03-29 11:46:40] OTA download complete! Verifying...
+[2026-03-29 11:46:42] OTA 100% Complete! Rebooting now...
+[2026-03-29 11:47:56] ADS value: 23.94
+[2026-03-29 11:47:57] Ver: 7
+[2026-03-29 11:49:16] ADS value: 24.07
+[2026-03-29 11:49:18] Ver: 7
+[2026-03-29 11:49:31] ADS value: 24.06
+[2026-03-29 11:51:46] OTA Progress: 30%
+[2026-03-29 11:51:56] OTA Progress: 40%
+[2026-03-29 11:52:06] OTA Progress: 50%
+[2026-03-29 11:52:16] OTA Progress: 60%
+[2026-03-29 11:52:27] OTA Progress: 70%
+[2026-03-29 11:52:36] OTA Progress: 80%
+[2026-03-29 11:52:46] OTA Progress: 90%
+[2026-03-29 11:52:56] OTA Progress: 100%
+[2026-03-29 11:52:58] OTA download complete! Verifying...
+[2026-03-29 11:53:00] OTA 100% Complete! Rebooting now...
+[2026-03-29 11:53:37] Booted done
+[2026-03-29 11:53:40] ADS value: 24.03
+[2026-03-29 11:53:42] Ver: 7
+[2026-03-29 11:53:55] ADS value: 23.99
+[2026-03-29 11:53:57] Ver: 7
+[2026-03-29 11:54:20] ADS value: 23.98
+[2026-03-29 11:54:22] Ver: 7
+[2026-03-29 11:55:07] ADS value: 24.05
+[2026-03-29 11:55:08] Ver: 7
+[2026-03-29 11:55:20] ADS value: 23.98
+[2026-03-29 11:55:21] Ver: 7
+[2026-03-29 11:55:45] ADS value: 24.01
+[2026-03-29 11:55:46] Ver: 7
+[2026-03-29 12:05:21] OTA Progress: 10%
+[2026-03-29 12:05:27] OTA Progress: 20%
+[2026-03-29 12:05:32] OTA Progress: 30%
+[2026-03-29 12:05:38] OTA Progress: 40%
+[2026-03-29 12:05:43] OTA Progress: 50%
+[2026-03-29 12:05:51] OTA Progress: 60%
+[2026-03-29 12:05:55] OTA Progress: 70%
+[2026-03-29 12:06:01] OTA Progress: 80%
+[2026-03-29 12:06:08] OTA Progress: 90%
+[2026-03-29 12:06:12] OTA Progress: 100%
+[2026-03-29 12:06:13] OTA download complete! Verifying...
+[2026-03-29 12:06:14] OTA 100% Complete! Rebooting now...
+[2026-03-29 12:06:52] Booted done
+[2026-03-29 12:06:54] ADS value: 24.04
+[2026-03-29 12:06:54] Ver: 7
+[2026-03-29 12:07:06] ADS value: 24.04
+[2026-03-29 12:07:06] Ver: 7
+[2026-03-29 12:07:18] ADS value: 24.04
+[2026-03-29 12:07:19] Ver: 7
+[2026-03-29 12:07:31] ADS value: 24.04
+[2026-03-29 12:07:32] Ver: 7
+[2026-03-29 12:07:44] ADS value: 24.04
+[2026-03-29 12:07:45] Ver: 7
+[2026-03-29 12:07:58] ADS value: 24.04
+[2026-03-29 12:13:02] ADS value: 24.04
+[2026-03-29 12:13:12] ADS value: 24.04
+[2026-03-29 12:13:12] Ver: 7
+[2026-03-29 12:13:12] ADS value: 24.04
+[2026-03-29 12:13:12] Ver: 7
+[2026-03-29 12:13:12] ADS value: 24.05
+[2026-03-29 12:13:12] Ver: 7
+[2026-03-29 12:13:18] Starting progressive OTA download...
+[2026-03-29 12:13:24] OTA Progress: 10%
+[2026-03-29 12:13:31] OTA Progress: 20%
+[2026-03-29 12:13:37] OTA Progress: 30%
+[2026-03-29 12:13:44] OTA Progress: 40%
+[2026-03-29 12:13:51] OTA Progress: 50%
+[2026-03-29 12:13:57] OTA Progress: 60%
+[2026-03-29 12:14:02] OTA Progress: 70%
+[2026-03-29 12:14:08] OTA Progress: 80%
+[2026-03-29 12:14:13] OTA Progress: 90%
+[2026-03-29 12:14:19] OTA Progress: 100%
+[2026-03-29 12:14:19] OTA download complete! Verifying...
+[2026-03-29 12:14:20] OTA 100% Complete! Rebooting now...
+[2026-03-29 12:14:33] START command received: left
+[2026-03-29 12:14:46] RobotStop_triggered
+[2026-03-29 12:14:48] running_opposite
+[2026-03-29 12:14:55] RobotStop_triggered
+[2026-03-29 12:15:24] ADS value: 24.03
+[2026-03-29 12:15:25] Ver: 401
+[2026-03-29 12:15:28] MOVE command accepted: dir=forward, ms=25000, brush=off
+[2026-03-29 12:15:29] timed_move start dir=forward,ms=25000,brush=off
+[2026-03-29 12:15:55] timed_move stop: duration_done
+[2026-03-29 12:16:07] MOVE command accepted: dir=backward, ms=2500, brush=off
+[2026-03-29 12:16:08] timed_move start dir=backward,ms=2500,brush=off
+[2026-03-29 12:16:11] timed_move stop: duration_done
+[2026-03-29 12:16:23] MOVE command accepted: dir=backward, ms=10000, brush=off
+[2026-03-29 12:16:23] timed_move start dir=backward,ms=10000,brush=off
+[2026-03-29 12:16:34] timed_move stop: duration_done
+[2026-03-29 12:16:38] ADS value: 23.94
+[2026-03-29 12:16:39] Ver: 401
+[2026-03-29 12:16:46] MOVE command accepted: dir=backward, ms=5000, brush=off
+[2026-03-29 12:16:47] timed_move start dir=backward,ms=5000,brush=off
+[2026-03-29 12:16:52] timed_move stop: duration_done
+[2026-03-29 12:17:04] MOVE command accepted: dir=forward, ms=5000, brush=off
+[2026-03-29 12:17:05] timed_move start dir=forward,ms=5000,brush=off
+[2026-03-29 12:17:11] timed_move stop: duration_done
+[2026-03-29 12:17:23] MOVE command accepted: dir=forward, ms=5000, brush=off
+[2026-03-29 12:17:24] timed_move start dir=forward,ms=5000,brush=off
+[2026-03-29 12:17:29] timed_move stop: duration_done
+[2026-03-29 12:17:40] ADS value: 24.03
+[2026-03-29 12:17:41] Ver: 401
+[2026-03-29 12:17:52] MOVE command accepted: dir=forward, ms=5000, brush=off
+[2026-03-29 12:17:53] timed_move start dir=forward,ms=5000,brush=off
+[2026-03-29 12:17:59] timed_move stop: duration_done
+[2026-03-29 12:18:11] MOVE command accepted: dir=backward, ms=5000, brush=off
+[2026-03-29 12:18:11] timed_move start dir=backward,ms=5000,brush=off
+[2026-03-29 12:18:17] timed_move stop: duration_done
+[2026-03-29 12:18:29] MOVE command accepted: dir=forward, ms=8000, brush=off
+[2026-03-29 12:18:30] timed_move start dir=forward,ms=8000,brush=off
+[2026-03-29 12:18:39] timed_move stop: duration_done
+[2026-03-29 12:18:44] ADS value: 23.95
+[2026-03-29 12:18:45] Ver: 401
+[2026-03-29 12:18:51] MOVE command accepted: dir=backward, ms=8000, brush=off
+[2026-03-29 12:18:51] timed_move start dir=backward,ms=8000,brush=off
+[2026-03-29 12:19:00] timed_move stop: duration_done
+[2026-03-29 12:19:46] ADS value: 24.02
+[2026-03-29 12:19:47] Ver: 401
+[2026-03-29 12:20:06] MOVE command accepted: dir=forward, ms=2000, brush=off
+[2026-03-29 12:20:07] timed_move start dir=forward,ms=2000,brush=off
+[2026-03-29 12:20:09] timed_move stop: duration_done
+[2026-03-29 12:20:33] MOVE command accepted: dir=forward, ms=2000, brush=off
+[2026-03-29 12:20:33] timed_move start dir=forward,ms=2000,brush=off
+[2026-03-29 12:20:36] timed_move stop: duration_done
+[2026-03-29 12:20:49] ADS value: 24.01
+[2026-03-29 12:20:50] Ver: 401
+[2026-03-29 12:21:10] MOVE command accepted: dir=forward, ms=20000, brush=off
+[2026-03-29 12:21:11] timed_move start dir=forward,ms=20000,brush=off
+[2026-03-29 12:22:22] ADS value: 24.01
+[2026-03-29 12:22:23] Ver: 401
+[2026-03-29 12:23:25] ADS value: 23.95
+[2026-03-29 12:23:26] Ver: 401
+[2026-03-29 12:29:34] Ver: 401
+[2026-03-29 12:29:34] ADS value: 23.96
+[2026-03-29 12:29:34] Ver: 401
+[2026-03-29 12:29:34] ADS value: 23.97
+[2026-03-29 12:29:34] Ver: 401
+[2026-03-29 12:30:22] ADS value: 24.01
+[2026-03-29 12:30:22] Ver: 401
+[2026-03-29 12:31:25] ADS value: 24.01
+[2026-03-29 12:31:26] Ver: 401
+[2026-03-29 12:32:28] ADS value: 23.96
+[2026-03-29 12:32:29] Ver: 401
+[2026-03-29 12:33:30] ADS value: 23.98
+[2026-03-29 12:33:30] Ver: 401
+[2026-03-29 12:39:34] Ver: 401
+[2026-03-29 12:39:34] ADS value: 24.01
+[2026-03-29 12:39:34] Ver: 401
+[2026-03-29 12:39:34] ADS value: 24.00
+[2026-03-29 12:40:16] ADS value: 24.02
+[2026-03-29 12:40:17] Ver: 401
+[2026-03-29 12:41:18] ADS value: 24.02
+[2026-03-29 12:41:22] Ver: 401
+[2026-03-29 12:42:24] ADS value: 24.01
+[2026-03-29 12:42:25] Ver: 401
+[2026-03-29 12:43:30] ADS value: 24.01
+[2026-03-29 12:43:31] Ver: 401
+[2026-03-29 12:44:41] Ver: 401
+[2026-03-29 12:45:44] ADS value: 23.81
+[2026-03-29 12:50:51] ADS value: 24.02
+[2026-03-29 12:50:51] Ver: 401
+[2026-03-29 12:50:51] ADS value: 23.98
+[2026-03-29 12:50:51] Ver: 401
+[2026-03-29 12:50:51] ADS value: 23.98
+[2026-03-29 12:50:51] Ver: 401
+[2026-03-29 12:51:18] ADS value: 24.01
+[2026-03-29 12:51:20] Ver: 401
+[2026-03-29 12:52:25] ADS value: 24.00
+[2026-03-29 12:52:26] Ver: 401
+[2026-03-29 12:53:29] ADS value: 23.98
+[2026-03-29 12:53:30] Ver: 401
+[2026-03-29 12:54:36] ADS value: 23.98
+[2026-03-29 12:54:37] Ver: 401
+[2026-03-29 12:55:41] ADS value: 23.92
+[2026-03-29 12:55:42] Ver: 401
+[2026-03-29 12:56:46] ADS value: 23.96
+[2026-03-29 12:56:46] Ver: 401
+[2026-03-29 12:57:53] ADS value: 23.97
+[2026-03-29 12:57:54] Ver: 401
+[2026-03-29 12:58:55] ADS value: 23.97
+[2026-03-29 12:58:55] Ver: 401
+[2026-03-29 12:59:57] ADS value: 24.01
+[2026-03-29 12:59:58] Ver: 401
+[2026-03-29 13:01:00] ADS value: 24.00
+[2026-03-29 13:01:01] Ver: 401
+[2026-03-29 13:02:06] ADS value: 24.00
+[2026-03-29 13:02:07] Ver: 401
+[2026-03-29 13:03:10] ADS value: 24.00
+[2026-03-29 13:03:10] Ver: 401
+[2026-03-29 13:04:15] ADS value: 23.87
+[2026-03-29 13:04:16] Ver: 401
+[2026-03-29 13:05:18] ADS value: 24.01
+[2026-03-29 13:06:32] Ver: 401
+[2026-03-29 13:07:36] ADS value: 24.00
+[2026-03-29 13:07:36] Ver: 401
+[2026-03-29 13:09:50] ADS value: 23.86
+[2026-03-29 13:09:51] Ver: 401
+[2026-03-29 13:10:52] ADS value: 23.96
+[2026-03-29 13:15:58] ADS value: 23.86
+[2026-03-29 13:15:58] Ver: 401
+[2026-03-29 13:15:58] ADS value: 24.00
+[2026-03-29 13:15:58] Ver: 401
+[2026-03-29 13:15:58] ADS value: 23.86
+[2026-03-29 13:15:58] Ver: 401
+[2026-03-29 13:16:27] ADS value: 24.00
+[2026-03-29 13:16:27] Ver: 401
+[2026-03-29 13:19:00] ADS value: 23.97
+[2026-03-29 13:19:01] Ver: 401
+[2026-03-29 13:20:06] ADS value: 23.99
+[2026-03-29 13:20:07] Ver: 401
+[2026-03-29 13:21:09] ADS value: 23.99
+[2026-03-29 13:21:09] Ver: 401
+[2026-03-29 13:22:10] ADS value: 23.97
+[2026-03-29 13:22:11] Ver: 401
+[2026-03-29 13:23:13] ADS value: 24.00
+[2026-03-29 13:23:13] Ver: 401
+[2026-03-29 13:24:16] ADS value: 23.99
+[2026-03-29 13:24:16] Ver: 401
+[2026-03-29 13:25:18] ADS value: 23.95
+[2026-03-29 13:25:18] Ver: 401
+[2026-03-29 13:26:20] ADS value: 23.99
+[2026-03-29 13:26:21] Ver: 401
+[2026-03-29 13:32:27] ADS value: 23.99
+[2026-03-29 13:32:27] Ver: 401
+[2026-03-29 13:32:27] ADS value: 23.99
+[2026-03-29 13:32:27] Ver: 401
+[2026-03-29 13:32:27] ADS value: 23.99
+[2026-03-30 04:07:57] Starting progressive OTA download...
+[2026-03-30 04:07:57] OTA Progress: 10%
+[2026-03-30 04:07:57] OTA Progress: 20%
+[2026-03-30 04:07:57] OTA Progress: 30%
+[2026-03-30 04:08:10] OTA Progress: 40%
+[2026-03-30 04:08:17] OTA Progress: 50%
+[2026-03-30 04:08:24] OTA Progress: 60%
+[2026-03-30 04:08:33] OTA Progress: 70%
+[2026-03-30 04:08:47] OTA Progress: 80%
+[2026-03-30 04:09:00] OTA Progress: 90%
+[2026-03-30 04:09:08] OTA Progress: 100%
+[2026-03-30 04:09:09] OTA download complete! Verifying...
+[2026-03-30 04:09:10] OTA 100% Complete! Rebooting now...
+[2026-03-30 04:10:18] START command received: left
+[2026-03-30 04:10:20] running_front
+[2026-03-30 04:11:16] stop_maxrtime
+[2026-03-30 04:11:16] RobotStop_triggered
+[2026-03-30 04:11:17] running_opposite
+[2026-03-30 04:11:24] RobotStop_triggered
+[2026-03-30 04:11:24] ADS value: 23.78
+[2026-03-30 04:11:24] Ver: 401
+[2026-03-30 04:11:27] running_front
+[2026-03-30 04:11:32] RobotStop_triggered
+[2026-03-30 04:11:34] running_opposite
+[2026-03-30 04:11:44] RobotStop_triggered
+[2026-03-30 04:12:18] START command received: right
+[2026-03-30 04:13:15] stop_maxrtime
+[2026-03-30 04:13:16] RobotStop_triggered
+[2026-03-30 04:13:57] RobotStop_triggered
+[2026-03-30 04:13:57] ADS value: 23.78
+[2026-03-30 04:13:58] Ver: 401
+[2026-03-30 04:14:08] START command received: left
+[2026-03-30 04:14:10] running_front
+[2026-03-30 04:14:16] RobotStop_triggered
+[2026-03-30 04:14:17] running_opposite
+[2026-03-30 04:15:13] maxruntime
+[2026-03-30 04:15:13] RobotStop_triggered
+[2026-03-30 04:15:14] ADS value: 23.78
+[2026-03-30 04:15:14] Ver: 401
+[2026-03-30 06:07:24] OTA Progress: 90%
+[2026-03-30 06:07:33] OTA Progress: 100%
+[2026-03-30 06:07:33] OTA download complete! Verifying...
+[2026-03-30 06:07:34] OTA 100% Complete! Rebooting now...
+[2026-03-30 06:07:59] MOVE command accepted: dir=forward, ms=10000, brush=off
+[2026-03-30 06:07:59] timed_move start dir=forward,ms=10000,brush=off
+[2026-03-30 06:08:11] timed_move stop: duration_done
+[2026-03-30 06:08:17] Starting progressive OTA download...
+[2026-03-30 06:08:27] OTA Progress: 10%
+[2026-03-30 06:08:36] OTA Progress: 20%
+[2026-03-30 06:08:45] OTA Progress: 30%
+[2026-03-30 06:08:53] OTA Progress: 40%
+[2026-03-30 06:09:01] OTA Progress: 50%
+[2026-03-30 06:09:14] OTA Progress: 60%
+[2026-03-30 06:09:37] OTA Progress: 80%
+[2026-03-30 06:09:47] OTA Progress: 90%
+[2026-03-30 06:09:55] OTA Progress: 100%
+[2026-03-30 06:09:55] OTA download complete! Verifying...
+[2026-03-30 06:09:56] OTA 100% Complete! Rebooting now...
+[2026-03-30 06:10:39] MOVE command accepted: dir=backward, ms=10000, brush=off
+[2026-03-30 06:10:40] timed_move start dir=backward,ms=10000,brush=off
+[2026-03-30 06:10:51] timed_move stop: duration_done
+[2026-03-30 06:10:58] MOVE command accepted: dir=backward, ms=10000, brush=off
+[2026-03-30 06:10:59] timed_move start dir=backward,ms=10000,brush=off
+[2026-03-30 06:11:10] timed_move stop: duration_done
+[2026-03-30 06:11:13] ADS value: 23.73
+[2026-03-30 06:11:15] Ver: 501
+[2026-03-30 06:13:57] MOVE command accepted: dir=backward, ms=10000, brush=off
+[2026-03-30 06:13:57] timed_move start dir=backward,ms=10000,brush=off
+[2026-03-30 06:14:09] timed_move stop: duration_done
+[2026-03-30 06:14:14] Starting progressive OTA download...
+[2026-03-30 06:14:15] OTA Failed: Not enough flash space
+[2026-03-30 06:14:20] ADS value: 23.80
+[2026-03-30 06:14:22] Ver: 501
+[2026-03-30 06:15:24] ADS value: 23.72
+[2026-03-30 06:15:24] Ver: 501
+[2026-03-30 06:17:59] ADS value: 23.74
+[2026-03-30 06:17:59] Ver: 501
+[2026-03-30 06:20:41] MOVE command accepted: dir=backward, ms=10000, brush=off
+[2026-03-30 06:20:42] timed_move start dir=backward,ms=10000,brush=off
+[2026-03-30 06:20:53] timed_move stop: duration_done
+[2026-03-30 06:20:59] Starting progressive OTA download...
+[2026-03-30 06:21:08] OTA Progress: 10%
+[2026-03-30 06:21:15] OTA Progress: 20%
+[2026-03-30 06:21:26] OTA Progress: 30%
+[2026-03-30 06:21:37] OTA Progress: 40%
+[2026-03-30 06:21:49] OTA Progress: 50%
+[2026-03-30 06:21:57] OTA Progress: 60%
+[2026-03-30 06:22:06] OTA Progress: 70%
+[2026-03-30 06:22:20] OTA Progress: 80%
+[2026-03-30 06:22:27] OTA Progress: 90%
+[2026-03-30 06:22:37] OTA Progress: 100%
+[2026-03-30 06:22:37] OTA download complete! Verifying...
+[2026-03-30 06:22:39] OTA 100% Complete! Rebooting now...
+[2026-03-30 06:42:14] ADS value: 23.90
+[2026-03-30 06:42:14] Ver: 401
+[2026-03-30 07:10:14] MOVE command accepted: dir=backward, ms=10000, brush=off
+[2026-03-30 07:10:15] timed_move start dir=backward,ms=10000,brush=off
+[2026-03-30 07:10:26] timed_move stop: duration_done
+[2026-03-30 07:10:38] Ver: 500
+[2026-03-30 07:11:19] ADS value: 23.83
+[2026-03-30 07:11:20] Ver: 500
+[2026-03-30 07:11:58] ADS value: 23.83
+[2026-03-30 07:12:00] Ver: 500
+[2026-03-30 07:17:32] START command received: right
+[2026-03-30 07:17:35] running_opposite
+[2026-03-30 07:17:38] STOP via API
+[2026-03-30 07:17:39] STOP during run
+[2026-03-30 07:17:40] ADS value: 23.71
+[2026-03-30 07:17:42] Ver: 500
+[2026-03-30 07:17:52] START command received: right
+[2026-03-30 07:17:55] running_opposite
+[2026-03-30 07:21:37] STOP via API
+[2026-03-30 07:21:38] STOP during run
+[2026-03-30 07:21:39] ADS value: 23.66
+[2026-03-30 07:21:40] Ver: 500
+[2026-03-30 07:22:12] ADS value: 23.76
+[2026-03-30 07:22:13] Ver: 500
+[2026-03-30 07:22:45] ADS value: 23.78
+[2026-03-30 07:25:29] OTA Progress: 40%
+[2026-03-30 07:25:41] OTA Progress: 50%
+[2026-03-30 07:25:51] OTA Progress: 60%
+[2026-03-30 07:26:01] OTA Progress: 70%
+[2026-03-30 07:26:10] OTA Progress: 80%
+[2026-03-30 07:26:20] OTA Progress: 90%
+[2026-03-30 07:26:29] OTA Progress: 100%
+[2026-03-30 07:26:30] OTA download complete! Verifying...
+[2026-03-30 07:26:32] OTA 100% Complete! Rebooting now...
+[2026-03-30 07:26:58] START command received: right
+[2026-03-30 07:27:01] running_opposite
+[2026-03-30 07:27:39] RobotStop_triggered_right
+[2026-03-30 07:27:42] running_front
+[2026-03-30 07:28:23] RobotStop_triggered_right
+[2026-03-30 07:28:25] ADS value: 23.68
+[2026-03-30 07:28:26] Ver: 500
+[2026-03-30 07:28:58] ADS value: 23.71
+[2026-03-30 07:28:59] Ver: 500
+[2026-03-30 07:29:32] ADS value: 23.79
+[2026-03-30 07:29:33] Ver: 500
+[2026-03-30 07:30:05] ADS value: 23.78
+[2026-03-30 07:30:06] Ver: 500
+[2026-03-30 07:30:41] ADS value: 23.79
+[2026-03-30 08:02:01] ADS value: 23.79
+[2026-03-30 08:02:01] Ver: 500
+[2026-03-30 08:02:01] Ver: 500
+[2026-03-30 08:02:01] ADS value: 23.80
+[2026-03-30 08:02:01] Ver: 500
+[2026-03-30 08:02:02] OTA Progress: 80%
+[2026-03-30 08:02:11] OTA Progress: 90%
+[2026-03-30 08:02:20] OTA Progress: 100%
+[2026-03-30 08:02:21] OTA download complete! Verifying...
+[2026-03-30 08:02:23] OTA 100% Complete! Rebooting now...
+[2026-03-30 08:02:38] START command received: right
+[2026-03-30 08:02:41] running_opposite
+[2026-03-30 08:02:54] RobotStop_triggered_right
+[2026-03-30 08:02:57] running_front
+[2026-03-30 08:03:17] RobotStop_triggered_right
+[2026-03-30 08:03:18] ADS value: 24.03
+[2026-03-30 08:03:19] Ver: 500
+[2026-03-30 08:36:50] ADS value: 24.54
+[2026-03-30 09:08:46] ADS value: 25.21
+[2026-03-30 09:08:47] Ver: 509
+[2026-03-30 09:08:58] START command received: left
+[2026-03-30 09:09:01] running_front
+[2026-03-30 09:09:08] Right trigger detected (debounced)
+[2026-03-30 09:09:08] RobotStop_triggered_left
+[2026-03-30 09:09:22] Right trigger detected (debounced)
+[2026-03-30 09:09:23] RobotStop_triggered_left
+[2026-03-30 09:09:24] ADS value: 25.19
+[2026-03-30 09:09:24] Ver: 509
+[2026-03-30 09:09:47] START command received: right
+[2026-03-30 09:09:49] running_opposite
+[2026-03-30 09:09:54] Right trigger detected (debounced)
+[2026-03-30 09:09:55] RobotStop_triggered_right
+[2026-03-30 09:09:57] running_front
+[2026-03-30 09:10:09] Right trigger detected (debounced)
+[2026-03-30 09:10:09] RobotStop_triggered_right
+[2026-03-30 09:10:10] ADS value: 25.18
+[2026-03-30 09:10:10] Ver: 509
+[2026-03-30 09:10:42] ADS value: 25.28
+[2026-03-30 09:10:43] Ver: 509
+[2026-03-30 09:11:14] ADS value: 25.30
+[2026-03-30 09:11:15] Ver: 509
+[2026-03-30 09:11:19] START command received: right
+[2026-03-30 09:11:21] running_opposite
+[2026-03-30 09:11:29] Right trigger detected (debounced)
+[2026-03-30 09:11:29] RobotStop_triggered_right
+[2026-03-30 09:11:32] running_front
+[2026-03-30 09:11:38] Right trigger detected (debounced)
+[2026-03-30 09:11:39] RobotStop_triggered_right
+[2026-03-30 09:11:46] ADS value: 25.28
+[2026-03-30 09:11:47] Ver: 509
+[2026-03-30 09:12:18] ADS value: 25.32
+[2026-03-30 09:12:19] Ver: 509
+[2026-03-30 09:12:50] ADS value: 25.34
+[2026-03-30 09:12:51] Ver: 509
+[2026-03-30 09:13:22] ADS value: 25.32
+[2026-03-30 09:13:23] Ver: 509
+[2026-03-30 09:13:54] ADS value: 25.37
+[2026-03-30 09:13:55] Ver: 509
+[2026-03-30 09:14:27] ADS value: 25.39
+[2026-03-30 09:14:27] Ver: 509
+[2026-03-30 09:14:59] ADS value: 25.40
+[2026-03-30 09:15:00] Ver: 509
+[2026-03-30 09:15:30] START command received: left
+[2026-03-30 09:15:33] running_front
+[2026-03-30 09:15:45] Right trigger detected (debounced)
+[2026-03-30 09:15:46] RobotStop_triggered_left
+[2026-03-30 09:15:59] Right trigger detected (debounced)
+[2026-03-30 09:16:00] RobotStop_triggered_left
+[2026-03-30 09:16:00] ADS value: 38.05
+[2026-03-30 09:16:01] Ver: 509
+[2026-03-30 09:16:32] ADS value: 27.13
+[2026-03-30 09:16:33] Ver: 509
+[2026-03-30 09:17:05] ADS value: 38.47
+[2026-03-30 09:17:05] Ver: 509
+[2026-03-30 09:17:40] ADS value: 38.40
+[2026-03-30 09:17:41] Ver: 509
+[2026-03-30 09:18:12] ADS value: 24.69
+[2026-03-30 09:18:13] Ver: 509
+[2026-03-30 09:19:24] ADS value: 38.45
+[2026-03-30 09:19:24] Ver: 509
+[2026-03-30 09:19:29] START command received: left
+[2026-03-30 09:19:34] running_front
+[2026-03-30 09:19:41] Right trigger detected (debounced)
+[2026-03-30 09:19:42] RobotStop_triggered_left
+[2026-03-30 09:19:52] Left trigger detected (debounced)
+[2026-03-30 09:19:53] RobotStop_triggered_left
+[2026-03-30 09:19:55] ADS value: 38.46
+[2026-03-30 09:19:56] Ver: 509
+[2026-03-30 09:20:28] ADS value: 38.40
+[2026-03-30 09:20:28] Ver: 509
+[2026-03-30 09:21:47] ADS value: 37.98
+[2026-03-30 09:21:48] Ver: 509
+[2026-03-30 09:21:59] START command received: right
+[2026-03-30 09:22:01] running_opposite
+[2026-03-30 09:22:06] STOP via API
+[2026-03-30 09:22:07] STOP during run
+[2026-03-30 09:22:19] ADS value: 24.66
+[2026-03-30 09:22:19] Ver: 509
+[2026-03-30 09:22:51] ADS value: 38.44
+[2026-03-30 09:22:51] Ver: 509
+[2026-03-30 09:23:23] ADS value: 33.05
+[2026-03-30 09:23:23] Ver: 509
+[2026-03-30 09:23:56] ADS value: 30.52
+[2026-03-30 09:23:56] Ver: 509
+[2026-03-30 09:24:27] ADS value: 38.45
+[2026-03-30 09:24:28] Ver: 509
+[2026-03-30 09:25:00] ADS value: 38.45
+[2026-03-30 09:25:01] Ver: 509
+[2026-03-30 09:25:32] ADS value: 35.16
+[2026-03-30 09:25:33] Ver: 509
+[2026-03-30 09:26:36] START command received: left
+[2026-03-30 09:26:39] running_front
+[2026-03-30 09:27:01] Right trigger detected (debounced)
+[2026-03-30 09:27:02] RobotStop_triggered_left
+[2026-03-30 09:27:13] Right trigger detected (debounced)
+[2026-03-30 09:27:13] RobotStop_triggered_left
+[2026-03-30 09:27:14] ADS value: 37.73
+[2026-03-30 09:27:15] Ver: 509
+[2026-03-30 09:27:49] ADS value: 28.44
+[2026-03-30 09:27:50] Ver: 509
+[2026-03-30 09:28:21] ADS value: 38.43
+[2026-03-30 09:28:22] Ver: 509
+[2026-03-30 09:29:32] ADS value: 28.98
+[2026-03-30 09:29:32] Ver: 509
+[2026-03-30 09:29:40] START command received: left
+[2026-03-30 09:29:42] running_front
+[2026-03-30 09:30:12] Right trigger detected (debounced)
+[2026-03-30 09:30:13] RobotStop_triggered_left
+[2026-03-30 09:30:21] Left trigger detected (debounced)
+[2026-03-30 09:30:22] RobotStop_triggered_left
+[2026-03-30 09:30:22] ADS value: 25.20
+[2026-03-30 09:30:23] Ver: 509
+[2026-03-30 09:30:54] ADS value: 25.27
+[2026-03-30 09:30:55] Ver: 509
+[2026-03-30 09:31:26] ADS value: 25.22
+[2026-03-30 09:31:27] Ver: 509
+[2026-03-30 09:31:58] ADS value: 25.37
+[2026-03-30 09:31:59] Ver: 509
+[2026-03-30 09:32:30] ADS value: 25.33
+[2026-03-30 09:32:31] Ver: 509
+[2026-03-30 09:33:03] ADS value: 25.41
+[2026-03-30 09:33:03] Ver: 509
+[2026-03-30 09:33:35] ADS value: 38.40
+[2026-03-30 09:33:35] Ver: 509
+[2026-03-30 09:34:07] ADS value: 38.45
+[2026-03-30 09:34:07] Ver: 509
+[2026-03-30 09:34:39] ADS value: 24.71
+[2026-03-30 09:34:40] Ver: 509
+[2026-03-30 09:35:11] ADS value: 30.88
+[2026-03-30 09:35:12] Ver: 509
+[2026-03-30 09:35:43] ADS value: 38.38
+[2026-03-30 09:35:43] Ver: 509
+[2026-03-30 09:36:15] ADS value: 24.93
+[2026-03-30 09:36:15] Ver: 509
+[2026-03-30 09:36:47] ADS value: 38.43
+[2026-03-30 09:36:47] Ver: 509
+[2026-03-30 09:37:19] ADS value: 38.44
+[2026-03-30 09:37:19] Ver: 509
+[2026-03-30 09:37:50] ADS value: 24.65
+[2026-03-30 09:37:51] Ver: 509
+[2026-03-30 09:38:23] ADS value: 38.28
+[2026-03-30 09:38:23] Ver: 509
+[2026-03-30 09:38:55] ADS value: 32.88
+[2026-03-30 09:38:55] Ver: 509
+[2026-03-30 09:39:26] ADS value: 37.10
+[2026-03-30 09:39:27] Ver: 509
+[2026-03-30 09:39:58] ADS value: 38.38
+[2026-03-30 09:39:59] Ver: 509
+[2026-03-30 09:40:59] START command received: left
+[2026-03-30 09:41:01] running_front
+[2026-03-30 09:41:05] LLS triggered (debounced)
+[2026-03-30 09:41:06] RobotStop_triggered_left
+[2026-03-30 09:41:14] RLS triggered (debounced)
+[2026-03-30 09:41:14] RobotStop_triggered_left
+[2026-03-30 09:41:15] ADS value: 37.87
+[2026-03-30 09:41:15] Ver: 509
+[2026-03-30 09:41:47] ADS value: 36.25
+[2026-03-30 09:41:48] Ver: 509
+[2026-03-30 09:42:19] ADS value: 38.47
+[2026-03-30 09:42:20] Ver: 509
+[2026-03-30 09:42:52] ADS value: 38.43
+[2026-03-30 09:42:53] Ver: 509
+[2026-03-30 09:43:47] START command received: left
+[2026-03-30 09:43:51] running_front
+[2026-03-30 09:43:54] LLS triggered (debounced)
+[2026-03-30 09:43:55] RobotStop_triggered_left
+[2026-03-30 09:44:02] RLS triggered (debounced)
+[2026-03-30 09:44:03] RobotStop_triggered_left
+[2026-03-30 09:44:06] ADS value: 28.09
+[2026-03-30 09:44:06] Ver: 509
+[2026-03-30 09:44:24] START command received: left
+[2026-03-30 09:44:27] running_front
+[2026-03-30 09:44:33] LLS triggered (debounced)
+[2026-03-30 09:44:34] RobotStop_triggered_left
+[2026-03-30 09:44:42] RLS triggered (debounced)
+[2026-03-30 09:44:42] RobotStop_triggered_left
+[2026-03-30 09:44:43] ADS value: 37.75
+[2026-03-30 09:44:44] Ver: 509
+[2026-03-30 09:44:55] START command received: left
+[2026-03-30 09:44:58] running_front
+[2026-03-30 09:45:02] LLS triggered (debounced)
+[2026-03-30 09:45:03] RobotStop_triggered_left
+[2026-03-30 09:45:10] RLS triggered (debounced)
+[2026-03-30 09:45:11] RobotStop_triggered_left
+[2026-03-30 09:45:16] ADS value: 38.42
+[2026-03-30 09:45:16] Ver: 509
+[2026-03-30 09:45:47] ADS value: 24.68
+[2026-03-30 09:45:48] Ver: 509
+[2026-03-30 09:46:19] ADS value: 38.43
+[2026-03-30 09:46:20] Ver: 509
+[2026-03-30 09:46:51] ADS value: 38.55
+[2026-03-30 09:46:52] Ver: 509
+[2026-03-30 09:47:23] ADS value: 27.62
+[2026-03-30 09:47:24] Ver: 509
+[2026-03-30 09:47:55] ADS value: 38.42
+[2026-03-30 09:47:56] Ver: 509
+[2026-03-30 09:48:28] ADS value: 26.56
+[2026-03-30 09:48:28] Ver: 509
+[2026-03-30 09:49:00] ADS value: 25.76
+[2026-03-30 09:49:00] Ver: 509
+[2026-03-30 09:49:32] ADS value: 38.43
+[2026-03-30 09:49:33] Ver: 509
+[2026-03-30 09:50:04] ADS value: 34.09
+[2026-03-30 09:50:05] Ver: 509
+[2026-03-30 09:50:36] ADS value: 24.51
+[2026-03-30 09:50:37] Ver: 509
+[2026-03-30 09:51:08] ADS value: 38.43
+[2026-03-30 09:51:09] Ver: 509
+[2026-03-30 09:51:40] ADS value: 32.53
+[2026-03-30 09:51:40] Ver: 509
+[2026-03-30 09:52:12] ADS value: 34.05
+[2026-03-30 09:52:13] Ver: 509
+[2026-03-30 09:52:46] ADS value: 38.39
+[2026-03-30 09:52:47] Ver: 509
+[2026-03-30 09:53:19] ADS value: 24.65
+[2026-03-30 09:53:19] Ver: 509
+[2026-03-30 09:53:51] ADS value: 38.42
+[2026-03-30 09:53:51] Ver: 509
+[2026-03-30 09:54:23] ADS value: 38.39
+[2026-03-30 09:54:23] Ver: 509
+[2026-03-30 09:54:55] ADS value: 24.66
+[2026-03-30 09:54:56] Ver: 509
+[2026-03-30 09:55:27] ADS value: 38.29
+[2026-03-30 09:55:28] Ver: 509
+[2026-03-30 09:55:59] ADS value: 38.22
+[2026-03-30 09:56:00] Ver: 509
+[2026-03-30 09:56:31] ADS value: 29.24
+[2026-03-30 09:56:31] Ver: 509
+[2026-03-30 09:57:03] ADS value: 38.41
+[2026-03-30 09:57:03] Ver: 509
+[2026-03-30 09:57:34] ADS value: 24.59
+[2026-03-30 09:57:35] Ver: 509
+[2026-03-30 09:58:06] ADS value: 38.43
+[2026-03-30 09:58:07] Ver: 509
+[2026-03-30 09:58:39] ADS value: 38.22
+[2026-03-30 09:58:39] Ver: 509
+[2026-03-30 09:59:11] ADS value: 24.64
+[2026-03-30 09:59:11] Ver: 509
+[2026-03-30 09:59:43] ADS value: 38.42
+[2026-03-30 09:59:44] Ver: 509
+[2026-03-30 10:00:15] ADS value: 38.26
+[2026-03-30 10:00:16] Ver: 509
+[2026-03-30 10:00:47] ADS value: 24.65
+[2026-03-30 10:00:48] Ver: 509
+[2026-03-30 10:01:19] ADS value: 38.42
+[2026-03-30 10:01:20] Ver: 509
+[2026-03-30 10:01:52] ADS value: 38.34
+[2026-03-30 10:01:52] Ver: 509
+[2026-03-30 10:02:23] ADS value: 24.63
+[2026-03-30 10:02:24] Ver: 509
+[2026-03-30 10:02:56] ADS value: 38.39
+[2026-03-30 10:02:56] Ver: 509
+[2026-03-30 10:03:28] ADS value: 38.39
+[2026-03-30 10:03:29] Ver: 509
+[2026-03-30 10:04:00] ADS value: 24.59
+[2026-03-30 10:04:01] Ver: 509
+[2026-03-30 10:04:32] ADS value: 38.35
+[2026-03-30 10:04:33] Ver: 509
+[2026-03-30 10:05:04] ADS value: 38.45
+[2026-03-30 10:05:05] Ver: 509
+[2026-03-30 10:05:36] ADS value: 24.65
+[2026-03-30 10:05:36] Ver: 509
+[2026-03-30 10:06:08] ADS value: 38.45
+[2026-03-30 10:06:08] Ver: 509
+[2026-03-30 10:06:40] ADS value: 35.88
+[2026-03-30 10:06:40] Ver: 509
+[2026-03-30 10:07:12] ADS value: 24.88
+[2026-03-30 10:07:13] Ver: 509
+[2026-03-30 10:07:44] ADS value: 38.42
+[2026-03-30 10:07:45] Ver: 509
+[2026-03-30 10:08:16] ADS value: 24.63
+[2026-03-30 10:08:16] Ver: 509
+[2026-03-30 10:08:47] ADS value: 38.37
+[2026-03-30 10:08:48] Ver: 509
+[2026-03-30 10:09:20] ADS value: 38.32
+[2026-03-30 10:09:20] Ver: 509
+[2026-03-30 10:09:52] ADS value: 24.64
+[2026-03-30 10:09:52] Ver: 509
+[2026-03-30 10:10:23] ADS value: 38.34
+[2026-03-30 10:10:24] Ver: 509
+[2026-03-30 10:10:56] ADS value: 38.56
+[2026-03-30 10:10:56] Ver: 509
+[2026-03-30 10:11:28] ADS value: 25.14
+[2026-03-30 10:11:29] Ver: 509
+[2026-03-30 10:12:00] ADS value: 38.42
+[2026-03-30 10:12:02] Ver: 509
+[2026-03-30 10:12:34] ADS value: 38.43
+[2026-03-30 10:12:34] Ver: 509
+[2026-03-30 10:13:06] ADS value: 38.39
+[2026-03-30 10:13:06] Ver: 509
+[2026-03-30 10:13:38] ADS value: 24.63
+[2026-03-30 10:13:38] Ver: 509
+[2026-03-30 10:14:10] ADS value: 38.43
+[2026-03-30 10:14:10] Ver: 509
+[2026-03-30 10:14:42] ADS value: 34.44
+[2026-03-30 10:14:42] Ver: 509
+[2026-03-30 10:15:13] ADS value: 27.03
+[2026-03-30 10:15:14] Ver: 509
+[2026-03-30 10:15:45] ADS value: 38.35
+[2026-03-30 10:15:46] Ver: 509
+[2026-03-30 10:16:18] ADS value: 24.57
+[2026-03-30 10:16:18] Ver: 509
+[2026-03-30 10:16:50] ADS value: 36.55
+[2026-03-30 10:16:50] Ver: 509
+[2026-03-30 10:17:22] ADS value: 38.33
+[2026-03-30 10:17:22] Ver: 509
+[2026-03-30 10:17:54] ADS value: 24.64
+[2026-03-30 10:17:54] Ver: 509
+[2026-03-30 10:18:26] ADS value: 38.38
+[2026-03-30 10:18:26] Ver: 509
+[2026-03-30 10:18:58] ADS value: 38.47
+[2026-03-30 10:18:59] Ver: 509
+[2026-03-30 10:19:30] ADS value: 24.62
+[2026-03-30 10:19:31] Ver: 509
+[2026-03-30 10:20:02] ADS value: 38.14
+[2026-03-30 10:20:03] Ver: 509
+[2026-03-30 10:20:34] ADS value: 38.42
+[2026-03-30 10:20:35] Ver: 509
+[2026-03-30 10:21:07] ADS value: 24.58
+[2026-03-30 10:21:07] Ver: 509
+[2026-03-30 10:21:39] ADS value: 24.63
+[2026-03-30 10:21:40] Ver: 509
+[2026-03-30 10:22:12] ADS value: 34.62
+[2026-03-30 10:22:12] Ver: 509
+[2026-03-30 10:22:43] ADS value: 38.29
+[2026-03-30 10:22:44] Ver: 509
+[2026-03-30 10:23:16] ADS value: 24.63
+[2026-03-30 10:23:16] Ver: 509
+[2026-03-30 10:23:48] ADS value: 38.42
+[2026-03-30 10:23:48] Ver: 509
+[2026-03-30 10:24:19] ADS value: 24.86
+[2026-03-30 10:24:20] Ver: 509
+[2026-03-30 10:24:51] ADS value: 38.37
+[2026-03-30 10:24:52] Ver: 509
+[2026-03-30 10:25:24] ADS value: 38.38
+[2026-03-30 10:25:24] Ver: 509
+[2026-03-30 10:25:56] ADS value: 26.03
+[2026-03-30 10:25:56] Ver: 509
+[2026-03-30 10:26:27] ADS value: 38.42
+[2026-03-30 10:26:28] Ver: 509
+[2026-03-30 10:26:59] ADS value: 38.28
+[2026-03-30 10:27:00] Ver: 509
+[2026-03-30 10:27:32] ADS value: 24.55
+[2026-03-30 10:27:32] Ver: 509
+[2026-03-30 10:28:04] ADS value: 38.40
+[2026-03-30 10:28:07] Ver: 509
+[2026-03-30 10:28:38] ADS value: 25.46
+[2026-03-30 10:28:39] Ver: 509
+[2026-03-30 10:29:10] ADS value: 33.93
+[2026-03-30 10:29:11] Ver: 509
+[2026-03-30 10:29:42] ADS value: 38.42
+[2026-03-30 10:29:43] Ver: 509
+[2026-03-30 10:30:16] ADS value: 25.10
+[2026-03-30 10:30:17] Ver: 509
+[2026-03-30 10:30:49] ADS value: 38.42
+[2026-03-30 10:30:49] Ver: 509
+[2026-03-30 10:31:21] ADS value: 24.63
+[2026-03-30 10:31:21] Ver: 509
+[2026-03-30 10:31:53] ADS value: 38.37
+[2026-03-30 10:31:54] Ver: 509
+[2026-03-30 10:32:30] ADS value: 24.63
+[2026-03-30 10:32:31] Ver: 509
+[2026-03-30 10:33:02] ADS value: 31.29
+[2026-03-30 10:33:02] Ver: 509
+[2026-03-30 10:33:34] ADS value: 38.44
+[2026-03-30 10:33:34] Ver: 509
+[2026-03-30 10:34:06] ADS value: 24.63
+[2026-03-30 10:34:06] Ver: 509
+[2026-03-30 10:34:38] ADS value: 38.44
+[2026-03-30 10:34:39] Ver: 509
+[2026-03-30 10:35:10] ADS value: 38.39
+[2026-03-30 10:35:11] Ver: 509
+[2026-03-30 10:35:42] ADS value: 24.63
+[2026-03-30 10:35:43] Ver: 509
+[2026-03-30 10:36:14] ADS value: 38.38
+[2026-03-30 10:36:14] Ver: 509
+[2026-03-30 10:36:46] ADS value: 28.54
+[2026-03-30 10:36:47] Ver: 509
+[2026-03-30 10:37:18] ADS value: 37.38
+[2026-03-30 10:37:19] Ver: 509
+[2026-03-30 10:37:55] Ver: 509
+[2026-03-30 10:38:26] ADS value: 38.44
+[2026-03-30 10:38:27] Ver: 509
+[2026-03-30 10:38:59] ADS value: 24.99
+[2026-03-30 10:38:59] Ver: 509
+[2026-03-30 10:39:31] ADS value: 24.90
+[2026-03-30 10:39:31] Ver: 509
+[2026-03-30 10:40:03] ADS value: 38.41
+[2026-03-30 10:40:04] Ver: 509
+[2026-03-30 10:40:35] ADS value: 33.06
+[2026-03-30 10:40:36] Ver: 509
+[2026-03-30 10:41:07] ADS value: 24.61
+[2026-03-30 10:41:08] Ver: 509
+[2026-03-30 10:41:39] ADS value: 38.41
+[2026-03-30 10:41:40] Ver: 509
+[2026-03-30 10:42:11] ADS value: 24.62
+[2026-03-30 10:42:12] Ver: 509
+[2026-03-30 10:42:43] ADS value: 37.98
+[2026-03-30 10:42:44] Ver: 509
+[2026-03-30 10:43:15] ADS value: 38.42
+[2026-03-30 10:43:16] Ver: 509
+[2026-03-30 10:43:47] ADS value: 24.62
+[2026-03-30 10:43:48] Ver: 509
+[2026-03-30 10:44:19] ADS value: 38.35
+[2026-03-30 10:44:20] Ver: 509
+[2026-03-30 10:44:52] ADS value: 38.34
+[2026-03-30 10:44:53] Ver: 509
+[2026-03-30 10:45:24] ADS value: 29.23
+[2026-03-30 10:45:24] Ver: 509
+[2026-03-30 10:45:55] ADS value: 38.41
+[2026-03-30 10:45:56] Ver: 509
+[2026-03-30 10:46:28] ADS value: 38.30
+[2026-03-30 10:46:28] Ver: 509
+[2026-03-30 10:47:00] ADS value: 24.61
+[2026-03-30 10:47:01] Ver: 509
+[2026-03-30 10:47:32] ADS value: 38.40
+[2026-03-30 10:47:33] Ver: 509
+[2026-03-30 10:48:04] ADS value: 38.31
+[2026-03-30 10:48:05] Ver: 509
+[2026-03-30 10:48:36] ADS value: 24.61
+[2026-03-30 10:48:37] Ver: 509
+[2026-03-30 10:49:09] ADS value: 24.51
+[2026-03-30 10:49:10] Ver: 509
+[2026-03-30 10:49:41] ADS value: 38.40
+[2026-03-30 10:49:42] Ver: 509
+[2026-03-30 10:50:13] ADS value: 36.14
+[2026-03-30 10:50:14] Ver: 509
+[2026-03-30 10:50:45] ADS value: 25.58
+[2026-03-30 10:50:46] Ver: 509
+[2026-03-30 10:51:17] ADS value: 38.42
+[2026-03-30 10:51:17] Ver: 509
+[2026-03-30 10:51:49] ADS value: 24.56
+[2026-03-30 10:51:49] Ver: 509
+[2026-03-30 10:52:20] ADS value: 38.39
+[2026-03-30 10:52:21] Ver: 509
+[2026-03-30 10:52:52] ADS value: 24.61
+[2026-03-30 10:52:53] Ver: 509
+[2026-03-30 10:53:24] ADS value: 38.40
+[2026-03-30 10:53:25] Ver: 509
+[2026-03-30 10:53:35] MOVE command accepted: dir=forward, ms=1000, brush=off
+[2026-03-30 10:53:36] timed_move start dir=forward,ms=1000,brush=off
+[2026-03-30 10:53:37] timed_move stop: duration_done
+[2026-03-30 10:53:55] MOVE command accepted: dir=forward, ms=1000, brush=off
+[2026-03-30 10:53:56] timed_move start dir=forward,ms=1000,brush=off
+[2026-03-30 10:53:57] timed_move stop: duration_done
+[2026-03-30 10:53:59] ADS value: 38.41
+[2026-03-30 10:54:00] Ver: 509
+[2026-03-30 10:54:27] START command received: left
+[2026-03-30 10:54:30] running_front
+[2026-03-30 10:54:34] LLS triggered (debounced)
+[2026-03-30 10:54:35] RobotStop_triggered_left
+[2026-03-30 10:54:42] RLS triggered (debounced)
+[2026-03-30 10:54:43] RobotStop_triggered_left
+[2026-03-30 10:54:43] ADS value: 37.30
+[2026-03-30 10:54:44] Ver: 509
+[2026-03-30 10:55:16] ADS value: 28.37
+[2026-03-30 10:55:16] Ver: 509
+[2026-03-30 10:55:48] ADS value: 38.42
+[2026-03-30 10:55:49] Ver: 509
+[2026-03-30 10:56:20] ADS value: 38.38
+[2026-03-30 10:56:21] Ver: 509
+[2026-03-30 10:57:03] START command received: left
+[2026-03-30 10:57:05] running_front
+[2026-03-30 10:57:32] LLS triggered (debounced)
+[2026-03-30 10:57:32] RobotStop_triggered_left
+[2026-03-30 10:57:34] ADS value: 38.42
+[2026-03-30 10:57:34] Ver: 509
+[2026-03-30 10:57:57] START command received: left
+[2026-03-30 10:58:00] running_front
+[2026-03-30 10:58:18] LLS triggered (debounced)
+[2026-03-30 10:58:18] RobotStop_triggered_left
+[2026-03-30 10:58:20] ADS value: 38.42
+[2026-03-30 10:58:21] Ver: 509
+[2026-03-30 10:58:38] START command received: left
+[2026-03-30 10:58:40] running_front
+[2026-03-30 10:58:53] LLS triggered (debounced)
+[2026-03-30 10:58:53] RobotStop_triggered_left
+[2026-03-30 10:58:58] ADS value: 38.36
+[2026-03-30 10:58:59] Ver: 509
+[2026-03-30 10:59:07] START command received: left
+[2026-03-30 10:59:10] running_front
+[2026-03-30 10:59:19] LLS triggered (debounced)
+[2026-03-30 10:59:20] RobotStop_triggered_left
+[2026-03-30 10:59:30] ADS value: 37.22
+[2026-03-30 10:59:31] Ver: 509
+[2026-03-30 11:00:03] ADS value: 38.44
+[2026-03-30 11:00:04] Ver: 509
+[2026-03-30 11:00:35] ADS value: 38.50
+[2026-03-30 11:00:35] Ver: 509
+[2026-03-30 11:01:07] ADS value: 26.40
+[2026-03-30 11:01:08] Ver: 509
+[2026-03-30 11:01:40] ADS value: 27.19
+[2026-03-30 11:01:40] Ver: 509
+[2026-03-30 11:02:12] ADS value: 38.37
+[2026-03-30 11:02:13] Ver: 509
+[2026-03-30 11:02:44] ADS value: 24.95
+[2026-03-30 11:02:44] Ver: 509
+[2026-03-30 11:03:16] ADS value: 35.68
+[2026-03-30 11:03:16] Ver: 509
+[2026-03-30 11:03:48] ADS value: 38.39
+[2026-03-30 11:03:48] Ver: 509
+[2026-03-30 11:04:20] ADS value: 24.58
+[2026-03-30 11:04:20] Ver: 509
+[2026-03-30 11:05:06] START command received: left
+[2026-03-30 11:05:08] running_front
+[2026-03-30 11:05:26] RobotStop_triggered_left
+[2026-03-30 11:05:28] ADS value: 36.58
+[2026-03-30 11:05:29] Ver: 509
+[2026-03-30 11:06:00] ADS value: 38.41
+[2026-03-30 11:06:00] Ver: 509
+[2026-03-30 11:06:32] ADS value: 38.42
+[2026-03-30 11:06:32] Ver: 509
+[2026-03-30 11:07:07] ADS value: 30.51
+[2026-03-30 11:07:08] Ver: 509
+[2026-03-30 11:07:46] START command received: left
+[2026-03-30 11:07:49] running_front
+[2026-03-30 11:08:09] RobotStop_triggered_left
+[2026-03-30 11:08:11] ADS value: 38.40
+[2026-03-30 11:08:12] Ver: 509
+[2026-03-30 11:08:43] ADS value: 38.40
+[2026-03-30 11:08:44] Ver: 509
+[2026-03-30 11:09:15] ADS value: 27.70
+[2026-03-30 11:09:16] Ver: 509
+[2026-03-30 11:09:47] ADS value: 24.55
+[2026-03-30 11:09:48] Ver: 509
+[2026-03-30 11:10:19] ADS value: 38.41
+[2026-03-30 11:10:20] Ver: 509
+[2026-03-30 11:11:21] START command received: left
+[2026-03-30 11:11:24] running_front
+[2026-03-30 11:11:40] ADS value: 24.54
+[2026-03-30 11:11:41] Ver: 509
+[2026-03-30 11:12:12] ADS value: 38.41
+[2026-03-30 11:12:13] Ver: 509
+[2026-03-30 11:12:18] START command received: left
+[2026-03-30 11:12:20] running_front
+[2026-03-30 11:12:38] START command received: left
+[2026-03-30 11:12:40] running_front
+[2026-03-30 11:12:46] ADS value: 38.28
+[2026-03-30 11:12:47] Ver: 509
+[2026-03-30 11:12:52] START command received: left
+[2026-03-30 11:12:55] running_front
+[2026-03-30 11:13:19] ADS value: 25.07
+[2026-03-30 11:13:20] Ver: 509
+[2026-03-30 11:13:51] ADS value: 25.14
+[2026-03-30 11:13:52] Ver: 509
+[2026-03-30 11:14:23] ADS value: 25.15
+[2026-03-30 11:14:24] Ver: 509
+[2026-03-30 11:14:55] ADS value: 25.15
+[2026-03-30 11:14:56] Ver: 509
+[2026-03-30 11:15:27] ADS value: 25.16
+[2026-03-30 11:15:28] Ver: 509
+[2026-03-30 11:15:59] ADS value: 25.17
+[2026-03-30 11:16:00] Ver: 509
+[2026-03-30 11:16:31] ADS value: 25.16
+[2026-03-30 11:16:32] Ver: 509
+[2026-03-30 11:17:03] ADS value: 25.10
+[2026-03-30 11:17:04] Ver: 509
+[2026-03-30 11:17:36] ADS value: 25.16
+[2026-03-30 11:17:37] Ver: 509
+[2026-03-30 11:18:08] ADS value: 25.16
+[2026-03-30 11:18:09] Ver: 509
+[2026-03-30 11:18:40] ADS value: 25.17
+[2026-03-30 11:18:41] Ver: 509
+[2026-03-30 11:19:12] ADS value: 25.19
+[2026-03-30 11:19:14] Ver: 509
+[2026-03-30 11:19:45] ADS value: 25.19
+[2026-03-30 11:19:46] Ver: 509
+[2026-03-30 11:20:18] ADS value: 25.16
+[2026-03-30 11:20:18] Ver: 509
+[2026-03-30 11:20:50] ADS value: 25.14
+[2026-03-30 11:20:51] Ver: 509
+[2026-03-30 11:21:22] ADS value: 25.21
+[2026-03-30 11:21:22] Ver: 509
+[2026-03-30 11:21:57] ADS value: 25.15
+[2026-03-30 11:21:58] Ver: 509
+[2026-03-30 11:22:29] ADS value: 25.22
+[2026-03-30 11:22:30] Ver: 509
+[2026-03-30 11:23:02] ADS value: 25.16
+[2026-03-30 11:23:02] Ver: 509
+[2026-03-30 11:23:33] ADS value: 25.23
+[2026-03-30 11:23:34] Ver: 509
+[2026-03-30 11:24:06] ADS value: 25.12
+[2026-03-30 11:24:06] Ver: 509
+[2026-03-30 11:24:38] ADS value: 25.17
+[2026-03-30 11:24:39] Ver: 509
+[2026-03-30 11:25:11] ADS value: 25.18
+[2026-03-30 11:25:11] Ver: 509
+[2026-03-30 11:25:44] ADS value: 25.18
+[2026-03-30 11:25:44] Ver: 509
+[2026-03-30 11:26:19] ADS value: 25.21
+[2026-03-30 11:26:20] Ver: 509
+[2026-03-30 11:26:55] ADS value: 25.21
+[2026-03-30 11:26:56] Ver: 509
+[2026-03-30 11:27:27] ADS value: 25.22
+[2026-03-30 11:27:30] Ver: 509
+[2026-03-30 11:28:02] ADS value: 25.25
+[2026-03-30 11:28:03] Ver: 509
+[2026-03-30 11:28:38] ADS value: 25.20
+[2026-03-30 11:28:39] Ver: 509
+[2026-03-30 11:29:11] ADS value: 25.26
+[2026-03-30 11:29:11] Ver: 509
+[2026-03-30 11:29:43] ADS value: 25.26
+[2026-03-30 11:29:44] Ver: 509
+[2026-03-30 11:30:19] ADS value: 25.20
+[2026-03-30 11:30:20] Ver: 509
+[2026-03-30 11:30:47] MOVE command accepted: dir=forward, ms=1500, brush=off
+[2026-03-30 11:30:48] timed_move start dir=forward,ms=1500,brush=off
+[2026-03-30 11:30:50] timed_move stop: duration_done
+[2026-03-30 11:30:52] ADS value: 25.17
+[2026-03-30 11:30:53] Ver: 509
+[2026-03-30 11:31:25] ADS value: 25.25
+[2026-03-30 11:31:26] Ver: 509
+[2026-03-30 11:31:35] MOVE command accepted: dir=forward, ms=1500, brush=off
+[2026-03-30 11:31:35] timed_move start dir=forward,ms=1500,brush=off
+[2026-03-30 11:31:38] timed_move stop: duration_done
+[2026-03-30 11:31:45] Starting progressive OTA download...
+[2026-03-30 11:31:50] OTA Progress: 10%
+[2026-03-30 11:31:56] OTA Progress: 20%
+[2026-03-30 11:31:59] OTA Progress: 30%
+[2026-03-30 11:32:04] OTA Progress: 40%
+[2026-03-30 11:32:10] OTA Progress: 50%
+[2026-03-30 11:32:15] OTA Progress: 60%
+[2026-03-30 11:32:20] OTA Progress: 70%
+[2026-03-30 11:32:26] OTA Progress: 80%
+[2026-03-30 11:32:32] OTA Progress: 90%
+[2026-03-30 11:32:38] OTA Progress: 100%
+[2026-03-30 11:32:38] OTA download complete! Verifying...
+[2026-03-30 11:32:39] OTA 100% Complete! Rebooting now...
+[2026-03-30 11:32:59] START command received: left
+[2026-03-30 11:33:02] running_front
+[2026-03-30 11:33:42] ADS value: 25.22
+[2026-03-30 11:33:42] Ver: 509
+[2026-03-30 11:33:59] START command received: left
+[2026-03-30 11:34:02] running_front
+[2026-03-30 11:34:22] ADS value: 25.21
+[2026-03-30 11:34:23] Ver: 509
+[2026-03-30 11:34:55] START command received: right
+[2026-03-30 11:34:57] running_opposite
+[2026-03-30 11:36:47] running_front
+[2026-03-30 11:36:50] ADS value: 25.15
+[2026-03-30 11:36:51] Ver: 509
+[2026-03-30 11:37:54] ADS value: 25.20
+[2026-03-30 11:37:55] Ver: 509
+[2026-03-30 11:38:27] ADS value: 25.16
+[2026-03-30 11:38:28] Ver: 509
+[2026-03-30 11:38:59] ADS value: 25.21
+[2026-03-30 11:39:00] Ver: 509
+[2026-03-30 11:39:32] ADS value: 25.16
+[2026-03-30 11:39:32] Ver: 509
+[2026-03-30 11:40:04] ADS value: 25.18
+[2026-03-30 11:40:05] Ver: 509
+[2026-03-30 11:41:13] START command received: left
+[2026-03-30 11:41:16] running_front
+[2026-03-30 11:41:30] ADS value: 25.23
+[2026-03-30 11:41:31] Ver: 509
+[2026-03-30 11:41:46] START command received: left
+[2026-03-30 11:41:50] running_front
+[2026-03-30 11:42:00] START command received: left
+[2026-03-30 11:42:02] running_front
+[2026-03-30 11:42:08] ADS value: 25.22
+[2026-03-30 11:42:09] Ver: 509
+[2026-03-30 11:42:39] START command received: left
+[2026-03-30 11:42:42] running_front
+[2026-03-30 11:42:45] ADS value: 25.21
+[2026-03-30 11:42:45] Ver: 509
+[2026-03-30 11:43:18] ADS value: 25.19
+[2026-03-30 11:43:20] Ver: 509
+[2026-03-30 11:43:51] ADS value: 25.19
+[2026-03-30 11:43:51] Ver: 509
+[2026-03-30 11:44:23] ADS value: 25.23
+[2026-03-30 11:44:23] Ver: 509
+[2026-03-30 11:44:55] ADS value: 25.24
+[2026-03-30 11:44:55] Ver: 509
+[2026-03-30 11:45:29] ADS value: 25.17
+[2026-03-30 11:45:29] Ver: 509
+[2026-03-30 11:46:01] ADS value: 25.11
+[2026-03-30 11:46:02] Ver: 509
+[2026-03-30 11:46:36] ADS value: 25.19
+[2026-03-30 11:46:36] Ver: 509
+[2026-03-30 11:47:08] ADS value: 25.26
+[2026-03-30 11:47:09] Ver: 509
+[2026-03-30 11:47:41] ADS value: 25.26
+[2026-03-30 11:47:41] Ver: 509
+[2026-03-30 11:48:13] ADS value: 25.26
+[2026-03-30 11:48:14] Ver: 509
+[2026-03-30 11:48:46] ADS value: 25.12
+[2026-03-30 11:48:46] Ver: 509
+[2026-03-30 11:49:18] ADS value: 25.19
+[2026-03-30 11:49:20] Ver: 509
+[2026-03-30 11:49:51] ADS value: 25.15
+[2026-03-30 11:49:52] Ver: 509
+[2026-03-30 11:50:34] START command received: left
+[2026-03-30 11:50:36] running_front
+[2026-03-30 11:50:41] running_opposite
+[2026-03-30 11:50:46] ADS value: 25.23
+[2026-03-30 11:50:47] Ver: 509
+[2026-03-30 11:51:19] ADS value: 25.19
+[2026-03-30 11:51:20] Ver: 509
+[2026-03-30 11:51:51] ADS value: 25.26
+[2026-03-30 11:51:52] Ver: 509
+[2026-03-30 11:52:23] ADS value: 25.21
+[2026-03-30 11:52:24] Ver: 509
+[2026-03-30 11:52:56] ADS value: 25.26
+[2026-03-30 11:52:57] Ver: 509
+[2026-03-30 11:53:29] ADS value: 25.01
+[2026-03-30 11:53:29] Ver: 509
+[2026-03-30 11:54:02] ADS value: 25.28
+[2026-03-30 11:54:03] Ver: 509
+[2026-03-30 11:54:35] ADS value: 25.19
+[2026-03-30 11:54:35] Ver: 509
+[2026-03-30 11:54:40] MOVE command accepted: dir=forward, ms=1500, brush=off
+[2026-03-30 11:54:41] timed_move start dir=forward,ms=1500,brush=off
+[2026-03-30 11:54:43] timed_move stop: duration_done
+[2026-03-30 11:55:02] MOVE command accepted: dir=forward, ms=1500, brush=off
+[2026-03-30 11:55:03] timed_move start dir=forward,ms=1500,brush=off
+[2026-03-30 11:55:06] timed_move stop: duration_done
+[2026-03-30 11:55:08] ADS value: 25.23
+[2026-03-30 11:55:08] Ver: 509
+[2026-03-30 11:55:23] MOVE command accepted: dir=backward, ms=1500, brush=off
+[2026-03-30 11:55:24] timed_move start dir=backward,ms=1500,brush=off
+[2026-03-30 11:55:26] timed_move stop: duration_done
+[2026-03-30 11:55:41] ADS value: 25.21
+[2026-03-30 11:55:42] Ver: 509
+[2026-03-30 11:56:14] ADS value: 25.29
+[2026-03-30 11:56:15] Ver: 509
+[2026-03-30 11:57:08] START command received: right
+[2026-03-30 11:57:10] running_opposite
+[2026-03-30 11:57:17] running_front
+[2026-03-30 11:57:26] ADS value: 25.25
+[2026-03-30 12:39:35] ADS value: 24.70
+[2026-03-30 12:39:35] Ver: 601
+[2026-03-30 12:40:01] MOVE command accepted: dir=forward, ms=1500, brush=off
+[2026-03-30 12:40:01] timed_move start dir=forward,ms=1500,brush=off
+[2026-03-30 12:40:03] timed_move stop: duration_done
+[2026-03-30 12:40:07] ADS value: 24.72
+[2026-03-30 12:40:07] Ver: 601
+[2026-03-30 12:40:17] MOVE command accepted: dir=forward, ms=1500, brush=off
+[2026-03-30 12:40:19] timed_move start dir=forward,ms=1500,brush=off
+[2026-03-30 12:40:21] timed_move stop: duration_done
+[2026-03-30 12:40:28] Starting progressive OTA download...
+[2026-03-30 12:40:31] OTA Progress: 10%
+[2026-03-30 12:40:34] OTA Progress: 20%
+[2026-03-30 12:40:37] OTA Progress: 30%
+[2026-03-30 12:40:41] OTA Progress: 40%
+[2026-03-30 12:40:44] OTA Progress: 50%
+[2026-03-30 12:40:47] OTA Progress: 60%
+[2026-03-30 12:40:52] OTA Progress: 70%
+[2026-03-30 12:40:55] OTA Progress: 80%
+[2026-03-30 12:40:58] OTA Progress: 90%
+[2026-03-30 12:41:01] OTA Progress: 100%
+[2026-03-30 12:41:02] OTA download complete! Verifying...
+[2026-03-30 12:41:03] OTA 100% Complete! Rebooting now...
+[2026-03-30 12:41:35] ADS value: 24.77
+[2026-03-30 12:41:36] Ver: 602
+[2026-03-30 12:42:08] ADS value: 24.82
+[2026-03-30 12:42:09] Ver: 602
+[2026-03-30 12:42:40] ADS value: 24.73
+[2026-03-30 12:42:41] Ver: 602
+[2026-03-30 12:42:51] START command received: right
+[2026-03-30 12:42:54] running_opposite
+[2026-03-30 12:52:54] running_front
+[2026-03-30 13:02:55] ADS value: 24.21
+[2026-03-30 13:02:56] Ver: 602
+[2026-03-30 16:32:00] ADS value: 24.04
+[2026-03-30 16:32:00] Ver: 602
+[2026-03-30 16:32:31] ADS value: 24.04
+[2026-03-30 16:32:32] Ver: 602
+[2026-03-30 16:33:03] ADS value: 24.04
+[2026-03-30 16:33:03] Ver: 602
+[2026-03-30 16:33:34] ADS value: 24.04
+[2026-03-30 16:33:34] Ver: 602
+[2026-03-30 16:34:05] ADS value: 24.04
+[2026-03-30 16:34:06] Ver: 602
+[2026-03-30 16:34:37] ADS value: 24.04
+[2026-03-30 16:34:37] Ver: 602
+[2026-03-30 16:35:08] ADS value: 24.03
+[2026-03-30 16:35:09] Ver: 602
+[2026-03-30 16:35:40] ADS value: 24.04
+[2026-03-30 16:35:40] Ver: 602
+[2026-03-30 16:36:12] ADS value: 24.03
+[2026-03-30 16:36:12] Ver: 602
+[2026-03-30 16:36:43] ADS value: 24.04
+[2026-03-30 16:36:44] Ver: 602
+[2026-03-30 16:37:15] ADS value: 24.04
+[2026-03-30 16:37:15] Ver: 602
+[2026-03-30 16:37:18] MOVE command accepted: dir=backward, ms=1500, brush=off
+[2026-03-30 16:37:18] timed_move start dir=backward,ms=1500,brush=off
+[2026-03-30 16:37:20] timed_move stop: duration_done
+[2026-03-30 16:37:32] MOVE command accepted: dir=forward, ms=500, brush=off
+[2026-03-30 16:37:33] timed_move start dir=forward,ms=1000,brush=off
+[2026-03-30 16:37:34] timed_move stop: duration_done
+[2026-03-30 16:37:46] MOVE command accepted: dir=backward, ms=500, brush=off
+[2026-03-30 16:37:46] timed_move start dir=backward,ms=1000,brush=off
+[2026-03-30 16:37:47] timed_move stop: duration_done
+[2026-03-30 16:37:49] ADS value: 23.99
+[2026-03-30 16:37:49] Ver: 602
+[2026-03-30 16:38:05] MOVE command accepted: dir=forward, ms=200, brush=off
+[2026-03-30 16:38:06] timed_move start dir=forward,ms=1000,brush=off
+[2026-03-30 16:38:07] timed_move stop: duration_done
+[2026-03-30 16:38:20] ADS value: 24.03
+[2026-03-30 16:38:21] Ver: 602
+[2026-03-30 16:38:52] ADS value: 24.03
+[2026-03-30 16:38:52] Ver: 602
+[2026-03-30 17:30:41] ADS value: 24.00
+[2026-03-30 17:30:41] Ver: 602
+[2026-03-30 17:31:12] ADS value: 24.00
+[2026-03-30 17:31:12] Ver: 602
+[2026-03-30 17:31:44] ADS value: 23.99
+[2026-03-30 17:31:44] Ver: 602
+[2026-03-30 17:32:15] ADS value: 23.98
+[2026-03-30 17:32:15] Ver: 602
+[2026-03-30 17:32:47] ADS value: 24.00
+[2026-03-30 17:32:47] Ver: 602
+[2026-03-30 17:33:18] ADS value: 23.99
+[2026-03-30 17:33:18] Ver: 602
+[2026-03-30 17:33:49] ADS value: 24.00
+[2026-03-30 17:33:50] Ver: 602
+[2026-03-30 17:34:21] ADS value: 24.00
+[2026-03-30 17:34:21] Ver: 602
+[2026-03-30 17:34:52] ADS value: 24.00
+[2026-03-30 17:34:53] Ver: 602
+[2026-03-30 18:30:47] ADS value: 23.96
+[2026-03-30 18:30:48] Ver: 602
+[2026-03-30 18:31:19] ADS value: 23.95
+[2026-03-30 18:31:19] Ver: 602
+[2026-03-30 18:31:50] ADS value: 23.95
+[2026-03-30 18:31:50] Ver: 602
+[2026-03-30 18:32:21] ADS value: 23.95
+[2026-03-30 18:32:22] Ver: 602
+[2026-03-30 18:32:53] ADS value: 23.96
+[2026-03-30 18:32:53] Ver: 602
+[2026-03-30 18:33:24] ADS value: 23.95
+[2026-03-30 18:33:24] Ver: 602
+[2026-03-30 18:33:55] ADS value: 23.94
+[2026-03-30 18:33:56] Ver: 602
+[2026-03-30 18:34:27] ADS value: 23.89
+[2026-03-30 18:34:27] Ver: 602
+[2026-03-30 18:34:59] ADS value: 23.89
+[2026-03-30 18:34:59] Ver: 602
+[2026-03-30 19:30:54] ADS value: 23.90
+[2026-03-30 19:30:55] Ver: 602
+[2026-03-30 19:31:26] ADS value: 23.92
+[2026-03-30 19:31:26] Ver: 602
+[2026-03-30 19:31:57] ADS value: 23.91
+[2026-03-30 19:31:57] Ver: 602
+[2026-03-30 19:32:28] ADS value: 23.92
+[2026-03-30 19:32:29] Ver: 602
+[2026-03-30 19:33:00] ADS value: 23.91
+[2026-03-30 19:33:00] Ver: 602
+[2026-03-30 19:33:32] ADS value: 23.92
+[2026-03-30 19:33:32] Ver: 602
+[2026-03-30 19:34:03] ADS value: 23.89
+[2026-03-30 19:34:03] Ver: 602
+[2026-03-30 19:34:34] ADS value: 23.92
+[2026-03-30 19:34:35] Ver: 602
+[2026-03-30 19:35:06] ADS value: 23.92
+[2026-03-30 19:35:06] Ver: 602
+[2026-03-30 20:31:01] ADS value: 23.86
+[2026-03-30 20:31:01] Ver: 602
+[2026-03-30 20:31:33] ADS value: 23.87
+[2026-03-30 20:31:33] Ver: 602
+[2026-03-30 20:32:05] ADS value: 23.88
+[2026-03-30 20:32:05] Ver: 602
+[2026-03-30 20:32:36] ADS value: 23.88
+[2026-03-30 20:32:36] Ver: 602
+[2026-03-30 20:33:08] ADS value: 23.88
+[2026-03-30 20:33:08] Ver: 602
+[2026-03-30 20:33:40] ADS value: 23.84
+[2026-03-30 20:33:40] Ver: 602
+[2026-03-30 20:34:12] ADS value: 23.87
+[2026-03-30 20:34:12] Ver: 602
+[2026-03-30 20:34:43] ADS value: 23.87
+[2026-03-30 20:34:44] Ver: 602
+[2026-03-30 21:30:44] ADS value: 23.83
+[2026-03-30 21:30:44] Ver: 602
+[2026-03-30 21:31:15] ADS value: 23.84
+[2026-03-30 21:31:16] Ver: 602
+[2026-03-30 21:31:47] ADS value: 23.84
+[2026-03-30 21:31:47] Ver: 602
+[2026-03-30 21:32:19] ADS value: 23.84
+[2026-03-30 21:32:19] Ver: 602
+[2026-03-30 21:32:51] ADS value: 23.84
+[2026-03-30 21:32:51] Ver: 602
+[2026-03-30 21:33:22] ADS value: 23.84
+[2026-03-30 21:33:22] Ver: 602
+[2026-03-30 21:33:54] ADS value: 23.83
+[2026-03-30 21:33:54] Ver: 602
+[2026-03-30 21:34:26] ADS value: 23.81
+[2026-03-30 21:34:26] Ver: 602
+[2026-03-30 21:34:57] ADS value: 23.82
+[2026-03-30 21:34:57] Ver: 602
+[2026-03-30 22:30:53] ADS value: 23.80
+[2026-03-30 22:30:54] Ver: 602
+[2026-03-30 22:31:25] ADS value: 23.77
+[2026-03-30 22:31:25] Ver: 602
+[2026-03-30 22:31:56] ADS value: 23.79
+[2026-03-30 22:31:57] Ver: 602
+[2026-03-30 22:32:28] ADS value: 23.80
+[2026-03-30 22:32:28] Ver: 602
+[2026-03-30 22:33:00] ADS value: 23.76
+[2026-03-30 22:33:00] Ver: 602
+[2026-03-30 22:33:31] ADS value: 23.80
+[2026-03-30 22:33:32] Ver: 602
+[2026-03-30 22:34:03] ADS value: 23.80
+[2026-03-30 22:34:03] Ver: 602
+[2026-03-30 22:34:34] ADS value: 23.80
+[2026-03-30 22:34:34] Ver: 602
+[2026-03-30 22:35:05] ADS value: 23.80
+[2026-03-30 22:35:06] Ver: 602
+[2026-03-30 23:31:01] ADS value: 23.75
+[2026-03-30 23:31:01] Ver: 602
+[2026-03-30 23:31:32] ADS value: 23.76
+[2026-03-30 23:31:33] Ver: 602
+[2026-03-30 23:32:04] ADS value: 23.75
+[2026-03-30 23:32:04] Ver: 602
+[2026-03-30 23:32:35] ADS value: 23.76
+[2026-03-30 23:32:35] Ver: 602
+[2026-03-30 23:33:07] ADS value: 23.74
+[2026-03-30 23:33:07] Ver: 602
+[2026-03-30 23:33:38] ADS value: 23.75
+[2026-03-30 23:33:39] Ver: 602
+[2026-03-30 23:34:10] ADS value: 23.73
+[2026-03-30 23:34:11] Ver: 602
+[2026-03-30 23:34:42] ADS value: 23.76
+[2026-03-30 23:34:42] Ver: 602
+[2026-03-31 00:30:42] ADS value: 23.72
+[2026-03-31 00:30:42] Ver: 602
+[2026-03-31 00:31:13] ADS value: 23.72
+[2026-03-31 00:31:13] Ver: 602
+[2026-03-31 00:31:45] ADS value: 23.73
+[2026-03-31 00:31:45] Ver: 602
+[2026-03-31 00:32:16] ADS value: 23.66
+[2026-03-31 00:32:16] Ver: 602
+[2026-03-31 00:32:47] ADS value: 23.66
+[2026-03-31 00:32:48] Ver: 602
+[2026-03-31 00:33:19] ADS value: 23.66
+[2026-03-31 00:33:19] Ver: 602
+[2026-03-31 00:33:50] ADS value: 23.66
+[2026-03-31 00:33:51] Ver: 602
+[2026-03-31 00:34:22] ADS value: 23.66
+[2026-03-31 00:34:22] Ver: 602
+[2026-03-31 00:34:53] ADS value: 23.66
+[2026-03-31 00:34:54] Ver: 602
+[2026-03-31 01:30:48] ADS value: 23.68
+[2026-03-31 01:30:49] Ver: 602
+[2026-03-31 01:31:20] ADS value: 23.69
+[2026-03-31 01:31:20] Ver: 602
+[2026-03-31 01:31:51] ADS value: 23.69
+[2026-03-31 01:31:51] Ver: 602
+[2026-03-31 01:32:22] ADS value: 23.70
+[2026-03-31 01:32:23] Ver: 602
+[2026-03-31 01:32:54] ADS value: 23.69
+[2026-03-31 01:32:54] Ver: 602
+[2026-03-31 01:33:26] ADS value: 23.66
+[2026-03-31 01:33:26] Ver: 602
+[2026-03-31 01:33:57] ADS value: 23.70
+[2026-03-31 01:33:57] Ver: 602
+[2026-03-31 01:34:28] ADS value: 23.69
+[2026-03-31 01:34:29] Ver: 602
+[2026-03-31 01:35:00] ADS value: 23.71
+[2026-03-31 01:35:01] Ver: 602
+[2026-03-31 02:30:55] ADS value: 23.81
+[2026-03-31 02:30:55] Ver: 602
+[2026-03-31 02:31:26] ADS value: 23.81
+[2026-03-31 02:31:27] Ver: 602
+[2026-03-31 02:31:58] ADS value: 23.81
+[2026-03-31 02:31:58] Ver: 602
+[2026-03-31 02:32:30] ADS value: 23.80
+[2026-03-31 02:32:30] Ver: 602
+[2026-03-31 02:33:01] ADS value: 23.82
+[2026-03-31 02:33:01] Ver: 602
+[2026-03-31 02:33:32] ADS value: 23.84
+[2026-03-31 02:33:32] Ver: 602
+[2026-03-31 02:34:03] ADS value: 23.83
+[2026-03-31 02:34:04] Ver: 602
+[2026-03-31 02:34:35] ADS value: 23.82
+[2026-03-31 02:34:35] Ver: 602
+[2026-03-31 02:35:07] ADS value: 23.81
+[2026-03-31 02:35:07] Ver: 602
+[2026-03-31 03:30:31] ADS value: 24.24
+[2026-03-31 03:30:31] Ver: 602
+[2026-03-31 03:31:03] ADS value: 24.17
+[2026-03-31 03:31:03] Ver: 602
+[2026-03-31 03:31:34] ADS value: 24.18
+[2026-03-31 03:31:35] Ver: 602
+[2026-03-31 03:31:44] MOVE command accepted: dir=backward, ms=1500, brush=off
+[2026-03-31 03:31:44] timed_move start dir=backward,ms=1500,brush=off
+[2026-03-31 03:31:46] timed_move stop: duration_done
+[2026-03-31 03:32:06] ADS value: 24.18
+[2026-03-31 03:32:06] Ver: 602
+[2026-03-31 03:32:09] MOVE command accepted: dir=forward, ms=1500, brush=off
+[2026-03-31 03:32:09] timed_move start dir=forward,ms=1500,brush=off
+[2026-03-31 03:32:11] timed_move stop: duration_done
+[2026-03-31 03:32:37] ADS value: 24.17
+[2026-03-31 03:32:37] Ver: 602
+[2026-03-31 03:33:03] MOVE command accepted: dir=backward, ms=1500, brush=off
+[2026-03-31 03:33:03] timed_move start dir=backward,ms=1500,brush=off
+[2026-03-31 03:33:05] timed_move stop: duration_done
+[2026-03-31 03:33:09] ADS value: 24.18
+[2026-03-31 03:33:09] Ver: 602
+[2026-03-31 03:33:40] ADS value: 24.17
+[2026-03-31 03:33:41] Ver: 602
+[2026-03-31 03:34:11] ADS value: 24.19
+[2026-03-31 03:34:12] Ver: 602
+[2026-03-31 03:34:19] MOVE command accepted: dir=backward, ms=1500, brush=off
+[2026-03-31 03:34:19] timed_move start dir=backward,ms=1500,brush=off
+[2026-03-31 03:34:21] timed_move stop: duration_done
+[2026-03-31 03:34:43] ADS value: 24.19
+[2026-03-31 03:34:44] Ver: 602
+[2026-03-31 03:34:57] MOVE command accepted: dir=forward, ms=500, brush=off
+[2026-03-31 03:34:58] timed_move start dir=forward,ms=1000,brush=off
+[2026-03-31 03:34:59] timed_move stop: duration_done
+[2026-03-31 03:35:15] ADS value: 24.19
+[2026-03-31 03:35:15] Ver: 602
+[2026-03-31 03:35:28] MOVE command accepted: dir=forward, ms=500, brush=off
+[2026-03-31 03:35:28] timed_move start dir=forward,ms=1000,brush=off
+[2026-03-31 03:35:30] timed_move stop: duration_done
+[2026-03-31 03:35:46] ADS value: 24.20
+[2026-03-31 03:35:47] Ver: 602
+[2026-03-31 03:36:18] ADS value: 24.20
+[2026-03-31 03:36:18] Ver: 602
+[2026-03-31 03:36:44] MOVE command accepted: dir=backward, ms=500, brush=off
+[2026-03-31 03:36:44] timed_move start dir=backward,ms=1000,brush=off
+[2026-03-31 03:36:46] timed_move stop: duration_done
+[2026-03-31 03:36:49] ADS value: 24.20
+[2026-03-31 03:36:50] Ver: 602
+[2026-03-31 03:37:21] ADS value: 24.16
+[2026-03-31 03:37:21] Ver: 602
+[2026-03-31 03:37:52] ADS value: 24.20
+[2026-03-31 03:37:53] Ver: 602
+[2026-03-31 03:38:11] MOVE command accepted: dir=forward, ms=500, brush=off
+[2026-03-31 03:38:11] timed_move start dir=forward,ms=1000,brush=off
+[2026-03-31 03:38:13] timed_move stop: duration_done
+[2026-03-31 03:38:24] ADS value: 24.20
+[2026-03-31 03:38:24] Ver: 602
+[2026-03-31 03:38:55] ADS value: 24.22
+[2026-03-31 03:38:56] Ver: 602
+[2026-03-31 03:39:27] ADS value: 24.21
+[2026-03-31 03:39:27] Ver: 602
+[2026-03-31 03:39:59] ADS value: 24.23
+[2026-03-31 03:39:59] Ver: 602
+[2026-03-31 04:30:33] MOVE command accepted: dir=backward, ms=500, brush=off
+[2026-03-31 04:30:34] timed_move start dir=backward,ms=1000,brush=off
+[2026-03-31 04:30:35] timed_move stop: duration_done
+[2026-03-31 04:30:46] ADS value: 24.70
+[2026-03-31 04:30:47] Ver: 602
+[2026-03-31 04:31:18] ADS value: 24.62
+[2026-03-31 04:31:18] Ver: 602
+[2026-03-31 04:31:49] ADS value: 24.66
+[2026-03-31 04:31:50] Ver: 602
+[2026-03-31 04:32:21] ADS value: 24.67
+[2026-03-31 04:32:21] Ver: 602
+[2026-03-31 04:32:52] ADS value: 24.68
+[2026-03-31 04:32:52] Ver: 602
+[2026-03-31 04:33:24] ADS value: 24.69
+[2026-03-31 04:33:24] Ver: 602
+[2026-03-31 04:33:56] ADS value: 24.63
+[2026-03-31 04:33:56] Ver: 602
+[2026-03-31 04:34:27] ADS value: 24.69
+[2026-03-31 04:34:28] Ver: 602
+[2026-03-31 04:34:59] ADS value: 24.64
+[2026-03-31 04:34:59] Ver: 602
+[2026-03-31 04:56:02] ADS value: 25.12
+[2026-03-31 04:56:02] Ver: 602
+[2026-03-31 04:56:33] ADS value: 25.22
+[2026-03-31 04:56:34] Ver: 602
+[2026-03-31 04:57:06] ADS value: 25.23
+[2026-03-31 04:57:06] Ver: 602
+[2026-03-31 04:57:38] ADS value: 25.24
+[2026-03-31 04:57:39] Ver: 602
+[2026-03-31 04:59:29] ADS value: 25.28
+[2026-03-31 04:59:30] Ver: 602
+[2026-03-31 05:00:01] ADS value: 25.24
+[2026-03-31 05:00:01] Ver: 602
+[2026-03-31 05:01:35] ADS value: 25.19
+[2026-03-31 05:01:35] Ver: 602
+[2026-03-31 05:02:09] ADS value: 25.06
+[2026-03-31 05:02:10] Ver: 602
+[2026-03-31 05:02:51] MOVE command accepted: dir=backward, ms=1500, brush=off
+[2026-03-31 05:02:54] timed_move start dir=backward,ms=1500,brush=off
+[2026-03-31 05:02:54] timed_move stop: duration_done
+[2026-03-31 05:03:00] Starting progressive OTA download...
+[2026-03-31 05:03:05] OTA Progress: 10%
+[2026-03-31 05:03:09] OTA Progress: 20%
+[2026-03-31 05:03:14] OTA Progress: 30%
+[2026-03-31 05:03:19] OTA Progress: 40%
+[2026-03-31 05:03:24] OTA Progress: 50%
+[2026-03-31 05:03:27] OTA Progress: 60%
+[2026-03-31 05:03:32] OTA Progress: 70%
+[2026-03-31 05:03:37] OTA Progress: 80%
+[2026-03-31 05:03:42] OTA Progress: 90%
+[2026-03-31 05:03:45] OTA Progress: 100%
+[2026-03-31 05:03:46] OTA download complete! Verifying...
+[2026-03-31 05:03:47] OTA 100% Complete! Rebooting now...
+[2026-03-31 05:04:19] ADS value: 24.64
+[2026-03-31 05:04:20] Ver: 604
+[2026-03-31 05:06:21] START command received: left
+[2026-03-31 05:06:28] running_front
+[2026-03-31 05:10:46] running_opposite
+[2026-03-31 05:13:10] MOVE command accepted: dir=backward, ms=500, brush=off
+[2026-03-31 05:13:10] timed_move start dir=backward,ms=1000,brush=off
+[2026-03-31 05:13:12] timed_move stop: duration_done
+[2026-03-31 05:13:18] Starting progressive OTA download...
+[2026-03-31 05:13:25] OTA Progress: 10%
+[2026-03-31 05:13:31] OTA Progress: 20%
+[2026-03-31 05:13:37] OTA Progress: 30%
+[2026-03-31 05:13:42] OTA Progress: 40%
+[2026-03-31 05:13:47] OTA Progress: 50%
+[2026-03-31 05:13:53] OTA Progress: 60%
+[2026-03-31 05:13:57] OTA Progress: 70%
+[2026-03-31 05:14:03] OTA Progress: 80%
+[2026-03-31 05:14:08] OTA Progress: 90%
+[2026-03-31 05:14:13] OTA Progress: 100%
+[2026-03-31 05:14:14] OTA download complete! Verifying...
+[2026-03-31 05:14:15] OTA 100% Complete! Rebooting now...
+[2026-03-31 05:14:47] ADS value: 24.58
+[2026-03-31 05:14:49] Ver: 604
+[2026-03-31 05:15:04] START command received: left
+[2026-03-31 05:15:05] running_front
+[2026-03-31 05:15:10] running_opposite
+[2026-03-31 05:15:23] ADS value: 25.18
+[2026-03-31 05:15:24] Ver: 604
+[2026-03-31 05:16:01] ADS value: 25.31
+[2026-03-31 05:16:01] Ver: 604
+[2026-03-31 05:16:32] running_opposite
+[2026-03-31 05:16:46] running_front
+[2026-03-31 05:23:08] OTA Progress: 60%
+[2026-03-31 05:23:17] OTA Progress: 70%
+[2026-03-31 05:23:26] OTA Progress: 80%
+[2026-03-31 05:23:34] OTA Progress: 90%
+[2026-03-31 05:23:43] OTA Progress: 100%
+[2026-03-31 05:23:43] OTA download complete! Verifying...
+[2026-03-31 05:23:44] OTA 100% Complete! Rebooting now...
+[2026-03-31 05:24:06] running_opposite
+[2026-03-31 05:24:08] running_front
+[2026-03-31 05:34:08] ADS value: 24.48
+[2026-03-31 05:34:09] Ver: 604
+[2026-03-31 05:34:28] Starting progressive OTA download...
+[2026-03-31 05:34:35] OTA Progress: 10%
+[2026-03-31 05:34:40] OTA Progress: 20%
+[2026-03-31 05:34:50] OTA Progress: 30%
+[2026-03-31 05:35:00] OTA Progress: 40%
+[2026-03-31 05:35:10] OTA Progress: 50%
+[2026-03-31 05:35:21] OTA Progress: 60%
+[2026-03-31 05:35:29] OTA Progress: 70%
+[2026-03-31 05:35:42] OTA Progress: 80%
+[2026-03-31 05:35:49] OTA Progress: 90%
+[2026-03-31 05:35:57] OTA Progress: 100%
+[2026-03-31 05:35:58] OTA download complete! Verifying...
+[2026-03-31 05:35:59] OTA 100% Complete! Rebooting now...
+[2026-03-31 05:36:15] MOVE command accepted: dir=backward, ms=1500, brush=off
+[2026-03-31 05:36:24] timed_move start dir=backward,ms=1500,brush=off
+[2026-03-31 05:36:24] timed_move stop: duration_done
+[2026-03-31 05:36:31] ADS value: 38.32
+[2026-03-31 05:36:32] Ver: 604
+[2026-03-31 05:36:40] running_opposite
+[2026-03-31 05:38:31] running_opposite
+[2026-03-31 05:39:47] ADS value: 25.34
+[2026-03-31 05:39:47] Ver: 604
+[2026-03-31 08:58:34] Starting progressive OTA download...
+[2026-03-31 08:58:38] OTA Progress: 10%
+[2026-03-31 08:58:40] OTA Progress: 20%
+[2026-03-31 08:58:44] OTA Progress: 30%
+[2026-03-31 08:58:50] OTA Progress: 40%
+[2026-03-31 08:58:52] OTA Progress: 50%
+[2026-03-31 08:58:56] OTA Progress: 60%
+[2026-03-31 08:59:00] OTA Progress: 70%
+[2026-03-31 08:59:07] OTA Progress: 80%
+[2026-03-31 08:59:11] OTA Progress: 90%
+[2026-03-31 08:59:14] OTA Progress: 100%
+[2026-03-31 08:59:14] OTA download complete! Verifying...
+[2026-03-31 08:59:15] OTA 100% Complete! Rebooting now...
+[2026-03-31 08:59:47] MOVE command accepted: dir=forward, ms=3000, brush=off
+[2026-03-31 08:59:49] timed_move start dir=forward,ms=3000,brush=off
+[2026-03-31 08:59:52] timed_move stop: duration_done
+[2026-03-31 08:59:56] ADS value: 24.45
+[2026-03-31 08:59:56] Ver: 606
+[2026-03-31 09:00:28] ADS value: 32.30
+[2026-03-31 09:00:29] Ver: 606
+[2026-03-31 09:01:00] ADS value: 25.41
+[2026-03-31 09:01:01] Ver: 606
+[2026-03-31 09:01:05] START command received: right
+[2026-03-31 09:01:07] running_opposite
+[2026-03-31 09:43:35] ADS value: 24.52
+[2026-03-31 09:43:35] Ver: 606
+[2026-03-31 10:26:33] ADS value: 24.85
+[2026-03-31 10:26:33] Ver: 606
+[2026-03-31 10:27:04] ADS value: 25.00
+[2026-03-31 10:27:05] Ver: 606
+[2026-03-31 10:27:29] running_front
+[2026-03-31 11:10:56] ADS value: 23.36
+[2026-03-31 11:10:56] Ver: 606
+[2026-03-31 11:11:19] running_front
+[2026-03-31 11:11:56] running_opposite
+[2026-03-31 11:12:01] ADS value: 23.37
+[2026-03-31 11:12:02] Ver: 606
+[2026-03-31 11:12:33] ADS value: 23.54
+[2026-03-31 11:12:34] Ver: 606
+[2026-03-31 11:13:05] ADS value: 23.54
+[2026-03-31 11:13:06] Ver: 606
+[2026-03-31 11:13:36] ADS value: 23.39
+[2026-03-31 11:13:37] Ver: 606
+[2026-03-31 11:14:08] ADS value: 23.53
+[2026-03-31 11:14:09] Ver: 606
+[2026-03-31 11:14:39] ADS value: 23.40
+[2026-03-31 11:14:40] Ver: 606
+[2026-03-31 11:15:12] ADS value: 23.56
+[2026-03-31 11:15:13] Ver: 606
+[2026-03-31 11:15:44] ADS value: 23.42
+[2026-03-31 11:15:45] Ver: 606
+[2026-03-31 11:16:16] ADS value: 23.55
+[2026-03-31 11:16:16] Ver: 606
+[2026-04-01 05:21:49] ADS value: 24.47
+[2026-04-01 05:21:49] Ver: 606
+[2026-04-01 05:23:50] ADS value: 24.38
+[2026-04-01 05:23:51] Ver: 606
+[2026-04-01 06:02:39] ADS value: 24.61
+[2026-04-01 06:02:39] ADS value: 24.52
+[2026-04-01 06:02:39] Ver: 606
+[2026-04-01 06:02:39] ADS value: 24.61
+[2026-04-01 06:02:39] Ver: 606
+[2026-04-01 06:02:39] Ver: 606
+[2026-04-01 06:02:40] ADS value: 25.05
+[2026-04-01 06:02:40] Ver: 606
+[2026-04-01 06:03:27] ADS value: 25.03
+[2026-04-01 06:03:28] Ver: 606
+[2026-04-01 06:05:18] running_opposite
+[2026-04-01 06:05:37] ADS value: 25.02
+[2026-04-01 06:05:38] Ver: 606
+[2026-04-01 06:20:42] ADS value: 38.39
+[2026-04-01 06:33:12] ADS value: 24.47
+[2026-04-01 06:33:12] Ver: 606
+[2026-04-01 06:33:49] ADS value: 38.34
+[2026-04-01 08:31:10] ADS value: 24.54
+[2026-04-01 08:31:11] Ver: 606
+[2026-04-01 08:31:41] ADS value: 38.28
+[2026-04-01 08:31:42] Ver: 606
+[2026-04-01 08:32:12] ADS value: 24.49
+[2026-04-01 08:32:13] Ver: 606
+[2026-04-01 09:31:00] ADS value: 24.41
+[2026-04-01 09:31:00] Ver: 606
+[2026-04-01 11:31:02] ADS value: 38.30
+[2026-04-01 11:31:02] Ver: 606
+[2026-04-01 11:31:33] ADS value: 24.44
+[2026-04-01 11:31:33] Ver: 606
+[2026-04-01 11:32:04] ADS value: 38.47
+[2026-04-01 11:32:04] Ver: 606
+[2026-04-01 11:32:35] ADS value: 38.27
+[2026-04-01 11:32:35] Ver: 606
+[2026-04-01 11:33:06] ADS value: 38.16
+[2026-04-01 11:33:06] Ver: 606
+[2026-04-01 11:33:37] ADS value: 38.34
+[2026-04-01 11:33:37] Ver: 606
+[2026-04-01 11:34:08] ADS value: 24.42
+[2026-04-01 11:34:09] Ver: 606
+[2026-04-01 11:34:39] ADS value: 38.23
+[2026-04-01 11:34:40] Ver: 606
+[2026-04-01 11:35:10] ADS value: 24.38
+[2026-04-01 11:35:11] Ver: 606
+[2026-04-01 11:35:21] Starting progressive OTA download...
+[2026-04-01 11:35:34] OTA Progress: 10%
+[2026-04-01 11:35:45] OTA Progress: 20%
+[2026-04-01 11:35:54] OTA Progress: 30%
+[2026-04-01 11:36:01] OTA Progress: 40%
+[2026-04-01 11:36:08] OTA Progress: 50%
+[2026-04-01 11:36:18] OTA Progress: 60%
+[2026-04-01 11:36:54] OTA STUCK: Download timed out at 619833 bytes
+[2026-04-01 11:36:54] ADS value: 38.20
+[2026-04-01 11:36:54] Ver: 606
+[2026-04-01 11:57:19] Ver: 606
+[2026-04-01 12:31:06] Starting progressive OTA download...
+[2026-04-01 12:31:10] OTA Progress: 10%
+[2026-04-01 12:31:14] OTA Progress: 20%
+[2026-04-01 12:31:17] OTA Progress: 30%
+[2026-04-01 12:31:21] OTA Progress: 40%
+[2026-04-01 12:31:25] OTA Progress: 50%
+[2026-04-01 12:31:29] OTA Progress: 60%
+[2026-04-01 12:31:33] OTA Progress: 70%
+[2026-04-01 12:31:37] OTA Progress: 80%
+[2026-04-01 12:31:40] OTA Progress: 90%
+[2026-04-01 12:31:44] OTA Progress: 100%
+[2026-04-01 12:31:45] OTA download complete! Verifying...
+[2026-04-01 12:31:45] OTA 100% Complete! Rebooting now...
+[2026-04-01 12:32:17] ADS value: 38.32
+[2026-04-01 12:32:18] Ver: 606
+[2026-04-01 12:32:48] ADS value: 38.29
+[2026-04-01 12:32:49] Ver: 606
+[2026-04-01 12:33:20] ADS value: 38.36
+[2026-04-01 12:33:20] Ver: 606
+[2026-04-01 12:33:51] ADS value: 24.34
+[2026-04-01 12:33:52] Ver: 606
+[2026-04-01 12:34:23] ADS value: 38.23
+[2026-04-01 12:34:23] Ver: 606
+[2026-04-01 12:34:54] ADS value: 24.45
+[2026-04-01 12:34:54] Ver: 606
