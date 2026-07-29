@@ -12,7 +12,7 @@ CAMERA_RECV_BUFFER = 1030
 IMAGE_FILENAME = "latest_image.jpg"
 
 BASE_DIR = Path(__file__).resolve().parent
-LOG_DIR = BASE_DIR / "logs"
+LOG_DIR = Path("/home/ubuntu/ota_stuff/logs")
 FIRMWARE_DIR = BASE_DIR / "firmware"
 
 CORS_ORIGINS = ["*"]

@@ -1,0 +1,9 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/ubuntu/backend/main.py", line 3, in <module>
+    from app.server import create_app
+  File "/home/ubuntu/backend/app/server.py", line 7, in <module>
+    from app.services.udp_client import start_udp_listener
+  File "/home/ubuntu/backend/app/services/udp_client.py", line 18, in <module>
+    udp_sock.bind(("0.0.0.0", ROBOT_UDP_PORT))
+OSError: [Errno 98] Address already in use
