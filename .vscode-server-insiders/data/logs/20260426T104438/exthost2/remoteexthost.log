@@ -1,0 +1,36 @@
+2026-04-26 10:44:57.180 [info] Extension host with pid 474113 started
+2026-04-26 10:44:57.209 [info] Lock '/home/ubuntu/.vscode-server-insiders/data/User/workspaceStorage/45f55af865e145653c84b4626bbeb41f/vscode.lock': Lock acquired.
+2026-04-26 10:44:57.411 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*'
+2026-04-26 10:44:57.486 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2026-04-26 10:44:57.657 [info] Eager extensions activated
+2026-04-26 10:44:57.657 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-26 10:44:57.658 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-26 10:44:58.709 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2026-04-26 10:45:05.853 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-26 10:48:18.618 [info] Extension host terminating: received terminate message from renderer
+2026-04-26 10:48:18.619 [info] Lock '/home/ubuntu/.vscode-server-insiders/data/User/workspaceStorage/45f55af865e145653c84b4626bbeb41f/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2026-04-26 10:48:18.641 [error] Canceled: Canceled
+	at Nc (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+	at file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:32:155393
+	at Array.forEach (<anonymous>)
+	at Ty.dispose (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:32:155333)
+	at Qz.terminate (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:119:10084)
+	at Z3.terminate (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+	at Zi (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:175:15082)
+	at Sh.value (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:175:13243)
+	at P.B (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at Vn.fire (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:32:9458)
+	at Wm.A (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:32:12574)
+	at Sh.value (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:32:10994)
+	at P.B (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at ox.acceptChunk (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:32:7941)
+	at file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:32:7227
+	at Socket.t (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/vs/workbench/api/node/extensionHostProcess.js:32:15452)
+	at Socket.emit (node:events:518:28)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2026-04-26 10:48:18.641 [info] Extension host with pid 474113 exiting with code 0

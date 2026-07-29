@@ -1,0 +1,50 @@
+2026-04-26 10:44:38.610 [info] 
+
+
+
+
+2026-04-26 10:44:38.623 [info] Extension host agent started.
+2026-04-26 10:44:38.691 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server-insiders/extensions
+2026-04-26 10:44:38.705 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server-insiders/extensions
+2026-04-26 10:44:38.758 [info] [<unknown>][bf408e91][ManagementConnection] New connection established.
+2026-04-26 10:44:38.797 [info] [<unknown>][3c1189d1][ExtensionHostConnection] New connection established.
+2026-04-26 10:44:38.894 [info] [<unknown>][3c1189d1][ExtensionHostConnection] <474051> Launched Extension Host Process.
+2026-04-26 10:44:52.670 [info] [<unknown>][bf408e91][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-04-26 10:44:52.698 [info] [<unknown>][3c1189d1][ExtensionHostConnection] <474051> Extension Host Process exited with code: 0, signal: null.
+2026-04-26 10:44:52.699 [info] Cancelling previous shutdown timeout
+2026-04-26 10:44:52.699 [info] Last EH closed, waiting before shutting down
+2026-04-26 10:44:55.646 [info] [<unknown>][b063337d][ManagementConnection] New connection established.
+2026-04-26 10:44:55.684 [info] [<unknown>][5cdb1708][ExtensionHostConnection] New connection established.
+2026-04-26 10:44:55.689 [info] [<unknown>][5cdb1708][ExtensionHostConnection] <474113> Launched Extension Host Process.
+2026-04-26 10:48:18.617 [info] [<unknown>][b063337d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-04-26 10:48:18.651 [info] [<unknown>][5cdb1708][ExtensionHostConnection] <474113> Extension Host Process exited with code: 0, signal: null.
+2026-04-26 10:48:18.651 [info] Cancelling previous shutdown timeout
+2026-04-26 10:48:18.651 [info] Last EH closed, waiting before shutting down
+2026-04-26 10:50:27.870 [info] [<unknown>][a58ce5e6][ManagementConnection] New connection established.
+2026-04-26 10:50:27.875 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/server/out/server-main.js:183:1060)
+    at process.emit (node:events:530:35)
+2026-04-26 10:50:27.908 [info] [<unknown>][d4337164][ExtensionHostConnection] New connection established.
+2026-04-26 10:50:27.913 [info] [<unknown>][d4337164][ExtensionHostConnection] <474541> Launched Extension Host Process.
+2026-04-26 10:50:45.693 [info] [<unknown>][a58ce5e6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-04-26 10:50:45.719 [info] [<unknown>][d4337164][ExtensionHostConnection] <474541> Extension Host Process exited with code: 0, signal: null.
+2026-04-26 10:50:45.719 [info] Cancelling previous shutdown timeout
+2026-04-26 10:50:45.719 [info] Last EH closed, waiting before shutting down
+2026-04-26 10:50:48.815 [info] [<unknown>][7f4eaa15][ExtensionHostConnection] New connection established.
+2026-04-26 10:50:48.820 [info] [<unknown>][7f4eaa15][ExtensionHostConnection] <474592> Launched Extension Host Process.
+2026-04-26 10:50:48.852 [info] [<unknown>][e2aa1de6][ManagementConnection] New connection established.
+2026-04-26 10:55:45.720 [info] New EH opened, aborting shutdown
+2026-04-26 11:20:10.418 [info] [<unknown>][e2aa1de6][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-04-26 11:37:21.061 [info] [<unknown>][e2aa1de6][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2026-04-26 11:37:21.061 [info] [<unknown>][e2aa1de6][ManagementConnection] The client has reconnected.
+2026-04-26 11:37:21.067 [info] [<unknown>][7f4eaa15][ExtensionHostConnection] The client has reconnected.
+2026-04-26 11:55:54.756 [info] [<unknown>][e2aa1de6][ManagementConnection] The client has reconnected.
+2026-04-26 11:56:26.107 [info] [<unknown>][7f4eaa15][ExtensionHostConnection] The client has reconnected.
+2026-04-26 12:19:45.946 [info] [<unknown>][7f4eaa15][ExtensionHostConnection] The client has reconnected.
+2026-04-26 12:19:45.949 [info] [<unknown>][e2aa1de6][ManagementConnection] The client has reconnected.
+2026-04-26 12:25:01.464 [info] [<unknown>][e2aa1de6][ManagementConnection] The client has reconnected.
+2026-04-26 12:26:19.989 [info] [<unknown>][e2aa1de6][ManagementConnection] The client has reconnected.
+2026-04-26 12:48:49.153 [info] [<unknown>][e2aa1de6][ManagementConnection] The client has reconnected.
+2026-04-26 12:53:49.425 [info] [<unknown>][7f4eaa15][ExtensionHostConnection] <474592> Extension Host Process exited with code: 0, signal: null.
+2026-04-26 12:53:49.425 [info] Last EH closed, waiting before shutting down
+2026-04-26 12:58:49.428 [info] Last EH closed, shutting down

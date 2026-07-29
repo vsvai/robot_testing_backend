@@ -1,0 +1,59 @@
+[2026-03-15 18:07:31] ADS value: 0.00
+[2026-03-15 18:07:32] Robot online
+[2026-03-15 18:07:33] Ver: 412
+[2026-03-15 18:07:34] [SIM4G] Starting non-blocking modem init
+[2026-03-15 18:07:37] [SIM4G] CMD: AT
+[2026-03-15 18:07:39] [SIM4G] RSP: <empty>
+[2026-03-15 18:07:39] [SIM4G] Command timeout
+[2026-03-15 18:07:40] [SIM4G] Init step failed: AT
+[2026-03-15 18:07:44] ADS value: 0.00
+[2026-03-15 18:07:45] Robot online
+[2026-03-15 18:07:45] Ver: 412
+[2026-03-15 18:07:56] [SIM4G] Retrying SIM bring-up
+[2026-03-15 18:07:57] ADS value: 0.00
+[2026-03-15 18:07:58] Robot online
+[2026-03-15 18:07:58] Ver: 412
+[2026-03-15 18:08:00] [SIM4G] CMD: AT
+[2026-03-15 18:08:02] [SIM4G] RSP: <empty>
+[2026-03-15 18:08:02] [SIM4G] Command timeout
+[2026-03-15 18:08:03] [SIM4G] Init step failed: AT
+[2026-03-15 18:08:09] ADS value: 0.00
+[2026-03-15 18:08:10] Robot online
+[2026-03-15 18:08:10] Ver: 412
+[2026-03-15 18:08:19] [SIM4G] Retrying SIM bring-up
+[2026-03-15 18:08:22] [SIM4G] CMD: AT
+[2026-03-15 18:08:23] ADS value: 0.00
+[2026-03-15 18:08:23] Robot online
+[2026-03-15 18:08:23] Ver: 412
+[2026-03-15 18:08:25] [SIM4G] RSP: <empty>
+[2026-03-15 18:08:25] [SIM4G] Command timeout
+[2026-03-15 18:08:25] [SIM4G] Init step failed: AT
+[2026-03-15 18:08:34] ADS value: 0.00
+[2026-03-15 18:08:34] Robot online
+[2026-03-15 18:08:35] Ver: 412
+[2026-03-15 18:08:42] [SIM4G] Retrying SIM bring-up
+[2026-03-15 18:08:44] [SIM4G] CMD: AT
+[2026-03-15 18:08:45] ADS value: 0.00
+[2026-03-15 18:08:51] Robot online
+[2026-03-15 18:08:51] Ver: 412
+[2026-03-15 18:08:52] [SIM4G] RSP: <empty>
+[2026-03-15 18:08:53] [SIM4G] Command timeout
+[2026-03-15 18:08:53] [SIM4G] Init step failed: AT
+[2026-03-15 18:09:02] ADS value: 0.00
+[2026-03-15 18:09:02] Robot online
+[2026-03-15 18:09:02] Ver: 412
+[2026-03-15 18:09:11] [SIM4G] Retrying SIM bring-up
+[2026-03-15 18:09:15] ADS value: 0.00
+[2026-03-15 18:09:15] Robot online
+[2026-03-15 18:09:16] Ver: 412
+[2026-03-15 18:09:17] [SIM4G] CMD: AT
+[2026-03-15 18:09:23] [SIM4G] RSP: <empty>
+[2026-03-15 18:09:23] [SIM4G] Command timeout
+[2026-03-15 18:09:23] [SIM4G] Init step failed: AT
+[2026-03-15 18:09:26] ADS value: 0.00
+[2026-03-15 18:09:27] Robot online
+[2026-03-15 18:09:27] Ver: 412
+[2026-03-15 18:09:38] ADS value: 0.00
+[2026-03-15 18:09:38] Robot online
+[2026-03-15 18:09:38] Ver: 412
+[2026-03-15 18:09:40] [SIM4G] Retrying SIM bring-up

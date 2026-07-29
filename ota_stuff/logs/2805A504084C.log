@@ -1,0 +1,331 @@
+[2026-04-05 13:47:49] ADS value: 0.00
+[2026-04-05 13:47:50] Ver: 301
+[2026-04-05 13:48:25] ADS value: 0.00
+[2026-04-05 13:48:26] Ver: 301
+[2026-04-05 13:48:58] ADS value: 0.00
+[2026-04-05 13:48:59] Ver: 301
+[2026-04-05 13:49:29] ADS value: 0.00
+[2026-04-05 13:49:30] Ver: 301
+[2026-04-05 13:49:33] START command received: right
+[2026-04-05 13:49:34] running_opposite
+[2026-04-05 13:51:18] START command received: right
+[2026-04-05 13:51:19] running_opposite
+[2026-04-05 13:58:53] ADS value: 0.00
+[2026-04-05 13:59:25] ADS value: 0.00
+[2026-04-05 13:59:26] Ver: 301
+[2026-04-05 13:59:42] START command received: left
+[2026-04-05 13:59:44] running_front
+[2026-04-05 14:00:28] START command received: left
+[2026-04-05 14:00:30] running_front
+[2026-04-05 14:02:35] ADS value: 0.00
+[2026-04-05 14:02:36] Ver: 301
+[2026-04-05 14:03:07] ADS value: 0.00
+[2026-04-05 14:03:08] Ver: 301
+[2026-04-05 14:03:38] START command received: left
+[2026-04-05 14:03:39] running_front
+[2026-04-05 14:09:05] ADS value: 0.00
+[2026-04-05 14:09:06] Ver: 301
+[2026-04-05 14:09:37] ADS value: 0.00
+[2026-04-05 14:09:37] Ver: 301
+[2026-04-05 14:10:08] ADS value: 0.00
+[2026-04-05 14:10:09] Ver: 301
+[2026-04-05 14:10:39] ADS value: 0.00
+[2026-04-05 14:10:40] Ver: 301
+[2026-04-05 14:11:33] ADS value: 0.00
+[2026-04-05 14:11:34] Ver: 301
+[2026-04-05 14:12:05] running_opposite
+[2026-04-05 14:14:01] START command received: right
+[2026-04-05 14:14:03] running_opposite
+[2026-04-05 14:17:21] ADS value: 0.00
+[2026-04-05 14:17:55] ADS value: 0.00
+[2026-04-05 14:17:55] Ver: 301
+[2026-04-05 14:18:26] ADS value: 0.00
+[2026-04-05 14:18:27] Ver: 301
+[2026-04-05 14:18:58] ADS value: 0.00
+[2026-04-05 14:18:58] Ver: 301
+[2026-04-05 14:19:29] ADS value: 0.00
+[2026-04-05 14:19:30] Ver: 301
+[2026-04-05 14:20:01] ADS value: 0.00
+[2026-04-05 14:20:01] Ver: 301
+[2026-04-05 14:20:32] ADS value: 0.00
+[2026-04-05 14:20:33] Ver: 301
+[2026-04-05 14:21:04] ADS value: 0.00
+[2026-04-05 14:21:04] Ver: 301
+[2026-04-05 14:21:36] ADS value: 0.00
+[2026-04-05 14:21:36] Ver: 301
+[2026-04-05 14:22:09] ADS value: 0.00
+[2026-04-05 14:22:09] Ver: 301
+[2026-04-05 14:22:41] ADS value: 0.00
+[2026-04-05 14:22:41] Ver: 301
+[2026-04-05 14:23:12] ADS value: 0.00
+[2026-04-05 14:23:13] Ver: 301
+[2026-04-05 14:23:47] ADS value: 0.00
+[2026-04-05 14:23:47] Ver: 301
+[2026-04-05 14:24:18] ADS value: 0.00
+[2026-04-05 14:24:18] Ver: 301
+[2026-04-05 14:24:49] ADS value: 0.00
+[2026-04-05 14:24:50] Ver: 301
+[2026-04-05 14:25:21] ADS value: 0.00
+[2026-04-05 14:25:21] Ver: 301
+[2026-04-05 14:25:52] ADS value: 0.00
+[2026-04-05 14:25:53] Ver: 301
+[2026-04-05 14:26:24] ADS value: 0.00
+[2026-04-05 14:26:25] Ver: 301
+[2026-04-05 14:26:55] ADS value: 0.00
+[2026-04-05 14:26:56] Ver: 301
+[2026-04-05 14:27:27] ADS value: 0.00
+[2026-04-05 14:27:27] Ver: 301
+[2026-04-05 14:28:17] ADS value: 0.00
+[2026-04-05 14:28:18] Ver: 301
+[2026-04-05 14:28:25] START command received: left
+[2026-04-05 14:28:27] running_front
+[2026-04-05 14:30:14] START command received: left
+[2026-04-05 14:30:15] running_front
+[2026-04-06 07:03:04] START command received: left
+[2026-04-06 07:03:05] running_front
+[2026-04-09 07:31:13] ADS value: 0.00
+[2026-04-09 07:31:13] Ver: 301
+[2026-04-09 07:33:45] ADS value: 0.00
+[2026-04-09 07:33:45] Ver: 301
+[2026-04-09 07:33:57] START command received: right
+[2026-04-09 07:33:58] running_opposite
+[2026-04-09 07:34:44] Starting progressive OTA download...
+[2026-04-09 07:34:47] OTA Progress: 10%
+[2026-04-09 07:34:49] OTA Progress: 20%
+[2026-04-09 07:34:52] OTA Progress: 30%
+[2026-04-09 07:34:54] OTA Progress: 40%
+[2026-04-09 07:34:57] OTA Progress: 50%
+[2026-04-09 07:35:00] OTA Progress: 60%
+[2026-04-09 07:35:03] OTA Progress: 70%
+[2026-04-09 07:35:06] OTA Progress: 80%
+[2026-04-09 07:35:08] OTA Progress: 90%
+[2026-04-09 07:35:16] OTA Progress: 100%
+[2026-04-09 07:35:19] OTA download complete! Verifying...
+[2026-04-09 07:35:19] OTA 100% Complete! Rebooting now...
+[2026-04-09 07:35:45] START command received: right
+[2026-04-09 07:35:46] running_opposite
+[2026-04-09 07:36:47] Starting progressive OTA download...
+[2026-04-09 07:36:50] OTA Progress: 10%
+[2026-04-09 07:36:53] OTA Progress: 20%
+[2026-04-09 07:36:56] OTA Progress: 30%
+[2026-04-09 07:36:59] OTA Progress: 40%
+[2026-04-09 07:37:02] OTA Progress: 50%
+[2026-04-09 07:37:04] OTA Progress: 60%
+[2026-04-09 07:37:07] OTA Progress: 70%
+[2026-04-09 07:37:10] OTA Progress: 80%
+[2026-04-09 07:37:12] OTA Progress: 90%
+[2026-04-09 07:37:15] OTA Progress: 100%
+[2026-04-09 07:37:15] OTA download complete! Verifying...
+[2026-04-09 07:37:16] OTA 100% Complete! Rebooting now...
+[2026-04-09 07:37:32] START command received: right
+[2026-04-09 07:37:33] running_opposite
+[2026-04-09 07:38:21] ADS value: 0.00
+[2026-04-09 07:38:21] Ver: 30
+[2026-04-09 07:41:10] ADS value: 0.00
+[2026-04-09 07:41:10] Ver: 30
+[2026-04-09 07:42:11] ADS value: 0.00
+[2026-04-09 07:42:12] Ver: 30
+[2026-04-09 07:42:43] ADS value: 0.00
+[2026-04-09 07:42:43] Ver: 30
+[2026-04-09 07:43:14] ADS value: 0.00
+[2026-04-09 07:43:15] Ver: 30
+[2026-04-09 07:59:04] START command received: right
+[2026-04-09 07:59:05] running_opposite
+[2026-04-09 08:02:30] START command received: right
+[2026-04-09 08:02:30] running_opposite
+[2026-04-09 08:06:32] running_front_stop
+[2026-04-09 08:06:32] ADS value: 0.00
+[2026-04-09 08:06:33] Ver: 30
+[2026-04-09 10:55:55] ADS value: 0.00
+[2026-04-09 10:55:55] Ver: 501
+[2026-04-09 10:56:20] START command received: right
+[2026-04-09 10:56:23] running_opposite
+[2026-04-09 10:57:35] RobotStop_triggered_right
+[2026-04-09 10:57:36] running_front
+[2026-04-09 10:57:37] ADS value: 0.00
+[2026-04-09 10:57:37] Ver: 501
+[2026-04-09 10:57:59] START command received: left
+[2026-04-09 10:58:01] running_front
+[2026-04-09 11:03:07] stop_maxrtime
+[2026-04-09 11:03:08] RobotStop_triggered_left
+[2026-04-09 11:03:11] running_opposite
+[2026-04-09 11:08:17] maxruntime
+[2026-04-09 11:08:18] RobotStop_triggered_left
+[2026-04-09 11:08:18] ADS value: 0.00
+[2026-04-09 11:08:19] Ver: 501
+[2026-06-06 17:13:18] ADS value: 0.00, Ver: 106
+[2026-06-06 17:14:55] ADS value: 0.00, Ver: 106
+[2026-06-06 17:15:28] ADS value: 0.00, Ver: 106
+[2026-06-06 17:16:32] ADS value: 0.00, Ver: 106
+[2026-06-06 17:20:48] ADS value: 0.00, Ver: 106
+[2026-06-06 17:21:18] Starting progressive OTA download...
+[2026-06-06 17:21:19] OTA Failed: HTTP Error -1
+[2026-06-06 17:21:20] ADS value: 0.00, Ver: 106
+[2026-06-06 17:22:20] Starting progressive OTA download...
+[2026-06-06 17:22:20] OTA Failed: HTTP Error -1
+[2026-06-06 17:22:24] ADS value: 0.00, Ver: 106
+[2026-06-06 17:22:54] ADS value: 0.00, Ver: 106
+[2026-06-06 17:23:25] ADS value: 0.00, Ver: 106
+[2026-06-06 17:23:56] ADS value: 0.00, Ver: 106
+[2026-06-06 17:41:50] ADS value: 0.00, Ver: 106
+[2026-06-06 17:42:21] ADS value: 0.00, Ver: 106
+[2026-06-06 17:42:52] ADS value: 0.00, Ver: 106
+[2026-06-06 17:44:25] Starting progressive OTA download...
+[2026-06-06 17:44:26] OTA Failed: HTTP Error -1
+[2026-06-06 17:44:27] ADS value: 0.00, Ver: 106
+[2026-06-06 17:44:58] ADS value: 0.00, Ver: 106
+[2026-06-06 17:45:27] Starting progressive OTA download...
+[2026-06-06 17:45:28] OTA Failed: HTTP Error -1
+[2026-06-06 17:45:29] ADS value: 0.00, Ver: 106
+[2026-06-06 17:46:00] ADS value: 0.00, Ver: 106
+[2026-06-06 17:48:46] ADS value: 0.00, Ver: 106
+[2026-06-06 17:49:17] ADS value: 0.00, Ver: 106
+[2026-06-06 17:49:48] ADS value: 0.00, Ver: 106
+[2026-06-06 17:50:17] Starting progressive OTA download...
+[2026-06-06 17:50:18] OTA Failed: HTTP Error -1
+[2026-06-06 17:50:19] ADS value: 0.00, Ver: 106
+[2026-06-06 17:50:54] ADS value: 0.00, Ver: 106
+[2026-06-06 17:52:58] ADS value: 0.00, Ver: 106
+[2026-06-06 17:54:35] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 17:54:36] SIM4G OTA Failed: HTTP Download error -5
+[2026-06-06 17:55:11] ADS value: 0.00, Ver: 106
+[2026-06-06 17:55:37] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 17:55:39] SIM4G OTA Failed: HTTP Download error -5
+[2026-06-06 18:03:00] ADS value: 0.00, Ver: 106
+[2026-06-06 18:03:33] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 18:04:04] ADS value: 0.00, Ver: 106
+[2026-06-06 18:04:34] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 18:04:36] ADS value: 0.00, Ver: 106
+[2026-06-06 18:05:07] ADS value: 0.00, Ver: 106
+[2026-06-06 18:05:36] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 18:05:38] ADS value: 0.00, Ver: 106
+[2026-06-06 18:08:23] ADS value: 0.00, Ver: 106
+[2026-06-06 18:08:54] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 18:08:55] ADS value: 0.00, Ver: 106
+[2026-06-06 18:09:26] ADS value: 0.00, Ver: 106
+[2026-06-06 18:09:55] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 18:10:30] ADS value: 0.00, Ver: 106
+[2026-06-06 18:10:57] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 18:11:02] ADS value: 0.00, Ver: 106
+[2026-06-06 18:11:58] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 18:12:04] ADS value: 0.00, Ver: 106
+[2026-06-06 18:12:34] ADS value: 0.00, Ver: 106
+[2026-06-06 18:12:59] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 18:13:35] ADS value: 0.00, Ver: 106
+[2026-06-06 18:14:01] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 18:14:07] ADS value: 0.00, Ver: 106
+[2026-06-06 18:15:02] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 18:15:10] ADS value: 0.00, Ver: 106
+[2026-06-06 18:28:05] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 18:29:57] ADS value: 0.00, Ver: 106
+[2026-06-06 18:30:27] Starting SIM4G OTA download to Quectel RAM...
+[2026-06-06 18:32:19] ADS value: 0.00, Ver: 106
+[2026-06-06 18:36:07] ADS value: 0.00, Ver: 106
+[2026-06-06 18:50:39] ADS value: 0.00, Ver: 106
+[2026-06-06 18:51:10] ADS value: 0.00, Ver: 106
+[2026-06-06 18:51:40] ADS value: 0.00, Ver: 106
+[2026-06-06 18:52:11] ADS value: 0.00, Ver: 106
+[2026-06-06 18:52:42] ADS value: 0.00, Ver: 106
+[2026-06-06 18:53:13] ADS value: 0.00, Ver: 106
+[2026-06-06 18:53:44] ADS value: 0.00, Ver: 106
+[2026-06-06 18:59:53] ADS value: 0.00, Ver: 106
+[2026-06-06 19:02:53] ADS value: 0.00, Ver: 106
+[2026-06-06 19:09:50] ADS value: 0.00, Ver: 106
+[2026-06-06 19:17:53] ADS value: 0.00, Ver: 106
+[2026-06-06 19:24:36] ADS value: 0.00, Ver: 106
+[2026-06-06 19:28:48] ADS value: 0.00, Ver: 106
+[2026-06-06 19:33:30] ADS value: 0.00, Ver: 106
+[2026-06-06 19:37:07] ADS value: 0.00, Ver: 106
+[2026-06-06 19:40:46] ADS value: 0.00, Ver: 106
+[2026-06-06 19:46:42] ADS value: 0.00, Ver: 106
+[2026-06-06 19:53:58] ADS value: 0.00, Ver: 106
+[2026-06-06 19:56:26] ADS value: 0.00, Ver: 106
+[2026-06-06 19:58:51] ADS value: 0.00, Ver: 106
+[2026-06-08 07:50:37] Boot complete
+[2026-06-08 07:50:52] ADS value: 0.00, Ver: 106
+[2026-06-08 07:52:36] Boot complete
+[2026-06-08 07:52:54] ADS value: 0.00, Ver: 106
+[2026-06-08 07:53:39] Boot complete
+[2026-06-08 07:55:40] Boot complete
+[2026-06-08 07:56:01] ADS value: 0.00, Ver: 106
+[2026-06-08 07:57:48] Boot complete
+[2026-06-08 07:58:06] ADS value: 0.00, Ver: 106
+[2026-06-08 07:59:51] Boot complete
+[2026-06-08 08:00:09] ADS value: 0.00, Ver: 106
+[2026-06-08 08:01:55] Boot complete
+[2026-06-08 08:02:38] ADS value: 0.00, Ver: 106
+[2026-06-08 08:02:56] Boot complete
+[2026-06-08 08:03:12] ADS value: 0.00, Ver: 106
+[2026-06-08 08:05:18] Boot complete
+[2026-06-08 08:05:18] ADS value: 0.00, Ver: 106
+[2026-06-08 08:05:59] Boot complete
+[2026-06-08 08:06:14] ADS value: 0.00, Ver: 106
+[2026-06-08 08:08:03] Boot complete
+[2026-06-08 08:10:06] Boot complete
+[2026-06-08 08:10:25] ADS value: 0.00, Ver: 106
+[2026-06-08 08:11:09] Boot complete
+[2026-06-08 08:13:11] Boot complete
+[2026-06-08 08:13:27] ADS value: 0.00, Ver: 106
+[2026-06-08 08:15:11] Boot complete
+[2026-06-08 08:15:28] ADS value: 0.00, Ver: 106
+[2026-06-08 08:17:33] ADS value: 0.00, Ver: 106
+[2026-06-08 08:18:15] Boot complete
+[2026-06-08 08:18:31] ADS value: 0.00, Ver: 106
+[2026-06-08 08:19:17] Boot complete
+[2026-06-08 08:19:32] ADS value: 0.00, Ver: 106
+[2026-06-08 08:20:17] Boot complete
+[2026-06-08 08:20:33] ADS value: 0.00, Ver: 106
+[2026-06-08 08:22:18] Boot complete
+[2026-06-08 08:22:34] ADS value: 0.00, Ver: 106
+[2026-06-08 08:24:23] Boot complete
+[2026-06-08 08:24:40] ADS value: 0.00, Ver: 106
+[2026-06-08 08:26:44] ADS value: 0.00, Ver: 106
+[2026-06-08 08:28:29] Boot complete
+[2026-06-08 08:28:47] ADS value: 0.00, Ver: 106
+[2026-06-08 08:29:32] Boot complete
+[2026-06-08 08:29:47] ADS value: 0.00, Ver: 106
+[2026-06-08 08:31:41] Boot complete
+[2026-06-08 08:31:59] ADS value: 0.00, Ver: 106
+[2026-06-08 08:33:46] Boot complete
+[2026-06-08 08:34:02] ADS value: 0.00, Ver: 106
+[2026-06-08 08:36:50] Boot complete
+[2026-06-08 08:37:08] ADS value: 0.00, Ver: 106
+[2026-06-08 08:38:53] Boot complete
+[2026-06-08 08:40:57] Boot complete
+[2026-06-08 08:41:15] ADS value: 0.00, Ver: 106
+[2026-06-08 08:42:59] Boot complete
+[2026-06-08 08:45:38] Boot complete
+[2026-06-08 08:45:38] ADS value: 0.00, Ver: 106
+[2026-06-08 08:46:07] Boot complete
+[2026-06-08 08:46:22] ADS value: 0.00, Ver: 106
+[2026-06-08 08:48:07] Boot complete
+[2026-06-08 08:48:25] ADS value: 0.00, Ver: 106
+[2026-06-08 08:50:47] Boot complete
+[2026-06-08 08:50:47] ADS value: 0.00, Ver: 106
+[2026-06-08 08:52:13] Boot complete
+[2026-06-08 08:52:34] ADS value: 0.00, Ver: 106
+[2026-06-08 08:54:18] Boot complete
+[2026-06-08 08:54:34] ADS value: 0.00, Ver: 106
+[2026-06-08 08:58:21] Boot complete
+[2026-06-08 08:58:40] ADS value: 0.00, Ver: 106
+[2026-06-08 09:00:27] Boot complete
+[2026-06-08 09:00:41] ADS value: 0.00, Ver: 106
+[2026-06-08 10:40:34] ADS value: 0.00, Ver: 106
+[2026-06-08 11:03:20] ADS value: 0.00, Ver: 106
+[2026-06-08 11:06:04] ADS value: 0.00, Ver: 106
+[2026-06-08 11:06:06] running_opposite
+[2026-06-08 11:06:56] running_front
+[2026-06-08 11:07:48] running_opposite
+[2026-06-08 11:08:07] running_front
+[2026-06-08 11:08:29] running_front
+[2026-06-08 11:08:42] running_opposite
+[2026-06-08 11:12:00] running_opposite
+[2026-06-08 11:12:08] running_front
+[2026-06-08 11:15:23] ADS value: 0.00, Ver: 106
+[2026-06-08 11:15:47] running_opposite
+[2026-06-08 11:15:55] running_front
+[2026-06-08 11:18:04] ADS value: 0.00, Ver: 106
+[2026-06-08 11:18:46] ADS value: 0.00, Ver: 106
+[2026-06-08 11:29:11] running_opposite
+[2026-06-08 11:29:35] running_front
+[2026-06-08 11:30:59] running_opposite

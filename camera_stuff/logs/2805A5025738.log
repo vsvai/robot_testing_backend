@@ -1,0 +1,83 @@
+[2026-03-23 17:33:43] version: 4 || ADS value: 24.31
+[2026-03-23 17:33:43] Wifi Timeout Time300000
+[2026-03-23 17:34:14] version: 4 || ADS value: 24.31
+[2026-03-23 17:34:15] Wifi Timeout Time300000
+[2026-03-23 17:34:46] version: 4 || ADS value: 24.31
+[2026-03-23 17:34:46] Wifi Timeout Time300000
+[2026-03-23 17:35:56] version: 4 || ADS value: 24.31
+[2026-03-23 17:35:57] Wifi Timeout Time300000
+[2026-03-23 17:36:28] version: 4 || ADS value: 24.31
+[2026-03-23 17:36:28] Wifi Timeout Time300000
+[2026-03-23 17:37:02] version: 4 || ADS value: 24.31
+[2026-03-23 17:37:03] Wifi Timeout Time300000
+[2026-03-23 17:37:34] version: 4 || ADS value: 24.31
+[2026-03-23 17:37:34] Wifi Timeout Time300000
+[2026-03-23 18:31:10] Starting progressive OTA download...
+[2026-03-23 18:31:13] OTA Progress: 10%
+[2026-03-23 18:31:16] OTA Progress: 20%
+[2026-03-23 18:31:19] OTA Progress: 30%
+[2026-03-23 18:31:22] OTA Progress: 40%
+[2026-03-23 18:31:26] OTA Progress: 50%
+[2026-03-23 18:31:29] OTA Progress: 60%
+[2026-03-23 18:31:32] OTA Progress: 70%
+[2026-03-23 18:31:35] OTA Progress: 80%
+[2026-03-23 18:31:40] OTA Progress: 90%
+[2026-03-23 18:31:43] OTA Progress: 100%
+[2026-03-23 18:31:44] OTA download complete! Verifying...
+[2026-03-23 18:31:44] OTA 100% Complete! Rebooting now...
+[2026-03-23 18:32:16] version: 4 || ADS value: 24.30
+[2026-03-23 18:32:17] Wifi Timeout Time300000
+[2026-03-23 18:32:49] version: 4 || ADS value: 24.29
+[2026-03-23 18:32:49] Wifi Timeout Time300000
+[2026-03-23 18:33:20] version: 4 || ADS value: 24.29
+[2026-03-23 18:33:21] Wifi Timeout Time300000
+[2026-03-23 18:33:22] WiFi minute set: 25
+[2026-03-23 18:33:53] version: 4 || ADS value: 24.29
+[2026-03-23 18:33:53] Wifi Timeout Time1500000
+[2026-03-23 18:34:24] version: 4 || ADS value: 24.29
+[2026-03-23 18:34:25] Wifi Timeout Time1500000
+[2026-03-23 18:34:26] Starting progressive OTA download...
+[2026-03-23 18:34:29] OTA Progress: 10%
+[2026-03-23 18:34:32] OTA Progress: 20%
+[2026-03-23 18:34:35] OTA Progress: 30%
+[2026-03-23 18:34:38] OTA Progress: 40%
+[2026-03-23 18:34:41] OTA Progress: 50%
+[2026-03-23 18:34:44] OTA Progress: 60%
+[2026-03-23 18:34:47] OTA Progress: 70%
+[2026-03-23 18:34:50] OTA Progress: 80%
+[2026-03-23 18:34:53] OTA Progress: 90%
+[2026-03-23 18:34:56] OTA Progress: 100%
+[2026-03-23 18:34:56] OTA download complete! Verifying...
+[2026-03-23 18:34:57] OTA 100% Complete! Rebooting now...
+[2026-03-23 18:35:29] version: 4 || ADS value: 24.29
+[2026-03-23 18:35:30] Wifi Timeout Time300000
+[2026-03-23 18:36:01] version: 4 || ADS value: 24.29
+[2026-03-23 18:36:01] Wifi Timeout Time300000
+[2026-03-23 18:36:32] version: 4 || ADS value: 24.29
+[2026-03-23 18:36:33] Wifi Timeout Time300000
+[2026-03-23 18:37:04] version: 4 || ADS value: 24.29
+[2026-03-23 18:37:04] Wifi Timeout Time300000
+[2026-03-23 18:37:05] Starting progressive OTA download...
+[2026-03-23 18:37:09] OTA Progress: 10%
+[2026-03-23 18:37:13] OTA Progress: 20%
+[2026-03-23 18:37:20] OTA Progress: 30%
+[2026-03-23 18:37:26] OTA Progress: 40%
+[2026-03-23 18:37:31] OTA Progress: 50%
+[2026-03-23 18:37:43] OTA STUCK: Download timed out at 661431 bytes
+[2026-03-23 18:37:44] version: 4 || ADS value: 24.29
+[2026-03-23 18:37:44] Wifi Timeout Time300000
+[2026-03-23 18:38:16] version: 4 || ADS value: 24.29
+[2026-03-23 18:38:16] Wifi Timeout Time300000
+[2026-03-23 18:38:17] Starting progressive OTA download...
+[2026-03-23 18:38:21] OTA Progress: 10%
+[2026-03-23 18:38:25] OTA Progress: 20%
+[2026-03-23 18:38:30] OTA Progress: 30%
+[2026-03-23 18:38:33] OTA Progress: 40%
+[2026-03-23 18:38:37] OTA Progress: 50%
+[2026-03-23 18:38:40] OTA Progress: 60%
+[2026-03-23 18:38:49] OTA Progress: 70%
+[2026-03-23 18:38:52] OTA Progress: 80%
+[2026-03-23 18:38:55] OTA Progress: 90%
+[2026-03-23 18:38:58] OTA Progress: 100%
+[2026-03-23 18:38:59] OTA download complete! Verifying...
+[2026-03-23 18:38:59] OTA 100% Complete! Rebooting now...

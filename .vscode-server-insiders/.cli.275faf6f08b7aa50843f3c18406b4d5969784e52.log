@@ -1,0 +1,6 @@
+Listening on 127.0.0.1:40531
+[2026-04-26 22:49:08] info Disposed of connection to running server.
+[2026-04-26 22:49:09] info Checking /home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/log.txt and /home/ubuntu/.vscode-server-insiders/cli/servers/Insiders-275faf6f08b7aa50843f3c18406b4d5969784e52/pid.txt for a running server...
+[2026-04-26 22:49:09] info Starting server...
+[2026-04-26 22:49:09] info Server started
+[2026-04-26 23:08:41] info Disposed of connection to running server.

@@ -1,0 +1,985 @@
+[2026-04-19 16:57:15] ADS value: 0.00
+[2026-04-19 16:57:16] Ver: 701
+[2026-04-19 16:58:17] ADS value: 0.00
+[2026-04-19 16:58:18] Ver: 701
+[2026-04-19 17:01:11] ADS value: 0.00
+[2026-04-19 17:01:11] Ver: 701
+[2026-04-19 17:02:12] ADS value: 0.00
+[2026-04-19 17:02:13] Ver: 701
+[2026-04-19 17:03:22] Ver: 701
+[2026-04-19 17:04:58] Ver: 701
+[2026-04-19 17:06:00] Ver: 701
+[2026-04-19 17:06:33] ADS value: 0.00
+[2026-04-19 17:06:34] Ver: 701
+[2026-04-19 17:08:41] ADS value: 0.00
+[2026-04-19 17:08:42] Ver: 701
+[2026-04-19 17:09:43] ADS value: 0.00
+[2026-04-19 17:11:32] ADS value: 0.00
+[2026-04-19 17:11:33] Ver: 701
+[2026-04-19 17:12:33] ADS value: 0.00
+[2026-04-19 17:12:34] Ver: 701
+[2026-04-19 17:13:34] START command received: left
+[2026-04-19 17:13:36] running_front
+[2026-04-19 17:17:37] running_opposite
+[2026-04-19 17:21:36] ADS value: 0.00
+[2026-04-19 17:21:36] Ver: 701
+[2026-04-19 17:26:44] running_opposite
+[2026-04-19 18:28:11] ADS value: 0.00
+[2026-04-19 18:28:12] Ver: 701
+[2026-04-19 18:29:22] ADS value: 0.00
+[2026-04-19 18:30:26] ADS value: 0.00
+[2026-04-19 18:31:28] ADS value: 0.00
+[2026-04-19 18:31:29] Ver: 701
+[2026-04-19 18:33:32] ADS value: 0.00
+[2026-04-19 18:33:33] Ver: 701
+[2026-04-19 18:34:38] ADS value: 0.00
+[2026-04-19 18:34:39] Ver: 701
+[2026-04-19 18:35:51] Ver: 701
+[2026-04-19 18:36:51] ADS value: 0.00
+[2026-04-19 18:36:52] Ver: 701
+[2026-04-19 18:37:53] ADS value: 0.00
+[2026-04-19 18:37:54] Ver: 701
+[2026-04-19 18:38:59] ADS value: 0.00
+[2026-04-19 18:38:59] Ver: 701
+[2026-04-19 18:40:04] ADS value: 0.00
+[2026-04-19 18:41:09] ADS value: 0.00
+[2026-04-19 18:41:09] Ver: 701
+[2026-04-19 18:42:14] ADS value: 0.00
+[2026-04-19 18:42:15] Ver: 701
+[2026-04-19 18:43:19] ADS value: 0.00
+[2026-04-19 18:43:20] Ver: 701
+[2026-04-19 18:44:24] ADS value: 0.00
+[2026-04-19 18:44:25] Ver: 701
+[2026-04-19 18:46:39] ADS value: 0.00
+[2026-04-19 18:46:40] Ver: 701
+[2026-04-19 18:47:41] ADS value: 0.00
+[2026-04-19 18:47:41] Ver: 701
+[2026-04-19 18:49:56] ADS value: 0.00
+[2026-04-19 18:49:57] Ver: 701
+[2026-04-19 18:50:58] ADS value: 0.00
+[2026-04-19 18:50:59] Ver: 701
+[2026-04-19 18:52:02] ADS value: 0.00
+[2026-04-19 18:52:02] Ver: 701
+[2026-04-19 18:56:56] Boot complete
+[2026-04-19 18:57:05] ADS value: 0.00
+[2026-04-19 18:57:05] Ver: 701
+[2026-04-19 18:57:31] ADS value: 0.00
+[2026-04-19 18:57:31] Ver: 701
+[2026-04-19 18:59:12] ADS value: 0.00
+[2026-04-19 18:59:12] Ver: 701
+[2026-04-19 19:36:13] Boot complete
+[2026-04-19 19:36:22] ADS value: 0.00
+[2026-04-19 19:36:23] Ver: 701
+[2026-04-19 19:36:44] ADS value: 0.00
+[2026-04-19 19:36:45] Ver: 701
+[2026-04-19 19:37:06] ADS value: 0.00
+[2026-04-19 19:37:06] Ver: 701
+[2026-04-19 19:37:27] ADS value: 0.00
+[2026-04-19 19:37:28] Ver: 701
+[2026-04-19 19:37:49] ADS value: 0.00
+[2026-04-19 19:37:49] Ver: 701
+[2026-04-19 19:38:11] ADS value: 0.00
+[2026-04-19 19:38:11] Ver: 701
+[2026-04-19 19:38:32] ADS value: 0.00
+[2026-04-19 19:38:33] Ver: 701
+[2026-04-19 19:38:57] ADS value: 0.00
+[2026-04-19 19:38:58] Ver: 701
+[2026-04-19 19:39:19] ADS value: 0.00
+[2026-04-19 19:39:20] Ver: 701
+[2026-04-19 19:39:41] ADS value: 0.00
+[2026-04-19 19:39:42] Ver: 701
+[2026-04-26 11:59:46] ADS value: 22.39, Ver: 1
+[2026-04-26 12:00:48] ADS value: 22.44, Ver: 1
+[2026-04-26 12:01:48] ADS value: 22.39, Ver: 1
+[2026-04-26 12:02:50] ADS value: 22.42, Ver: 1
+[2026-04-26 12:03:51] ADS value: 22.45, Ver: 1
+[2026-04-26 12:04:52] ADS value: 22.44, Ver: 1
+[2026-04-26 12:05:54] ADS value: 22.40, Ver: 1
+[2026-04-26 12:06:55] ADS value: 22.44, Ver: 1
+[2026-04-26 12:07:56] ADS value: 22.40, Ver: 1
+[2026-04-26 12:08:57] ADS value: 22.40, Ver: 1
+[2026-04-26 12:09:58] ADS value: 22.40, Ver: 1
+[2026-04-26 12:10:59] ADS value: 22.40, Ver: 1
+[2026-04-26 12:12:01] ADS value: 22.45, Ver: 1
+[2026-04-26 12:13:02] ADS value: 22.41, Ver: 1
+[2026-04-26 12:14:03] ADS value: 22.41, Ver: 1
+[2026-04-26 12:14:52] running_front
+[2026-04-26 12:14:59] running_opposite
+[2026-04-26 12:16:58] running_front
+[2026-04-26 12:17:18] running_opposite
+[2026-04-26 12:17:31] Boot complete
+[2026-04-26 12:17:34] running_front
+[2026-04-26 12:17:40] running_opposite
+[2026-04-26 12:18:22] running_front
+[2026-04-26 12:18:31] running_opposite
+[2026-04-26 12:18:43] ADS value: 22.35, Ver: 1
+[2026-04-26 12:19:23] running_front
+[2026-04-26 12:19:31] running_opposite
+[2026-04-26 12:19:52] ADS value: 22.34, Ver: 1
+[2026-04-26 12:20:09] running_front
+[2026-04-26 12:20:16] running_opposite
+[2026-04-26 12:21:00] ADS value: 22.35, Ver: 1
+[2026-04-26 12:21:10] running_front
+[2026-04-26 12:21:17] running_opposite
+[2026-04-26 12:22:01] ADS value: 22.34, Ver: 1
+[2026-04-26 12:22:37] running_front
+[2026-04-26 12:22:44] running_opposite
+[2026-04-26 12:23:02] running_front
+[2026-04-26 12:23:23] Boot complete
+[2026-04-26 12:23:26] running_opposite
+[2026-04-26 12:23:35] running_front
+[2026-04-26 12:23:58] Boot complete
+[2026-04-26 12:24:18] running_front
+[2026-04-26 12:24:32] running_opposite
+[2026-04-26 12:24:37] running_front
+[2026-04-26 12:25:30] ADS value: 22.33, Ver: 1
+[2026-04-26 12:25:33] running_front
+[2026-04-26 12:25:38] running_opposite
+[2026-04-26 12:25:53] running_front
+[2026-04-26 12:25:59] running_opposite
+[2026-04-26 12:26:56] ADS value: 22.30, Ver: 1
+[2026-04-26 12:27:04] running_front
+[2026-04-26 12:27:10] running_opposite
+[2026-04-26 12:27:20] running_front
+[2026-04-26 12:27:26] running_opposite
+[2026-04-26 12:28:05] running_front
+[2026-04-26 12:29:02] ADS value: 22.30, Ver: 1
+[2026-04-26 12:30:07] ADS value: 22.31, Ver: 1
+[2026-04-26 12:31:08] ADS value: 22.31, Ver: 1
+[2026-04-26 12:32:08] running_front
+[2026-04-26 12:32:15] running_opposite
+[2026-04-26 12:32:26] ADS value: 22.29, Ver: 1
+[2026-04-26 12:32:39] running_front
+[2026-04-26 12:32:56] Boot complete
+[2026-04-26 12:33:14] running_opposite
+[2026-04-26 12:33:25] running_front
+[2026-04-26 12:33:47] ADS value: 22.29, Ver: 1
+[2026-04-26 12:34:12] running_opposite
+[2026-04-26 12:34:18] running_front
+[2026-04-26 12:34:28] running_opposite
+[2026-04-26 12:34:34] running_front
+[2026-04-26 12:34:46] running_opposite
+[2026-04-26 12:34:54] running_front
+[2026-04-26 12:37:02] Boot complete
+[2026-04-26 12:37:05] running_opposite
+[2026-04-26 12:37:10] running_front
+[2026-04-26 12:37:22] running_opposite
+[2026-04-26 12:37:28] running_front
+[2026-04-26 12:41:30] ADS value: 22.29, Ver: 1
+[2026-04-26 12:42:34] ADS value: 22.29, Ver: 1
+[2026-04-26 12:43:34] ADS value: 22.29, Ver: 1
+[2026-04-26 12:44:36] ADS value: 22.29, Ver: 1
+[2026-04-26 12:46:20] running_opposite
+[2026-04-26 12:46:26] running_front
+[2026-04-26 12:46:44] Boot complete
+[2026-04-26 12:47:35] ADS value: 22.29, Ver: 1
+[2026-04-26 12:48:36] ADS value: 22.29, Ver: 1
+[2026-04-26 12:49:37] ADS value: 22.29, Ver: 1
+[2026-04-26 12:50:44] ADS value: 22.29, Ver: 1
+[2026-04-26 12:51:43] ADS value: 22.29, Ver: 1
+[2026-04-26 12:52:46] ADS value: 22.29, Ver: 1
+[2026-04-26 12:53:56] ADS value: 22.29, Ver: 1
+[2026-04-26 13:59:25] Boot complete
+[2026-04-26 14:01:16] Boot complete
+[2026-04-26 15:02:13] Boot complete
+[2026-04-26 15:10:11] ADS value: 22.27, Ver: 1
+[2026-04-26 15:11:12] ADS value: 22.26, Ver: 1
+[2026-04-26 15:12:13] ADS value: 22.32, Ver: 1
+[2026-04-26 15:13:14] ADS value: 22.27, Ver: 1
+[2026-04-26 15:14:16] ADS value: 22.27, Ver: 1
+[2026-04-26 15:15:17] ADS value: 22.29, Ver: 1
+[2026-04-26 15:18:09] Boot complete
+[2026-04-26 15:25:00] ADS value: 22.26, Ver: 1
+[2026-04-26 15:26:02] ADS value: 22.27, Ver: 1
+[2026-04-26 15:27:07] ADS value: 22.27, Ver: 1
+[2026-04-26 15:28:08] ADS value: 22.27, Ver: 1
+[2026-04-26 15:29:09] ADS value: 22.32, Ver: 1
+[2026-04-26 15:30:13] ADS value: 22.27, Ver: 1
+[2026-04-26 15:31:15] ADS value: 22.28, Ver: 1
+[2026-04-26 15:32:16] ADS value: 22.28, Ver: 1
+[2026-04-26 15:33:16] ADS value: 22.28, Ver: 1
+[2026-04-28 10:29:30] ADS value: 24.29, Ver: 1
+[2026-04-28 10:30:34] ADS value: 24.29, Ver: 1
+[2026-04-28 10:31:35] ADS value: 24.29, Ver: 1
+[2026-04-28 10:32:36] ADS value: 24.29, Ver: 1
+[2026-04-28 10:34:46] ADS value: 24.28, Ver: 1
+[2026-04-28 10:44:04] ADS value: 24.28, Ver: 1
+[2026-04-28 10:45:05] ADS value: 24.28, Ver: 1
+[2026-04-28 10:47:12] ADS value: 24.28, Ver: 1
+[2026-04-28 10:48:13] ADS value: 24.28, Ver: 1
+[2026-04-28 10:49:14] ADS value: 24.28, Ver: 1
+[2026-04-28 10:50:15] ADS value: 24.28, Ver: 1
+[2026-04-28 10:51:15] ADS value: 24.28, Ver: 1
+[2026-04-28 10:52:17] ADS value: 24.28, Ver: 1
+[2026-04-28 10:53:27] Boot complete
+[2026-04-28 10:55:12] ADS value: 24.24, Ver: 1
+[2026-04-28 10:56:13] ADS value: 24.26, Ver: 1
+[2026-04-28 10:57:14] ADS value: 24.25, Ver: 1
+[2026-04-28 10:58:32] Boot complete
+[2026-04-28 10:59:19] ADS value: 24.25, Ver: 1
+[2026-04-28 11:00:20] ADS value: 24.25, Ver: 1
+[2026-04-28 11:01:21] ADS value: 24.25, Ver: 1
+[2026-04-28 11:02:22] ADS value: 24.26, Ver: 1
+[2026-04-28 11:03:24] ADS value: 24.26, Ver: 1
+[2026-04-28 11:04:25] ADS value: 24.26, Ver: 1
+[2026-04-28 11:05:26] ADS value: 24.26, Ver: 1
+[2026-04-28 11:06:28] ADS value: 24.26, Ver: 1
+[2026-04-28 11:07:29] ADS value: 24.25, Ver: 1
+[2026-04-28 11:08:30] ADS value: 24.25, Ver: 1
+[2026-05-01 12:13:02] ADS value: 23.86, Ver: 1
+[2026-05-01 12:14:03] ADS value: 23.86, Ver: 1
+[2026-05-01 12:15:05] ADS value: 23.85, Ver: 1
+[2026-05-01 12:16:06] ADS value: 23.86, Ver: 1
+[2026-05-01 12:17:07] ADS value: 23.85, Ver: 1
+[2026-05-01 12:18:08] ADS value: 23.85, Ver: 1
+[2026-05-01 12:21:15] ADS value: 23.85, Ver: 1
+[2026-05-01 12:23:27] ADS value: 23.85, Ver: 1
+[2026-05-01 12:25:33] ADS value: 23.85, Ver: 1
+[2026-05-01 12:26:37] ADS value: 23.85, Ver: 1
+[2026-05-01 12:27:57] ADS value: 23.85, Ver: 1
+[2026-05-01 12:28:45] ADS value: 23.84, Ver: 1
+[2026-05-01 12:30:45] ADS value: 23.84, Ver: 1
+[2026-05-01 12:31:46] ADS value: 23.84, Ver: 1
+[2026-05-01 12:32:47] ADS value: 23.84, Ver: 1
+[2026-05-01 12:33:48] ADS value: 23.84, Ver: 1
+[2026-05-01 12:34:49] ADS value: 23.84, Ver: 1
+[2026-05-01 12:35:52] ADS value: 23.84, Ver: 1
+[2026-05-01 12:38:58] ADS value: 23.83, Ver: 1
+[2026-05-01 12:39:59] ADS value: 23.83, Ver: 1
+[2026-05-01 12:41:01] ADS value: 23.83, Ver: 1
+[2026-05-01 12:42:26] running_front_stop
+[2026-05-01 12:42:32] running_opposite
+[2026-05-01 12:42:40] running_front_stop
+[2026-05-01 12:42:44] running_front
+[2026-05-01 12:42:59] running_opposite
+[2026-05-01 12:43:24] running_front
+[2026-05-01 12:43:34] running_opposite
+[2026-05-01 12:43:49] running_front
+[2026-05-01 12:43:56] running_opposite
+[2026-05-01 12:44:32] running_front
+[2026-05-01 12:44:43] running_opposite
+[2026-05-01 12:45:10] running_opposite
+[2026-05-01 12:45:21] running_front
+[2026-05-01 12:45:32] running_opposite
+[2026-05-01 12:46:07] running_front
+[2026-05-01 12:46:23] running_opposite
+[2026-05-01 12:46:33] running_front
+[2026-05-01 12:46:43] running_opposite
+[2026-05-01 12:47:06] running_front
+[2026-05-01 12:47:12] running_opposite
+[2026-05-01 12:47:25] running_opposite
+[2026-05-01 12:47:37] running_front_stop
+[2026-05-01 12:49:09] running_front
+[2026-05-01 12:49:20] running_opposite
+[2026-05-01 12:49:45] ADS value: 23.71, Ver: 101
+[2026-05-01 12:49:49] running_front
+[2026-05-01 12:49:56] running_opposite
+[2026-05-01 12:50:08] running_front
+[2026-05-01 12:50:15] running_opposite
+[2026-05-01 12:50:28] running_front
+[2026-05-01 12:50:35] running_opposite
+[2026-05-01 12:50:48] running_front
+[2026-05-01 12:50:56] running_opposite
+[2026-05-01 12:52:01] running_opposite
+[2026-05-01 12:52:07] running_front_stop
+[2026-05-01 12:52:20] running_front
+[2026-05-01 12:53:03] running_opposite
+[2026-05-01 12:59:38] running_front
+[2026-05-01 12:59:51] running_opposite
+[2026-05-01 13:00:04] running_front
+[2026-05-01 13:00:19] running_opposite
+[2026-05-01 13:00:31] running_front
+[2026-05-01 13:00:36] running_opposite
+[2026-05-01 13:00:57] running_front
+[2026-05-01 13:01:05] running_opposite
+[2026-05-01 13:01:12] running_front
+[2026-05-01 13:01:17] running_opposite
+[2026-05-01 13:01:25] running_front
+[2026-05-01 13:01:32] running_opposite
+[2026-05-01 13:01:39] running_front
+[2026-05-01 13:01:45] running_opposite
+[2026-05-01 13:02:04] running_front
+[2026-05-01 13:02:11] running_opposite
+[2026-05-01 13:02:22] running_front
+[2026-05-01 13:02:27] running_opposite
+[2026-05-01 13:02:35] running_front
+[2026-05-01 13:02:40] running_opposite
+[2026-05-01 13:02:57] running_front
+[2026-05-01 13:03:03] running_opposite
+[2026-05-01 13:03:29] running_front
+[2026-05-01 13:03:29] running_opposite
+[2026-05-01 13:03:39] running_front
+[2026-05-01 13:03:45] running_opposite
+[2026-05-01 13:04:01] running_front
+[2026-05-01 13:04:06] running_opposite
+[2026-05-01 13:04:16] ADS value: 23.51, Ver: 101
+[2026-05-02 08:21:22] START command received: left
+[2026-05-02 08:21:23] running_front
+[2026-05-02 08:21:27] running_opposite
+[2026-05-02 08:21:31] MOVE command accepted: dir=forward, ms=5000, brush=off
+[2026-05-02 08:21:32] timed_move start dir=forward,ms=5000,brush=off
+[2026-05-02 08:21:37] timed_move stop: duration_done
+[2026-05-02 08:22:15] ADS value: 21.81, Ver: 101
+[2026-05-02 08:23:25] running_front
+[2026-05-02 08:23:29] running_opposite
+[2026-05-02 08:29:16] running_opposite
+[2026-05-02 08:29:24] running_front_stop
+[2026-05-02 08:29:29] running_front
+[2026-05-02 08:32:31] running_opposite
+[2026-05-02 08:32:40] running_front_stop
+[2026-05-02 08:32:46] START command received: right
+[2026-05-02 08:32:47] running_opposite
+[2026-05-02 08:33:45] running_front
+[2026-05-02 08:33:48] running_opposite
+[2026-05-02 08:34:19] running_front
+[2026-05-02 08:34:33] running_opposite
+[2026-05-02 08:37:09] running_front
+[2026-05-02 08:37:26] running_opposite
+[2026-05-02 08:38:01] running_front
+[2026-05-02 08:38:14] running_opposite
+[2026-05-02 08:40:36] running_front
+[2026-05-02 08:40:42] running_opposite
+[2026-05-02 08:41:02] running_front
+[2026-05-02 08:41:14] running_opposite
+[2026-05-02 08:42:35] START command received: right
+[2026-05-02 08:43:27] ADS value: 21.72, Ver: 101
+[2026-05-02 11:14:00] Starting progressive OTA download...
+[2026-05-02 11:14:06] OTA Progress: 10%
+[2026-05-02 11:14:10] OTA Progress: 20%
+[2026-05-02 11:14:15] OTA Progress: 30%
+[2026-05-02 11:14:18] OTA Progress: 40%
+[2026-05-02 11:14:21] OTA Progress: 50%
+[2026-05-02 11:14:25] OTA Progress: 60%
+[2026-05-02 11:14:29] OTA Progress: 70%
+[2026-05-02 11:14:33] OTA Progress: 80%
+[2026-05-02 11:14:37] OTA Progress: 90%
+[2026-05-02 11:14:40] OTA Progress: 100%
+[2026-05-02 11:14:40] OTA download complete! Verifying...
+[2026-05-02 11:14:41] OTA 100% Complete! Rebooting now...
+[2026-05-02 11:14:57] Boot complete
+[2026-05-02 11:15:43] ADS value: 24.45, Ver: 1
+[2026-05-02 11:16:20] running_front
+[2026-05-02 11:16:25] running_opposite
+[2026-05-02 11:16:35] running_front
+[2026-05-02 11:16:42] running_opposite
+[2026-05-02 11:16:49] ADS value: 24.40, Ver: 1
+[2026-05-02 11:16:52] running_front
+[2026-05-02 11:16:59] running_opposite
+[2026-05-02 11:17:50] ADS value: 24.42, Ver: 1
+[2026-05-02 11:17:55] running_front
+[2026-05-02 11:18:02] running_opposite
+[2026-05-02 11:18:46] Boot complete
+[2026-05-02 11:21:13] ADS value: 24.40, Ver: 1
+[2026-05-02 11:22:15] ADS value: 24.41, Ver: 1
+[2026-05-02 11:23:04] running_opposite
+[2026-05-02 11:23:12] running_front
+[2026-05-02 11:24:24] ADS value: 24.40, Ver: 1
+[2026-05-02 11:25:25] ADS value: 24.39, Ver: 1
+[2026-05-02 11:26:26] ADS value: 24.39, Ver: 1
+[2026-05-02 11:27:28] ADS value: 24.39, Ver: 1
+[2026-05-02 11:28:29] ADS value: 24.39, Ver: 1
+[2026-05-02 11:29:30] ADS value: 24.39, Ver: 1
+[2026-05-02 11:30:31] ADS value: 24.39, Ver: 1
+[2026-05-02 11:31:32] ADS value: 24.38, Ver: 1
+[2026-05-02 11:32:34] ADS value: 24.38, Ver: 1
+[2026-05-02 11:33:35] ADS value: 24.38, Ver: 1
+[2026-05-02 11:34:36] ADS value: 24.38, Ver: 1
+[2026-05-02 11:35:37] ADS value: 24.38, Ver: 1
+[2026-05-02 11:36:38] ADS value: 24.38, Ver: 1
+[2026-05-02 11:37:39] ADS value: 24.38, Ver: 1
+[2026-05-02 11:38:40] ADS value: 24.37, Ver: 1
+[2026-05-02 11:39:42] ADS value: 24.37, Ver: 1
+[2026-05-02 11:40:43] ADS value: 24.37, Ver: 1
+[2026-05-02 11:41:44] ADS value: 24.37, Ver: 1
+[2026-05-02 11:42:45] ADS value: 24.37, Ver: 1
+[2026-05-02 11:43:46] ADS value: 24.37, Ver: 1
+[2026-05-02 11:44:47] ADS value: 24.37, Ver: 1
+[2026-05-02 11:45:48] ADS value: 24.37, Ver: 1
+[2026-05-02 11:46:50] ADS value: 24.36, Ver: 1
+[2026-05-02 11:47:51] ADS value: 24.36, Ver: 1
+[2026-05-02 11:48:52] ADS value: 24.36, Ver: 1
+[2026-05-02 11:49:53] ADS value: 24.36, Ver: 1
+[2026-05-02 11:50:54] ADS value: 24.36, Ver: 1
+[2026-05-02 11:51:55] ADS value: 24.36, Ver: 1
+[2026-05-02 11:52:56] ADS value: 24.36, Ver: 1
+[2026-05-02 11:54:56] Boot complete
+[2026-05-02 11:54:56] running_opposite
+[2026-05-02 11:54:56] running_front
+[2026-05-02 11:55:22] ADS value: 24.33, Ver: 101
+[2026-05-02 11:56:06] Starting progressive OTA download...
+[2026-05-02 11:56:11] OTA Progress: 10%
+[2026-05-02 11:56:16] OTA Progress: 20%
+[2026-05-02 11:56:21] OTA Progress: 30%
+[2026-05-02 11:56:24] OTA Progress: 40%
+[2026-05-02 11:56:28] OTA Progress: 50%
+[2026-05-02 11:56:33] OTA Progress: 60%
+[2026-05-02 11:56:36] OTA Progress: 70%
+[2026-05-02 11:56:39] OTA Progress: 80%
+[2026-05-02 11:56:42] OTA Progress: 90%
+[2026-05-02 11:56:45] OTA Progress: 100%
+[2026-05-02 11:56:45] OTA download complete! Verifying...
+[2026-05-02 11:56:46] OTA 100% Complete! Rebooting now...
+[2026-05-02 11:57:00] Boot complete
+[2026-05-02 11:57:49] ADS value: 24.33, Ver: 101
+[2026-05-02 11:58:49] ADS value: 24.34, Ver: 101
+[2026-05-02 11:59:51] ADS value: 24.00, Ver: 101
+[2026-05-02 12:00:12] running_opposite
+[2026-05-02 12:00:17] running_front
+[2026-05-02 12:00:26] running_opposite
+[2026-05-02 12:00:33] running_front
+[2026-05-02 12:00:42] running_opposite
+[2026-05-02 12:00:49] running_front
+[2026-05-02 12:00:55] ADS value: 24.29, Ver: 101
+[2026-05-02 12:01:56] ADS value: 24.32, Ver: 101
+[2026-05-02 12:02:57] ADS value: 24.32, Ver: 101
+[2026-05-02 12:03:57] ADS value: 24.32, Ver: 101
+[2026-05-02 12:04:59] ADS value: 24.32, Ver: 101
+[2026-05-02 12:06:00] ADS value: 24.32, Ver: 101
+[2026-05-02 12:07:01] ADS value: 24.32, Ver: 101
+[2026-05-02 12:08:03] ADS value: 24.32, Ver: 101
+[2026-05-02 12:09:04] ADS value: 24.32, Ver: 101
+[2026-05-02 12:10:05] ADS value: 24.32, Ver: 101
+[2026-05-02 12:10:25] running_opposite
+[2026-05-02 12:10:46] running_front
+[2026-05-02 12:10:59] running_opposite
+[2026-05-02 12:11:10] running_front
+[2026-05-02 12:11:20] ADS value: 24.24, Ver: 101
+[2026-05-02 12:11:37] running_opposite
+[2026-05-02 12:11:44] running_front
+[2026-05-02 12:12:21] ADS value: 24.27, Ver: 101
+[2026-05-02 12:13:18] running_opposite
+[2026-05-02 12:13:32] running_front
+[2026-05-02 12:13:50] ADS value: 24.22, Ver: 101
+[2026-05-02 12:15:57] ADS value: 24.28, Ver: 101
+[2026-05-02 12:19:08] ADS value: 24.28, Ver: 101
+[2026-05-02 12:20:10] ADS value: 24.27, Ver: 101
+[2026-05-02 12:21:11] ADS value: 24.28, Ver: 101
+[2026-05-02 12:22:12] ADS value: 24.28, Ver: 101
+[2026-05-02 12:23:13] ADS value: 24.28, Ver: 101
+[2026-05-02 12:23:34] running_opposite
+[2026-05-02 12:24:14] ADS value: 24.23, Ver: 101
+[2026-05-02 12:25:16] ADS value: 24.26, Ver: 101
+[2026-05-02 12:26:16] ADS value: 24.26, Ver: 101
+[2026-05-02 12:26:51] running_front
+[2026-05-04 07:59:44] ADS value: 22.50, Ver: 101
+[2026-05-04 08:01:54] ADS value: 22.49, Ver: 101
+[2026-05-04 08:02:44] running_opposite
+[2026-05-04 08:03:37] running_front
+[2026-05-04 08:03:43] ADS value: 22.47, Ver: 101
+[2026-05-04 08:03:51] running_front
+[2026-05-04 08:04:06] Boot complete
+[2026-05-04 08:04:08] running_front
+[2026-05-04 08:04:28] running_opposite
+[2026-05-04 08:04:39] running_front
+[2026-05-04 08:04:55] running_opposite
+[2026-05-04 08:05:06] ADS value: 22.37, Ver: 101
+[2026-05-04 08:05:29] running_front
+[2026-05-04 08:05:38] running_opposite
+[2026-05-04 08:06:07] ADS value: 22.41, Ver: 101
+[2026-05-04 08:06:11] Starting progressive OTA download...
+[2026-05-04 08:06:16] OTA Progress: 10%
+[2026-05-04 08:06:20] OTA Progress: 20%
+[2026-05-04 08:06:22] OTA Progress: 30%
+[2026-05-04 08:06:26] OTA Progress: 40%
+[2026-05-04 08:06:29] OTA Progress: 50%
+[2026-05-04 08:06:32] OTA Progress: 60%
+[2026-05-04 08:06:34] OTA Progress: 70%
+[2026-05-04 08:06:37] OTA Progress: 80%
+[2026-05-04 08:06:41] OTA Progress: 90%
+[2026-05-04 08:06:46] OTA Progress: 100%
+[2026-05-04 08:06:46] OTA download complete! Verifying...
+[2026-05-04 08:06:47] OTA 100% Complete! Rebooting now...
+[2026-05-04 08:11:49] ADS value: 22.43, Ver: 101
+[2026-05-04 08:15:28] running_opposite
+[2026-05-04 08:15:32] running_front_stop
+[2026-05-04 08:16:03] running_front
+[2026-05-04 08:16:31] running_opposite
+[2026-05-04 08:16:50] ADS value: 22.34, Ver: 101
+[2026-05-04 08:16:57] running_front
+[2026-05-04 08:17:13] running_opposite
+[2026-05-04 08:17:25] running_front
+[2026-05-04 08:17:35] running_opposite
+[2026-05-04 08:17:55] running_opposite
+[2026-05-04 08:18:04] running_front_stop
+[2026-05-04 08:18:09] running_front
+[2026-05-04 08:18:17] running_opposite
+[2026-05-04 08:18:27] running_front
+[2026-05-04 08:18:38] running_opposite
+[2026-05-04 08:21:51] ADS value: 22.33, Ver: 101
+[2026-05-04 08:26:53] ADS value: 22.33, Ver: 101
+[2026-05-04 08:31:54] ADS value: 22.33, Ver: 101
+[2026-05-04 08:36:56] ADS value: 22.32, Ver: 101
+[2026-05-04 08:41:57] ADS value: 22.32, Ver: 101
+[2026-05-04 08:42:23] running_front
+[2026-05-04 08:42:32] running_opposite
+[2026-05-04 08:46:40] running_front
+[2026-05-04 08:46:48] running_opposite
+[2026-05-04 08:46:59] ADS value: 22.26, Ver: 101
+[2026-05-04 08:47:05] running_front
+[2026-05-04 08:47:20] running_opposite
+[2026-05-04 08:47:29] running_opposite
+[2026-05-04 08:47:37] running_front_stop
+[2026-05-04 08:47:47] running_front
+[2026-05-04 08:47:56] running_opposite
+[2026-05-04 08:49:05] running_front
+[2026-05-04 08:49:13] running_opposite
+[2026-05-04 08:49:24] running_front
+[2026-05-04 08:49:33] running_opposite
+[2026-05-04 08:57:05] ADS value: 22.24, Ver: 101
+[2026-05-04 09:00:45] running_front
+[2026-05-04 09:00:56] running_opposite
+[2026-05-04 09:02:20] running_front
+[2026-05-04 09:02:31] running_opposite
+[2026-05-04 09:02:46] running_front
+[2026-05-04 09:02:58] running_opposite
+[2026-05-04 09:03:27] running_front
+[2026-05-04 09:03:36] running_opposite
+[2026-05-04 09:03:54] running_front
+[2026-05-04 09:03:57] running_opposite
+[2026-05-04 09:04:12] running_front
+[2026-05-04 09:04:20] running_opposite
+[2026-05-04 09:04:47] running_front
+[2026-05-04 09:04:51] running_opposite
+[2026-05-04 09:05:01] running_front
+[2026-05-04 09:05:04] running_opposite
+[2026-05-04 09:05:13] running_front
+[2026-05-04 09:05:21] running_opposite
+[2026-05-04 09:05:41] running_front
+[2026-05-04 09:05:51] running_opposite
+[2026-05-04 09:06:19] running_opposite
+[2026-05-04 09:06:40] running_front
+[2026-05-04 09:06:49] running_opposite
+[2026-05-04 09:07:40] running_opposite
+[2026-05-04 09:07:54] running_front
+[2026-05-04 09:08:01] running_opposite
+[2026-05-04 09:08:17] running_front
+[2026-05-04 09:08:30] running_opposite
+[2026-05-04 09:08:39] running_front
+[2026-05-04 09:08:46] running_opposite
+[2026-05-04 09:09:14] running_front
+[2026-05-04 09:09:21] running_opposite
+[2026-05-04 09:09:30] running_front
+[2026-05-04 09:09:37] running_opposite
+[2026-05-04 09:09:46] running_front
+[2026-05-04 09:09:58] running_opposite
+[2026-05-04 09:10:21] running_front
+[2026-05-04 09:10:30] running_opposite
+[2026-05-04 09:10:44] running_front
+[2026-05-04 09:10:51] running_opposite
+[2026-05-04 09:11:00] running_front
+[2026-05-04 09:11:07] running_opposite
+[2026-05-04 09:11:23] running_front
+[2026-05-04 09:15:07] running_front
+[2026-05-04 09:15:16] running_opposite
+[2026-05-04 09:16:28] running_front
+[2026-05-04 09:16:33] running_opposite
+[2026-05-04 09:16:40] running_front
+[2026-05-04 09:16:50] running_opposite
+[2026-05-04 09:17:04] running_front
+[2026-05-04 09:17:13] running_opposite
+[2026-05-04 09:17:35] running_front
+[2026-05-04 09:17:42] running_opposite
+[2026-05-04 09:17:53] running_front
+[2026-05-04 09:18:01] running_opposite
+[2026-05-04 09:19:18] running_front
+[2026-05-04 09:19:26] running_opposite
+[2026-05-04 09:19:40] ADS value: 21.93, Ver: 101
+[2026-05-04 09:19:47] running_front
+[2026-05-04 09:19:55] running_opposite
+[2026-05-04 09:20:08] running_front
+[2026-05-04 09:20:15] running_opposite
+[2026-05-04 09:20:29] running_front
+[2026-05-04 09:20:36] running_opposite
+[2026-05-04 09:20:51] running_front
+[2026-05-04 09:20:59] running_opposite
+[2026-05-04 09:21:09] running_front
+[2026-05-04 09:21:16] running_opposite
+[2026-05-04 09:29:53] ADS value: 21.94, Ver: 101
+[2026-05-04 09:31:16] running_front
+[2026-05-04 09:37:26] ADS value: 21.93, Ver: 101
+[2026-05-05 19:25:44] ADS value: 20.57, Ver: 101
+[2026-05-05 19:26:49] ADS value: 20.61, Ver: 101
+[2026-05-05 19:29:02] running_front
+[2026-05-05 19:29:13] running_opposite
+[2026-05-05 19:29:17] ADS value: 20.51, Ver: 101
+[2026-05-05 19:29:29] running_front
+[2026-05-05 19:29:44] running_opposite
+[2026-05-05 19:30:08] running_front
+[2026-05-05 19:30:16] running_opposite
+[2026-05-05 19:30:51] ADS value: 20.34, Ver: 101
+[2026-05-05 19:31:30] running_front
+[2026-05-05 19:32:17] ADS value: 20.32, Ver: 101
+[2026-05-05 19:32:22] running_front
+[2026-05-05 19:33:27] running_opposite
+[2026-05-05 19:33:38] ADS value: 20.23, Ver: 101
+[2026-05-05 19:33:54] running_front
+[2026-05-05 19:34:44] running_opposite
+[2026-05-05 19:35:01] ADS value: 20.16, Ver: 101
+[2026-05-06 06:51:22] ADS value: 24.46, Ver: 101
+[2026-05-06 06:52:29] ADS value: 24.47, Ver: 101
+[2026-05-06 06:53:25] ADS value: 24.48, Ver: 101
+[2026-05-06 06:54:26] ADS value: 24.48, Ver: 101
+[2026-05-06 06:55:27] ADS value: 24.47, Ver: 101
+[2026-05-06 06:56:28] ADS value: 24.45, Ver: 101
+[2026-05-06 06:57:28] ADS value: 24.46, Ver: 101
+[2026-05-06 06:58:29] ADS value: 24.44, Ver: 101
+[2026-05-06 06:59:29] ADS value: 24.50, Ver: 101
+[2026-05-06 07:00:30] ADS value: 24.45, Ver: 101
+[2026-05-06 07:01:31] ADS value: 24.47, Ver: 101
+[2026-05-06 07:02:31] ADS value: 24.47, Ver: 101
+[2026-05-06 07:03:32] ADS value: 24.47, Ver: 101
+[2026-05-06 07:04:33] ADS value: 24.47, Ver: 101
+[2026-05-06 07:05:34] ADS value: 24.46, Ver: 101
+[2026-05-06 07:06:34] ADS value: 24.46, Ver: 101
+[2026-05-06 07:07:36] ADS value: 24.46, Ver: 101
+[2026-05-06 07:08:36] ADS value: 24.46, Ver: 101
+[2026-05-06 07:09:37] ADS value: 24.46, Ver: 101
+[2026-05-06 07:10:38] ADS value: 24.46, Ver: 101
+[2026-05-06 07:26:39] ADS value: 24.44, Ver: 101
+[2026-05-06 07:27:39] ADS value: 24.44, Ver: 101
+[2026-05-06 07:28:40] ADS value: 24.43, Ver: 101
+[2026-05-06 07:29:40] ADS value: 24.43, Ver: 101
+[2026-05-06 07:30:41] ADS value: 24.43, Ver: 101
+[2026-05-06 07:31:42] ADS value: 24.44, Ver: 101
+[2026-05-06 07:32:43] ADS value: 24.44, Ver: 101
+[2026-05-06 07:33:44] ADS value: 24.42, Ver: 101
+[2026-05-06 07:34:44] ADS value: 24.42, Ver: 101
+[2026-05-06 07:35:45] ADS value: 24.42, Ver: 101
+[2026-05-06 07:36:45] ADS value: 24.42, Ver: 101
+[2026-05-06 07:37:46] ADS value: 24.43, Ver: 101
+[2026-05-06 07:38:47] ADS value: 24.42, Ver: 101
+[2026-05-06 07:39:47] ADS value: 24.41, Ver: 101
+[2026-05-06 07:40:48] ADS value: 24.42, Ver: 101
+[2026-05-06 07:41:49] ADS value: 24.42, Ver: 101
+[2026-05-06 07:42:50] ADS value: 24.41, Ver: 101
+[2026-05-25 16:39:08] ADS value: 23.90, Ver: 101
+[2026-05-25 16:39:30] running_front
+[2026-05-25 16:45:59] ADS value: 23.86, Ver: 101
+[2026-05-25 16:46:11] running_front
+[2026-05-25 16:47:02] Boot complete
+[2026-05-25 16:47:04] running_front
+[2026-05-25 16:51:24] Boot complete
+[2026-05-25 16:51:26] running_front
+[2026-05-25 16:56:27] running_opposite
+[2026-05-25 16:59:40] Boot complete
+[2026-05-25 16:59:46] running_front
+[2026-07-04 16:55:29] ADS value: 0.00, Ver: 101
+[2026-07-04 16:56:29] ADS value: 0.00, Ver: 101
+[2026-07-04 16:57:30] ADS value: 0.00, Ver: 101
+[2026-07-04 16:58:30] ADS value: 0.00, Ver: 101
+[2026-07-04 16:59:31] ADS value: 0.00, Ver: 101
+[2026-07-04 17:00:32] ADS value: 0.00, Ver: 101
+[2026-07-04 17:01:32] ADS value: 0.00, Ver: 101
+[2026-07-04 17:02:33] ADS value: 0.00, Ver: 101
+[2026-07-04 17:03:33] ADS value: 0.00, Ver: 101
+[2026-07-04 17:04:34] ADS value: 0.00, Ver: 101
+[2026-07-04 17:05:35] ADS value: 0.00, Ver: 101
+[2026-07-04 17:06:35] ADS value: 0.00, Ver: 101
+[2026-07-04 17:07:36] ADS value: 0.00, Ver: 101
+[2026-07-04 17:08:36] ADS value: 0.00, Ver: 101
+[2026-07-04 17:09:36] ADS value: 0.00, Ver: 101
+[2026-07-04 17:10:37] ADS value: 0.00, Ver: 101
+[2026-07-04 17:12:46] ADS value: 0.00, Ver: 101
+[2026-07-04 17:13:49] ADS value: 0.00, Ver: 101
+[2026-07-04 17:14:50] ADS value: 0.00, Ver: 101
+[2026-07-04 17:15:51] ADS value: 0.00, Ver: 101
+[2026-07-04 17:16:51] ADS value: 0.00, Ver: 101
+[2026-07-04 17:17:52] ADS value: 0.00, Ver: 101
+[2026-07-04 17:18:55] ADS value: 0.00, Ver: 101
+[2026-07-04 17:19:56] ADS value: 0.00, Ver: 101
+[2026-07-04 17:20:57] ADS value: 0.00, Ver: 101
+[2026-07-04 17:21:58] ADS value: 0.00, Ver: 101
+[2026-07-04 17:22:58] ADS value: 0.00, Ver: 101
+[2026-07-04 17:23:59] ADS value: 0.00, Ver: 101
+[2026-07-04 17:24:59] ADS value: 0.00, Ver: 101
+[2026-07-04 17:26:00] ADS value: 0.00, Ver: 101
+[2026-07-04 17:27:00] ADS value: 0.00, Ver: 101
+[2026-07-04 17:28:01] ADS value: 0.00, Ver: 101
+[2026-07-04 17:29:02] ADS value: 0.00, Ver: 101
+[2026-07-04 17:30:02] ADS value: 0.00, Ver: 101
+[2026-07-04 17:31:02] ADS value: 0.00, Ver: 101
+[2026-07-04 17:32:03] ADS value: 0.00, Ver: 101
+[2026-07-04 17:33:03] ADS value: 0.00, Ver: 101
+[2026-07-04 17:34:04] ADS value: 0.00, Ver: 101
+[2026-07-04 17:35:04] ADS value: 0.00, Ver: 101
+[2026-07-04 17:36:05] ADS value: 0.00, Ver: 101
+[2026-07-04 17:38:11] ADS value: 0.00, Ver: 101
+[2026-07-04 17:39:11] ADS value: 0.00, Ver: 101
+[2026-07-04 17:40:11] ADS value: 0.00, Ver: 101
+[2026-07-04 17:41:12] ADS value: 0.00, Ver: 101
+[2026-07-04 17:42:12] ADS value: 0.00, Ver: 101
+[2026-07-04 17:43:13] ADS value: 0.00, Ver: 101
+[2026-07-04 17:44:13] ADS value: 0.00, Ver: 101
+[2026-07-04 17:45:22] ADS value: 0.00, Ver: 101
+[2026-07-04 17:46:15] ADS value: 0.00, Ver: 101
+[2026-07-04 17:47:21] Boot complete
+[2026-07-04 17:47:28] running_opposite
+[2026-07-04 17:48:05] Boot complete
+[2026-07-04 17:48:49] ADS value: 0.00, Ver: 101
+[2026-07-04 17:49:50] ADS value: 0.00, Ver: 101
+[2026-07-04 17:50:51] ADS value: 0.00, Ver: 101
+[2026-07-04 17:51:51] ADS value: 0.53, Ver: 101
+[2026-07-04 17:52:19] Starting progressive OTA download...
+[2026-07-04 17:52:19] OTA Progress: 10%
+[2026-07-04 17:52:22] OTA Progress: 20%
+[2026-07-04 17:52:26] OTA Progress: 30%
+[2026-07-04 17:52:29] OTA Progress: 40%
+[2026-07-04 17:52:32] OTA Progress: 50%
+[2026-07-04 17:52:36] OTA Progress: 60%
+[2026-07-04 17:52:39] OTA Progress: 70%
+[2026-07-04 17:52:42] OTA Progress: 80%
+[2026-07-04 17:52:46] OTA Progress: 90%
+[2026-07-04 17:52:49] OTA Progress: 100%
+[2026-07-04 17:52:50] OTA download complete! Verifying...
+[2026-07-04 17:52:50] OTA 100% Complete! Rebooting now...
+[2026-07-04 17:53:03] Boot complete
+[2026-07-04 17:53:23] ADS value: 0.00, Ver: 106
+[2026-07-04 17:54:04] Boot complete
+[2026-07-04 17:54:23] ADS value: 0.00, Ver: 106
+[2026-07-04 17:54:33] Starting progressive OTA download...
+[2026-07-04 17:54:37] OTA Progress: 10%
+[2026-07-04 17:54:41] OTA Progress: 20%
+[2026-07-04 17:54:44] OTA Progress: 30%
+[2026-07-04 17:54:47] OTA Progress: 40%
+[2026-07-04 17:54:51] OTA Progress: 50%
+[2026-07-04 17:54:54] OTA Progress: 60%
+[2026-07-04 17:54:57] OTA Progress: 70%
+[2026-07-04 17:55:01] OTA Progress: 80%
+[2026-07-04 17:55:05] OTA Progress: 90%
+[2026-07-04 17:55:09] OTA Progress: 100%
+[2026-07-04 17:55:09] OTA 100% Complete! Rebooting now...
+[2026-07-04 17:55:22] Boot complete
+[2026-07-04 17:55:41] ADS value: 0.00, Ver: 106
+[2026-07-04 17:56:26] Boot complete
+[2026-07-04 17:56:43] ADS value: 0.00, Ver: 106
+[2026-07-04 17:57:24] Boot complete
+[2026-07-04 17:57:43] ADS value: 0.00, Ver: 106
+[2026-07-04 17:58:25] Boot complete
+[2026-07-04 17:58:44] ADS value: 0.00, Ver: 106
+[2026-07-04 17:59:26] Boot complete
+[2026-07-04 17:59:45] ADS value: 0.00, Ver: 106
+[2026-07-04 18:00:26] Boot complete
+[2026-07-04 18:00:46] ADS value: 0.00, Ver: 106
+[2026-07-04 18:01:28] Boot complete
+[2026-07-04 18:01:47] ADS value: 0.00, Ver: 106
+[2026-07-04 18:02:28] Boot complete
+[2026-07-04 18:03:29] Boot complete
+[2026-07-04 18:03:48] ADS value: 0.00, Ver: 106
+[2026-07-04 18:04:30] Boot complete
+[2026-07-04 18:04:49] ADS value: 0.00, Ver: 106
+[2026-07-04 18:05:31] Boot complete
+[2026-07-04 18:05:50] ADS value: 0.00, Ver: 106
+[2026-07-04 18:06:32] Boot complete
+[2026-07-04 18:06:51] ADS value: 0.00, Ver: 106
+[2026-07-04 18:07:32] Boot complete
+[2026-07-04 18:08:25] Boot complete
+[2026-07-04 18:08:45] ADS value: 0.00, Ver: 106
+[2026-07-04 18:09:15] ADS value: 0.00, Ver: 106
+[2026-07-04 18:09:46] ADS value: 0.00, Ver: 106
+[2026-07-04 18:10:17] ADS value: 0.00, Ver: 106
+[2026-07-04 18:10:47] ADS value: 0.00, Ver: 106
+[2026-07-04 18:11:17] ADS value: 0.00, Ver: 106
+[2026-07-04 18:11:48] ADS value: 0.00, Ver: 106
+[2026-07-04 18:12:18] ADS value: 0.00, Ver: 106
+[2026-07-04 18:12:49] ADS value: 0.00, Ver: 106
+[2026-07-04 18:13:20] ADS value: 0.00, Ver: 106
+[2026-07-04 18:13:50] ADS value: 0.00, Ver: 106
+[2026-07-04 18:14:21] ADS value: 0.00, Ver: 106
+[2026-07-04 18:14:51] ADS value: 0.00, Ver: 106
+[2026-07-04 18:15:22] ADS value: 0.00, Ver: 106
+[2026-07-04 18:15:52] ADS value: 0.00, Ver: 106
+[2026-07-04 18:16:23] ADS value: 0.00, Ver: 106
+[2026-07-04 18:16:56] ADS value: 0.00, Ver: 106
+[2026-07-04 18:17:25] ADS value: 0.00, Ver: 106
+[2026-07-04 18:17:55] ADS value: 0.00, Ver: 106
+[2026-07-04 18:18:26] ADS value: 0.00, Ver: 106
+[2026-07-04 18:18:56] ADS value: 0.00, Ver: 106
+[2026-07-04 18:19:26] ADS value: 0.00, Ver: 106
+[2026-07-04 18:19:57] ADS value: 0.00, Ver: 106
+[2026-07-04 18:20:27] ADS value: 0.00, Ver: 106
+[2026-07-04 18:20:58] ADS value: 0.00, Ver: 106
+[2026-07-04 18:21:29] ADS value: 0.00, Ver: 106
+[2026-07-04 18:22:00] ADS value: 0.00, Ver: 106
+[2026-07-04 18:22:40] ADS value: 0.00, Ver: 106
+[2026-07-04 18:23:01] ADS value: 0.00, Ver: 106
+[2026-07-04 18:23:32] ADS value: 0.00, Ver: 106
+[2026-07-04 18:24:02] ADS value: 0.00, Ver: 106
+[2026-07-04 18:24:33] ADS value: 0.00, Ver: 106
+[2026-07-04 18:25:03] ADS value: 0.00, Ver: 106
+[2026-07-04 18:25:34] ADS value: 0.00, Ver: 106
+[2026-07-04 18:26:04] ADS value: 0.00, Ver: 106
+[2026-07-04 18:26:35] ADS value: 0.00, Ver: 106
+[2026-07-04 18:27:05] ADS value: 0.00, Ver: 106
+[2026-07-04 18:27:36] ADS value: 0.00, Ver: 106
+[2026-07-04 18:28:07] ADS value: 0.00, Ver: 106
+[2026-07-04 18:28:40] ADS value: 0.00, Ver: 106
+[2026-07-04 18:29:09] ADS value: 0.00, Ver: 106
+[2026-07-04 18:29:39] ADS value: 0.00, Ver: 106
+[2026-07-04 18:30:10] ADS value: 0.00, Ver: 106
+[2026-07-04 18:30:41] ADS value: 0.00, Ver: 106
+[2026-07-04 18:31:11] ADS value: 0.00, Ver: 106
+[2026-07-04 18:31:42] ADS value: 0.00, Ver: 106
+[2026-07-04 18:32:14] ADS value: 0.00, Ver: 106
+[2026-07-04 18:32:43] ADS value: 0.00, Ver: 106
+[2026-07-04 18:33:14] ADS value: 0.00, Ver: 106
+[2026-07-04 18:33:45] ADS value: 0.00, Ver: 106
+[2026-07-04 18:34:15] ADS value: 0.00, Ver: 106
+[2026-07-04 18:34:46] ADS value: 0.00, Ver: 106
+[2026-07-04 18:35:16] ADS value: 0.00, Ver: 106
+[2026-07-04 18:35:47] ADS value: 0.00, Ver: 106
+[2026-07-04 18:36:17] ADS value: 0.00, Ver: 106
+[2026-07-04 18:36:48] ADS value: 0.00, Ver: 106
+[2026-07-04 18:36:52] Starting progressive OTA download...
+[2026-07-04 18:36:53] OTA Progress: 10%
+[2026-07-04 18:36:54] OTA Progress: 20%
+[2026-07-04 18:36:56] OTA Progress: 30%
+[2026-07-04 18:36:57] OTA Progress: 40%
+[2026-07-04 18:36:58] OTA Progress: 50%
+[2026-07-04 18:36:59] OTA Progress: 60%
+[2026-07-04 18:37:00] OTA Progress: 70%
+[2026-07-04 18:37:01] OTA Progress: 80%
+[2026-07-04 18:37:03] OTA Progress: 90%
+[2026-07-04 18:37:04] OTA Progress: 100%
+[2026-07-04 18:37:04] OTA 100% Complete! Rebooting now...
+[2026-07-04 18:37:18] Boot complete
+[2026-07-04 18:37:37] ADS value: 0.00, Ver: 106
+[2026-07-04 18:38:19] Boot complete
+[2026-07-04 18:39:03] Boot complete
+[2026-07-04 18:39:22] ADS value: 0.00, Ver: 106
+[2026-07-04 18:39:53] ADS value: 0.00, Ver: 106
+[2026-07-04 18:40:49] Boot complete
+[2026-07-04 18:41:09] ADS value: 0.00, Ver: 106
+[2026-07-04 18:41:39] ADS value: 0.00, Ver: 106
+[2026-07-04 18:42:10] ADS value: 0.00, Ver: 106
+[2026-07-04 18:42:40] ADS value: 0.00, Ver: 106
+[2026-07-04 18:43:11] ADS value: 0.00, Ver: 106
+[2026-07-04 18:43:41] ADS value: 0.00, Ver: 106
+[2026-07-04 18:48:35] ADS value: 0.00, Ver: 106
+[2026-07-05 08:37:10] ADS value: 0.00, Ver: 106
+[2026-07-05 08:37:41] ADS value: 0.00, Ver: 106
+[2026-07-05 08:38:12] ADS value: 0.00, Ver: 106
+[2026-07-05 08:38:42] ADS value: 0.00, Ver: 106
+[2026-07-05 08:39:13] ADS value: 0.00, Ver: 106
+[2026-07-05 08:39:44] ADS value: 0.00, Ver: 106
+[2026-07-05 08:40:15] ADS value: 0.00, Ver: 106
+[2026-07-05 08:40:46] ADS value: 0.00, Ver: 106
+[2026-07-05 08:41:17] ADS value: 0.00, Ver: 106
+[2026-07-05 08:41:47] ADS value: 0.00, Ver: 106
+[2026-07-05 08:42:18] ADS value: 0.00, Ver: 106
+[2026-07-05 08:43:24] ADS value: 0.00, Ver: 106
+[2026-07-05 08:43:55] ADS value: 0.00, Ver: 106
+[2026-07-05 08:44:26] ADS value: 0.00, Ver: 106
+[2026-07-05 08:44:57] ADS value: 0.00, Ver: 106
+[2026-07-05 08:45:28] ADS value: 0.00, Ver: 106
+[2026-07-05 08:45:58] ADS value: 0.00, Ver: 106
+[2026-07-05 08:46:29] ADS value: 0.00, Ver: 106
+[2026-07-05 08:47:00] ADS value: 0.00, Ver: 106
+[2026-07-05 08:47:31] ADS value: 0.00, Ver: 106
+[2026-07-05 08:48:37] ADS value: 0.00, Ver: 106
+[2026-07-05 08:49:08] ADS value: 0.00, Ver: 106
+[2026-07-05 08:49:39] ADS value: 0.00, Ver: 106
+[2026-07-05 08:50:09] ADS value: 0.00, Ver: 106
+[2026-07-05 08:50:40] ADS value: 0.00, Ver: 106
+[2026-07-05 08:51:11] ADS value: 0.00, Ver: 106
+[2026-07-05 08:51:42] ADS value: 0.00, Ver: 106
+[2026-07-05 08:52:13] ADS value: 0.00, Ver: 106
+[2026-07-05 08:52:43] ADS value: 0.00, Ver: 106
+[2026-07-05 08:53:14] ADS value: 0.00, Ver: 106
+[2026-07-05 08:53:45] ADS value: 0.00, Ver: 106
+[2026-07-05 08:54:16] ADS value: 0.00, Ver: 106
+[2026-07-05 08:54:47] ADS value: 0.00, Ver: 106
+[2026-07-05 08:55:17] ADS value: 0.00, Ver: 106
+[2026-07-05 08:56:24] ADS value: 0.00, Ver: 106
+[2026-07-05 08:56:54] ADS value: 0.00, Ver: 106
+[2026-07-05 08:57:25] ADS value: 0.00, Ver: 106
+[2026-07-05 08:57:56] ADS value: 0.00, Ver: 106
+[2026-07-05 08:58:27] ADS value: 0.00, Ver: 106
+[2026-07-05 08:58:58] ADS value: 0.00, Ver: 106
+[2026-07-05 08:59:29] ADS value: 0.00, Ver: 106
+[2026-07-05 09:00:00] ADS value: 0.00, Ver: 106
+[2026-07-05 09:00:30] ADS value: 0.00, Ver: 106
+[2026-07-05 09:01:37] ADS value: 0.00, Ver: 106
+[2026-07-05 09:02:07] ADS value: 0.00, Ver: 106
+[2026-07-05 09:02:38] ADS value: 0.00, Ver: 106
+[2026-07-05 09:03:09] ADS value: 0.00, Ver: 106
+[2026-07-05 09:03:40] ADS value: 0.00, Ver: 106
+[2026-07-05 09:04:10] ADS value: 0.00, Ver: 106
+[2026-07-05 09:04:41] ADS value: 0.00, Ver: 106
+[2026-07-05 09:05:12] ADS value: 0.00, Ver: 106
+[2026-07-05 09:05:42] ADS value: 0.00, Ver: 106
+[2026-07-05 09:06:13] ADS value: 0.00, Ver: 106
+[2026-07-05 09:06:43] ADS value: 0.00, Ver: 106
+[2026-07-05 09:07:14] ADS value: 0.00, Ver: 106
+[2026-07-05 09:07:45] ADS value: 0.00, Ver: 106
+[2026-07-05 09:08:16] ADS value: 0.00, Ver: 106
+[2026-07-05 09:09:21] ADS value: 0.00, Ver: 106
+[2026-07-05 09:09:52] ADS value: 0.00, Ver: 106
+[2026-07-09 07:26:04] Boot complete
+[2026-07-09 07:26:06] running_opposite
+[2026-07-09 07:27:35] ADS value: 0.00, Ver: 106
+[2026-07-09 07:27:41] running_front
+[2026-07-09 07:28:56] Boot complete
+[2026-07-09 07:29:05] ADS value: 0.00, Ver: 106
+[2026-07-09 07:29:36] ADS value: 0.00, Ver: 106
+[2026-07-09 07:30:08] ADS value: 0.00, Ver: 106
+[2026-07-09 07:30:39] ADS value: 0.00, Ver: 106
+[2026-07-09 07:31:45] ADS value: 0.00, Ver: 106
+[2026-07-09 07:32:52] ADS value: 0.00, Ver: 106
+[2026-07-09 07:33:23] ADS value: 0.00, Ver: 106
+[2026-07-09 07:33:54] ADS value: 0.00, Ver: 106
+[2026-07-09 07:34:30] ADS value: 0.00, Ver: 106
+[2026-07-09 07:35:01] ADS value: 0.00, Ver: 106
+[2026-07-09 07:35:32] ADS value: 0.00, Ver: 106
+[2026-07-09 07:36:39] ADS value: 0.00, Ver: 106
+[2026-07-09 07:37:10] ADS value: 0.00, Ver: 106
+[2026-07-09 07:37:41] ADS value: 0.00, Ver: 106
+[2026-07-09 07:38:13] ADS value: 0.00, Ver: 106
+[2026-07-09 07:38:44] ADS value: 0.00, Ver: 106
+[2026-07-09 07:39:15] ADS value: 0.00, Ver: 106
+[2026-07-09 07:39:46] ADS value: 0.00, Ver: 106
+[2026-07-09 07:40:18] ADS value: 0.00, Ver: 106
+[2026-07-09 07:40:52] ADS value: 0.00, Ver: 106
+[2026-07-09 07:42:01] ADS value: 0.00, Ver: 106
+[2026-07-09 07:42:32] ADS value: 0.00, Ver: 106
+[2026-07-09 07:43:06] ADS value: 0.00, Ver: 106
+[2026-07-09 07:43:37] ADS value: 0.00, Ver: 106
+[2026-07-09 07:44:09] ADS value: 0.00, Ver: 106
+[2026-07-09 07:45:57] ADS value: 0.00, Ver: 106
+[2026-07-09 07:46:29] ADS value: 0.00, Ver: 106
+[2026-07-09 07:47:00] ADS value: 0.00, Ver: 106
+[2026-07-09 07:47:31] ADS value: 0.00, Ver: 106
+[2026-07-09 07:48:02] ADS value: 0.00, Ver: 106
+[2026-07-09 07:48:34] ADS value: 0.00, Ver: 106
+[2026-07-09 07:49:05] ADS value: 0.00, Ver: 106
+[2026-07-09 07:49:36] ADS value: 0.00, Ver: 106
+[2026-07-09 07:50:42] ADS value: 0.00, Ver: 106
+[2026-07-09 07:51:23] ADS value: 0.00, Ver: 106
+[2026-07-09 07:51:46] ADS value: 0.00, Ver: 106
+[2026-07-09 07:52:16] ADS value: 0.00, Ver: 106
+[2026-07-09 07:52:48] ADS value: 0.00, Ver: 106
+[2026-07-09 07:53:28] ADS value: 0.00, Ver: 106
+[2026-07-09 07:53:55] ADS value: 0.00, Ver: 106
+[2026-07-09 07:54:23] ADS value: 0.00, Ver: 106
+[2026-07-09 07:54:55] ADS value: 0.00, Ver: 106
+[2026-07-09 07:55:26] ADS value: 0.00, Ver: 106
+[2026-07-09 07:55:58] ADS value: 0.00, Ver: 106
+[2026-07-09 07:56:29] ADS value: 0.00, Ver: 106
+[2026-07-09 07:57:00] ADS value: 0.00, Ver: 106
+[2026-07-09 07:57:32] ADS value: 0.00, Ver: 106
+[2026-07-09 07:58:04] ADS value: 0.00, Ver: 106
+[2026-07-09 07:58:35] ADS value: 0.00, Ver: 106
+[2026-07-09 08:01:55] ADS value: 0.00, Ver: 106
+[2026-07-09 08:02:06] ADS value: 0.00, Ver: 106
+[2026-07-09 08:02:41] ADS value: 0.00, Ver: 106
+[2026-07-09 08:03:12] ADS value: 0.00, Ver: 106
+[2026-07-09 08:03:44] ADS value: 0.00, Ver: 106
+[2026-07-09 08:04:15] ADS value: 0.00, Ver: 106
+[2026-07-09 08:04:46] ADS value: 0.00, Ver: 106
+[2026-07-09 08:05:17] ADS value: 0.00, Ver: 106
+[2026-07-09 08:05:49] ADS value: 0.00, Ver: 106
+[2026-07-09 08:06:24] ADS value: 0.00, Ver: 106
+[2026-07-09 08:06:56] ADS value: 0.00, Ver: 106
+[2026-07-09 08:07:27] ADS value: 0.00, Ver: 106
+[2026-07-09 08:07:58] ADS value: 0.00, Ver: 106
+[2026-07-09 08:08:30] ADS value: 0.00, Ver: 106
+[2026-07-09 08:09:01] ADS value: 0.00, Ver: 106
