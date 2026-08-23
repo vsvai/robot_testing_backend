@@ -32,9 +32,9 @@ def create_app() -> FastAPI:
     )
 
     app.include_router(robot.router)
-    app.include_router(logs.router)
+    app.include_router(telemetry.router)
     app.include_router(camera.router)
     app.include_router(ota.router)
-    app.include_router(telemetry.router)
+    app.include_router(logs.router)
 
     return app

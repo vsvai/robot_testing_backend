@@ -31,6 +31,10 @@ def list_macs() -> list[str]:
     return sorted(files)
 
 
+def log_path(mac: str) -> Path:
+    return _mac_filename(mac)
+
+
 def read_log(mac: str, limit: int = 50) -> list[str]:
     logfile = _mac_filename(mac)
     if not logfile.exists():

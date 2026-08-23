@@ -34,8 +34,8 @@ class Telemetry(BaseModel):
     state: str
     battery_v: Optional[float] = None
     version: Optional[str] = None
-    total_runs: Optional[int] = None
-    last_run_cmd: Optional[str] = None
+    total_runs: int = 0
+    last_run_ts: Optional[datetime] = None
 
 
 class LogEntry(BaseModel):
