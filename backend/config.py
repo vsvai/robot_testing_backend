@@ -14,6 +14,9 @@ IMAGE_FILENAME = "latest_image.jpg"
 BASE_DIR = Path(__file__).resolve().parent
 LOG_DIR = Path("/home/ubuntu/ota_stuff/logs")
 FIRMWARE_DIR = BASE_DIR / "firmware"
+TELEMETRY_STORE_FILE = BASE_DIR / "telemetry_store.json"
+
+DEFAULT_LOW_LIMIT_V = 22.0
 
 CORS_ORIGINS = ["*"]
 CORS_METHODS = ["*"]

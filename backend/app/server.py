@@ -6,7 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from config import CORS_ORIGINS, CORS_METHODS, CORS_HEADERS
 from app.services.udp_client import start_udp_listener
 from app.services.camera_listener import start_camera_listener
-from app.routers import robot, logs, camera, ota
+from app.routers import robot, logs, camera, ota, telemetry
 
 
 @asynccontextmanager
@@ -35,5 +35,6 @@ def create_app() -> FastAPI:
     app.include_router(logs.router)
     app.include_router(camera.router)
     app.include_router(ota.router)
+    app.include_router(telemetry.router)
 
     return app
