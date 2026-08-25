@@ -28,7 +28,7 @@ def get_position():
     pos = rtk_service.position
     if pos is None:
         return PlainTextResponse("No position data available", status_code=404)
-    return pos.model_dump()
+    return pos.dict()
 
 
 @router.get("/rtk/status")
@@ -88,7 +88,7 @@ def get_rtcm():
 @router.post("/{mac}/log")
 def post_rover_log(mac: str, body: RoverLogBody):
     if body.type == "rtk_position":
-        pos = rtk_service.update_position_from_log(body.model_dump())
+        pos = rtk_service.update_position_from_log(body.dict())
         print(f"[RTK] Position from rover {mac}: {pos.lat:.6f}, {pos.lon:.6f} ({pos.fix_quality})")
         return {"ack": True}
     return PlainTextResponse(f"Unknown log type: {body.type}", status_code=400)
