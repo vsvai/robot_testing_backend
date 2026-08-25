@@ -1,5 +1,5 @@
-from fastapi import APIRouter
-from fastapi.responses import PlainTextResponse
+from fastapi import APIRouter, Request
+from fastapi.responses import PlainTextResponse, Response
 from pydantic import BaseModel
 
 from app.models import RTKPosition, RTKStatus
@@ -11,6 +11,16 @@ router = APIRouter(tags=["rtk"])
 
 class ConnectRequest(BaseModel):
     rover_ip: str
+
+
+class RoverLogBody(BaseModel):
+    type: str
+    lat: float
+    lon: float
+    alt: float
+    fix: int
+    sat: int
+    hdop: float
 
 
 @router.get("/rtk/position")
@@ -55,3 +65,30 @@ def get_network_info() -> dict:
         "tcp_port": 4230,
         "udp_port": 4220,
     }
+
+
+@router.post("/rtk/rtcm")
+async def post_rtcm(request: Request):
+    body = await request.body()
+    if not body:
+        return PlainTextResponse("Empty body", status_code=400)
+    rtk_service.store_rtcm(body)
+    print(f"[RTK] RTCM stored: {len(body)} bytes")
+    return PlainTextResponse("OK")
+
+
+@router.get("/rtk/rtcm")
+def get_rtcm():
+    data = rtk_service.rtcm_data
+    if data is None:
+        return Response(status_code=204)
+    return Response(content=data, media_type="application/octet-stream")
+
+
+@router.post("/{mac}/log")
+def post_rover_log(mac: str, body: RoverLogBody):
+    if body.type == "rtk_position":
+        pos = rtk_service.update_position_from_log(body.model_dump())
+        print(f"[RTK] Position from rover {mac}: {pos.lat:.6f}, {pos.lon:.6f} ({pos.fix_quality})")
+        return {"ack": True}
+    return PlainTextResponse(f"Unknown log type: {body.type}", status_code=400)

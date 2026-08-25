@@ -24,6 +24,8 @@ class RTKService:
         self._position_count = 0
         self._udp_thread: Optional[threading.Thread] = None
         self._tcp_thread: Optional[threading.Thread] = None
+        self._rtcm_data: Optional[bytes] = None
+        self._rtcm_updated_at: Optional[datetime] = None
 
     @property
     def udp_active(self) -> bool:
@@ -45,6 +47,37 @@ class RTKService:
     @property
     def position_count(self) -> int:
         return self._position_count
+
+    @property
+    def rtcm_data(self) -> Optional[bytes]:
+        with self._lock:
+            return self._rtcm_data
+
+    @property
+    def rtcm_updated_at(self) -> Optional[datetime]:
+        with self._lock:
+            return self._rtcm_updated_at
+
+    def store_rtcm(self, data: bytes):
+        with self._lock:
+            self._rtcm_data = data
+            self._rtcm_updated_at = datetime.now()
+
+    def update_position_from_log(self, msg: dict) -> Optional[RTKPosition]:
+        fix_value = msg.get("fix", 0)
+        fix_quality = RTK_FIX_QUALITY.get(fix_value, f"UNKNOWN ({fix_value})")
+        pos = RTKPosition(
+            lat=msg.get("lat", 0.0),
+            lon=msg.get("lon", 0.0),
+            alt=msg.get("alt", 0.0),
+            fix=fix_value,
+            sat=msg.get("sat", 0),
+            hdop=msg.get("hdop", 0.0),
+            fix_quality=fix_quality,
+            timestamp=datetime.now(),
+        )
+        self._update_position(pos)
+        return pos
 
     def _parse_position(self, data: str) -> Optional[RTKPosition]:
         try:
