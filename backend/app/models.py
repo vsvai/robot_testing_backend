@@ -71,3 +71,22 @@ class TelemetryRecord(BaseModel):
 
 class LowLimitSetting(BaseModel):
     low_limit: float
+
+
+class RTKPosition(BaseModel):
+    lat: float
+    lon: float
+    alt: float
+    fix: int
+    sat: int
+    hdop: float
+    fix_quality: str
+    timestamp: datetime
+
+
+class RTKStatus(BaseModel):
+    udp_active: bool
+    tcp_connected: bool
+    tcp_rover_ip: Optional[str] = None
+    last_update: Optional[datetime] = None
+    position_count: int = 0

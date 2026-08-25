@@ -21,3 +21,22 @@ DEFAULT_LOW_LIMIT_V = 22.0
 CORS_ORIGINS = ["*"]
 CORS_METHODS = ["*"]
 CORS_HEADERS = ["*"]
+
+# RTK Rover Configuration
+RTK_UDP_PORT = 4220
+RTK_TCP_PORT = 4230
+RTK_RECV_BUFFER = 1024
+
+# Rover Network Settings
+ROVER_BASE_AP_SSID = "X20P_RTK_BASE"
+ROVER_BASE_AP_PASSWORD = "12345678"
+ROVER_BASE_IP = "192.168.4.1"
+
+# RTK Fix Quality Mapping
+RTK_FIX_QUALITY = {
+    0: "NO FIX",
+    1: "GNSS only",
+    2: "DGPS",
+    4: "RTK FIXED",
+    5: "RTK FLOAT",
+}
