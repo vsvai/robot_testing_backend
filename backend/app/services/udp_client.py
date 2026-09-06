@@ -4,6 +4,7 @@ from datetime import datetime
 
 from config import ROBOT_UDP_PORT
 from app.services.robot_state import robot_registry
+from app.services.log_store import append_log
 
 
 def get_time() -> str:
@@ -28,6 +29,13 @@ def listen_udp():
                 mac = norm_mac(msg.split(":")[1])
                 robot_registry.update_udp_addr(mac, addr)
                 print(f"[{get_time()}] [UDP] Hole punch mapped {mac} at {addr[0]}:{addr[1]}")
+            elif msg.startswith("LOG:"):
+                parts = msg.split(":", 2)
+                if len(parts) == 3:
+                    mac = norm_mac(parts[1])
+                    robot_registry.update_udp_addr(mac, addr)
+                    append_log(mac, parts[2])
+                    print(f"[{get_time()}] [UDP] Log from {mac}: {parts[2]}")
         except Exception:
             pass
 
