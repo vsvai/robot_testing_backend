@@ -6,6 +6,7 @@ from fastapi.responses import PlainTextResponse
 
 from app.models import MacFilterRequest, MacListResponse
 from app.services.log_store import append_log, list_macs, read_log
+from app.services.robot_state import robot_registry
 
 router = APIRouter(tags=["logs"])
 
@@ -14,13 +15,18 @@ MAC_PATH_PATTERN = re.compile(r"^/([0-9A-F]{12})/log$", re.IGNORECASE)
 
 @router.post("/macs")
 def filter_macs(body: MacFilterRequest) -> MacListResponse:
-    macs = list_macs()
-    return MacListResponse(mac_ids=macs)
+    return MacListResponse(mac_ids=_all_registered_macs())
 
 
 @router.get("/macs")
 def get_macs() -> MacListResponse:
-    return MacListResponse(mac_ids=list_macs())
+    return MacListResponse(mac_ids=_all_registered_macs())
+
+
+def _all_registered_macs() -> list[str]:
+    log_macs = set(list_macs())
+    live_macs = {d.mac for d in robot_registry.all()}
+    return sorted(log_macs | live_macs)
 
 
 @router.get("/view/{mac_id}")
