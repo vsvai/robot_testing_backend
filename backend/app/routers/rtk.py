@@ -3,6 +3,7 @@ from fastapi.responses import PlainTextResponse, Response
 from pydantic import BaseModel
 
 from app.models import RTKPosition, RTKStatus
+from app.services.log_store import append_log
 from app.services.rtk_service import rtk_service
 
 
@@ -11,16 +12,6 @@ router = APIRouter(tags=["rtk"])
 
 class ConnectRequest(BaseModel):
     rover_ip: str
-
-
-class RoverLogBody(BaseModel):
-    type: str
-    lat: float
-    lon: float
-    alt: float
-    fix: int
-    sat: int
-    hdop: float
 
 
 @router.get("/rtk/position")
@@ -86,9 +77,18 @@ def get_rtcm():
 
 
 @router.post("/{mac}/log")
-def post_rover_log(mac: str, body: RoverLogBody):
-    if body.type == "rtk_position":
-        pos = rtk_service.update_position_from_log(body.dict())
+async def post_rover_log(mac: str, request: Request):
+    try:
+        body = await request.json()
+    except Exception:
+        return PlainTextResponse("Bad Request", status_code=400)
+
+    if body.get("type") == "rtk_position":
+        pos = rtk_service.update_position_from_log(body)
         print(f"[RTK] Position from rover {mac}: {pos.lat:.6f}, {pos.lon:.6f} ({pos.fix_quality})")
         return {"ack": True}
-    return PlainTextResponse(f"Unknown log type: {body.type}", status_code=400)
+
+    message = body.get("log", "")
+    append_log(mac, message)
+    print(f"{mac} {message}")
+    return PlainTextResponse("OK")
