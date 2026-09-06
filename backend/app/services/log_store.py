@@ -38,7 +38,7 @@ def log_path(mac: str) -> Path:
 def read_log(mac: str, limit: int = 50) -> list[str]:
     logfile = _mac_filename(mac)
     if not logfile.exists():
-        return [f"Error: Log file for {mac} not found.\n"]
+        return []
     try:
         with open(logfile, "r", encoding="utf-8", errors="ignore") as f:
             lines = f.readlines()

@@ -40,7 +40,7 @@ def view_specific_log(mac_id: str, limit: int = Query(50)):
     file_path = LOG_DIR / f"{mac_id}.log"
     
     if not file_path.exists():
-        return StreamingResponse(iter([f"Error: Log file for {mac_id} not found.\n"]), media_type="text/plain")
+        return StreamingResponse(iter([]), media_type="text/plain")
 
     def stream_logs():
         try:
