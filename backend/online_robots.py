@@ -5,8 +5,12 @@ Run on the backend server from the `backend/` directory:
 
     venv/bin/python online_robots.py
     venv/bin/python online_robots.py --minutes 10
-    venv/bin/python online_robots.py --hours 24
+    venv/bin/python online_robots.py --hours 6
     venv/bin/python online_robots.py --watch --interval 30
+
+The default window is 24 hours. Results are sorted with the most recently
+active robot at the top.
+
 
 "Online" means telemetry was pushed or a log line was received within the
 window. Voltage comes from the telemetry store when available, otherwise the
@@ -211,8 +215,8 @@ def render(rows: list[dict], minutes: float) -> str:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="List recently online robots")
-    parser.add_argument("--minutes", type=float, default=None, help="time window in minutes (default 10)")
-    parser.add_argument("--hours", type=float, default=None, help="time window in hours, e.g. 24 for 1 day")
+    parser.add_argument("--minutes", type=float, default=None, help="time window in minutes")
+    parser.add_argument("--hours", type=float, default=None, help="time window in hours (default 24)")
     parser.add_argument("--watch", action="store_true", help="refresh continuously")
     parser.add_argument("--interval", type=float, default=30, help="refresh seconds (default 30)")
     parser.add_argument("--log-file", help="also append each snapshot to this file")
@@ -223,7 +227,7 @@ def main() -> int:
     elif args.minutes is not None:
         window = args.minutes
     else:
-        window = 10
+        window = 1440
 
     try:
         while True:
