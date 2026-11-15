@@ -5,6 +5,7 @@ from datetime import datetime
 from config import ROBOT_UDP_PORT
 from app.services.robot_state import robot_registry
 from app.services.log_store import append_log
+from app.services.heartbeat import touch_heartbeat
 
 
 def get_time() -> str:
@@ -24,6 +25,7 @@ def listen_udp():
     while True:
         try:
             data, addr = udp_sock.recvfrom(1024)
+            touch_heartbeat()
             msg = data.decode("utf-8").strip()
             if msg.startswith("PING:"):
                 mac = norm_mac(msg.split(":")[1])

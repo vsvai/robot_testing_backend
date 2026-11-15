@@ -16,6 +16,12 @@ LOG_DIR = BASE_DIR / "logs"
 FIRMWARE_DIR = BASE_DIR / "firmware"
 TELEMETRY_STORE_FILE = BASE_DIR / "telemetry_store.json"
 
+# Watchdog / health
+HEARTBEAT_FILE = BASE_DIR / ".server_heartbeat"
+LIVENESS_FILE = BASE_DIR / ".server_liveness"
+ACTIVITY_TIMEOUT_SEC = 120
+LIVENESS_TIMEOUT_SEC = 60
+
 DEFAULT_LOW_LIMIT_V = 22.0
 
 CORS_ORIGINS = ["*"]

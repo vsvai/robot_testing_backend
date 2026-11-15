@@ -7,6 +7,7 @@ from fastapi.responses import PlainTextResponse
 from app.models import MacFilterRequest, MacListResponse
 from app.services.log_store import append_log, list_macs, read_log
 from app.services.robot_state import robot_registry
+from app.services.heartbeat import touch_heartbeat
 
 router = APIRouter(tags=["logs"])
 
@@ -37,6 +38,7 @@ def view_log(mac_id: str, limit: int = Query(50)):
 
 @router.api_route("/{path:path}", methods=["POST"])
 async def receive_log(request: Request, path: str):
+    touch_heartbeat()
     match = MAC_PATH_PATTERN.match(f"/{path}")
     if not match:
         return PlainTextResponse("Not Found", status_code=404)

@@ -7,11 +7,13 @@ from config import CORS_ORIGINS, CORS_METHODS, CORS_HEADERS
 from app.services.udp_client import start_udp_listener
 from app.services.camera_listener import start_camera_listener
 from app.services.rtk_service import rtk_service
+from app.services.heartbeat import start_liveness_heartbeat
 from app.routers import robot, logs, camera, ota, telemetry, rtk
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
+    start_liveness_heartbeat()
     start_udp_listener()
     start_camera_listener()
     rtk_service.start_udp_listener()

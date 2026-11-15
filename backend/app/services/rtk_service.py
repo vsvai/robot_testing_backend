@@ -6,6 +6,7 @@ from typing import Optional
 
 from config import RTK_UDP_PORT, RTK_TCP_PORT, RTK_RECV_BUFFER, RTK_FIX_QUALITY
 from app.models import RTKPosition
+from app.services.heartbeat import touch_heartbeat
 
 
 def get_time() -> str:
@@ -103,6 +104,7 @@ class RTKService:
         with self._lock:
             self._position = pos
             self._position_count += 1
+        touch_heartbeat()
 
     def _udp_listener(self):
         try:

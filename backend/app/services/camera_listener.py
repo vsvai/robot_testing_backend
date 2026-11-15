@@ -9,6 +9,7 @@ from datetime import datetime
 from PIL import Image
 
 from config import CAMERA_UDP_PORT, IMAGE_FILENAME, CAMERA_RECV_BUFFER
+from app.services.heartbeat import touch_heartbeat
 
 
 def get_time() -> str:
@@ -28,6 +29,7 @@ def listen_camera():
     while True:
         try:
             data, addr = cam_sock.recvfrom(CAMERA_RECV_BUFFER)
+            touch_heartbeat()
             if len(data) < 6:
                 continue
 

@@ -6,6 +6,7 @@ from typing import Optional
 
 from config import DEFAULT_LOW_LIMIT_V, TELEMETRY_STORE_FILE
 from app.models import StatusLamp, TelemetryUpdate
+from app.services.heartbeat import touch_heartbeat
 
 
 def norm_mac(s: str) -> str:
@@ -57,6 +58,7 @@ class TelemetryStore:
         return out
 
     def update(self, mac: str, payload: TelemetryUpdate) -> dict:
+        touch_heartbeat()
         key = norm_mac(mac)
         now_iso = datetime.now().isoformat()
         with self._lock:
