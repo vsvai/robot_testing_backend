@@ -5,6 +5,7 @@ Run on the backend server from the `backend/` directory:
 
     venv/bin/python online_robots.py
     venv/bin/python online_robots.py --minutes 10
+    venv/bin/python online_robots.py --hours 24
     venv/bin/python online_robots.py --watch --interval 30
 
 "Online" means telemetry was pushed or a log line was received within the
@@ -25,6 +26,7 @@ from config import LOG_DIR, TELEMETRY_STORE_FILE
 BATTERY_PATTERN = re.compile(
     r"\bbattery(?:_v)?\s*[:=]\s*([0-9]+(?:\.[0-9]+)?)", re.IGNORECASE
 )
+BATTERY_FIELD_PATTERN = re.compile(r"\bB\s*[:=]\s*([0-9]+(?:\.[0-9]+)?)")
 ADS_PATTERN = re.compile(r"\bADS value\s*[:=]\s*([0-9]+(?:\.[0-9]+)?)", re.IGNORECASE)
 VOLTAGE_PATTERN = re.compile(r"\bvoltage\s*[:=]\s*([0-9]+(?:\.[0-9]+)?)", re.IGNORECASE)
 STATE_PATTERN = re.compile(r"\bstate\s*[:=]\s*([A-Za-z_]+)", re.IGNORECASE)
@@ -76,7 +78,7 @@ def parse_from_log(path: Path) -> tuple[float | None, str | None]:
         if not line:
             continue
         if battery is None:
-            m = BATTERY_PATTERN.search(line)
+            m = BATTERY_PATTERN.search(line) or BATTERY_FIELD_PATTERN.search(line)
             if m:
                 battery = _positive(m.group(1))
         if voltage is None:
@@ -170,9 +172,18 @@ def format_age(seen: datetime) -> str:
     return f"{hours}h{minutes:02d}m"
 
 
+def format_window(minutes: float) -> str:
+    if minutes >= 1440 and minutes % 1440 == 0:
+        days = minutes / 1440
+        return f"{days:g} day" + ("" if days == 1 else "s")
+    if minutes >= 60 and minutes % 60 == 0:
+        return f"{minutes / 60:g} h"
+    return f"{minutes:g} min"
+
+
 def render(rows: list[dict], minutes: float) -> str:
     out = [
-        f"Online robots in last {minutes:g} min "
+        f"Online robots in last {format_window(minutes)} "
         f"(server time {datetime.now().strftime('%Y-%m-%d %H:%M:%S')})",
         "",
     ]
@@ -200,15 +211,23 @@ def render(rows: list[dict], minutes: float) -> str:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="List recently online robots")
-    parser.add_argument("--minutes", type=float, default=10, help="time window (default 10)")
+    parser.add_argument("--minutes", type=float, default=None, help="time window in minutes (default 10)")
+    parser.add_argument("--hours", type=float, default=None, help="time window in hours, e.g. 24 for 1 day")
     parser.add_argument("--watch", action="store_true", help="refresh continuously")
     parser.add_argument("--interval", type=float, default=30, help="refresh seconds (default 30)")
     parser.add_argument("--log-file", help="also append each snapshot to this file")
     args = parser.parse_args()
 
+    if args.hours is not None:
+        window = args.hours * 60
+    elif args.minutes is not None:
+        window = args.minutes
+    else:
+        window = 10
+
     try:
         while True:
-            text = render(collect(args.minutes), args.minutes)
+            text = render(collect(window), window)
             if args.watch:
                 print("\033[2J\033[H", end="")
             print(text, flush=True)

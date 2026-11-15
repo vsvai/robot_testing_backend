@@ -9,6 +9,7 @@ from app.services.log_store import log_path
 LINE_PATTERN = re.compile(r"^\[(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})\]\s*(.*)$")
 STATE_PATTERN = re.compile(r"\bstate\s*[:=]\s*([A-Za-z_]+)", re.IGNORECASE)
 BATTERY_PATTERN = re.compile(r"\bbattery(?:_v)?\s*[:=]\s*([0-9]+(?:\.[0-9]+)?)", re.IGNORECASE)
+BATTERY_FIELD_PATTERN = re.compile(r"\bB\s*[:=]\s*([0-9]+(?:\.[0-9]+)?)")
 VERSION_PATTERN = re.compile(r"\bver(?:sion)?\s*[:=]\s*(v?[0-9][\w.]*)", re.IGNORECASE)
 RUN_START_PATTERN = re.compile(r"start command received", re.IGNORECASE)
 RUN_STOP_PATTERN = re.compile(
@@ -57,7 +58,7 @@ def telemetry_from_log_file(mac: str, path: Optional[Path] = None) -> Telemetry:
         if sm and state_tag is None:
             state_tag = sm.group(1).lower()
 
-        bm = BATTERY_PATTERN.search(msg)
+        bm = BATTERY_PATTERN.search(msg) or BATTERY_FIELD_PATTERN.search(msg)
         if bm and battery_v is None:
             try:
                 battery_v = float(bm.group(1))
